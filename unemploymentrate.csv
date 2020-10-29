@@ -1,0 +1,5475 @@
+,Country,Year,Value
+1,Albania,1980,5
+2,Algeria,1980,15.8
+3,Argentina,1980,3
+4,Armenia,1980,no data
+5,Aruba,1980,no data
+6,Australia,1980,6.1
+7,Austria,1980,1.6
+8,Azerbaijan,1980,no data
+9,"Bahamas, The",1980,no data
+10,Bahrain,1980,no data
+11,Barbados,1980,no data
+12,Belarus,1980,no data
+13,Belgium,1980,8.3
+14,Belize,1980,no data
+15,Bhutan,1980,no data
+16,Bolivia,1980,no data
+17,Bosnia and Herzegovina,1980,no data
+18,Brazil,1980,no data
+19,Brunei Darussalam,1980,no data
+20,Bulgaria,1980,no data
+21,Cabo Verde,1980,21.5
+22,Canada,1980,7.5
+23,Chile,1980,11.5
+24,"China, People's Republic of",1980,4.9
+25,Colombia,1980,5.4
+26,Costa Rica,1980,5.9
+27,Croatia,1980,no data
+28,Cyprus,1980,no data
+29,Czech Republic,1980,no data
+30,Denmark,1980,5.3
+31,Dominican Republic,1980,no data
+32,Ecuador,1980,no data
+33,Egypt,1980,no data
+34,El Salvador,1980,no data
+35,Estonia,1980,no data
+36,Fiji,1980,no data
+37,Finland,1980,5.3
+38,France,1980,6.3
+39,Georgia,1980,no data
+40,Germany,1980,3.4
+41,Greece,1980,2.7
+42,Honduras,1980,6.9
+43,Hong Kong SAR,1980,3.8
+44,Hungary,1980,0.6
+45,Iceland,1980,0.3
+46,Indonesia,1980,no data
+47,Iran,1980,no data
+48,Ireland,1980,no data
+49,Israel,1980,4.8
+50,Italy,1980,7.4
+51,Jamaica,1980,27.3
+52,Japan,1980,2
+53,Jordan,1980,no data
+54,Kazakhstan,1980,no data
+55,"Korea, Republic of",1980,5.2
+56,Kosovo,1980,no data
+57,Kuwait,1980,no data
+58,Kyrgyz Republic,1980,no data
+59,Latvia,1980,no data
+60,Lithuania,1980,no data
+61,Luxembourg,1980,0.7
+62,Macao SAR,1980,no data
+63,Malaysia,1980,no data
+64,Malta,1980,no data
+65,Mauritius,1980,no data
+66,Mexico,1980,1.2
+67,Moldova,1980,no data
+68,Mongolia,1980,no data
+69,Morocco,1980,no data
+70,Netherlands,1980,3.4
+71,New Zealand,1980,4
+72,Nicaragua,1980,13.4
+73,Nigeria,1980,no data
+74,North Macedonia ,1980,no data
+75,Norway,1980,1.6
+76,Pakistan,1980,no data
+77,Panama,1980,8.4
+78,Paraguay,1980,no data
+79,Peru,1980,7.3
+80,Philippines,1980,no data
+81,Poland,1980,no data
+82,Portugal,1980,7.8
+83,Puerto Rico,1980,17.1
+84,Romania,1980,no data
+85,Russian Federation,1980,no data
+86,San Marino,1980,no data
+87,Saudi Arabia,1980,no data
+88,Serbia,1980,no data
+89,Seychelles,1980,no data
+90,Singapore,1980,5.8
+91,Slovak Republic,1980,no data
+92,Slovenia,1980,no data
+93,South Africa,1980,9.2
+94,Spain,1980,11
+95,Sri Lanka,1980,no data
+96,Sudan,1980,no data
+97,Suriname,1980,no data
+98,Sweden,1980,2.7
+99,Switzerland,1980,0.2
+100,Syria,1980,no data
+101,São Tomé and Príncipe,1980,13.6
+102,Taiwan Province of China,1980,1.2
+103,Tajikistan,1980,no data
+104,Thailand,1980,no data
+105,Trinidad and Tobago,1980,no data
+106,Tunisia,1980,no data
+107,Turkey,1980,7.2
+108,Ukraine,1980,no data
+109,United Kingdom,1980,7.1
+110,United States,1980,7.2
+111,Uruguay,1980,no data
+112,Venezuela,1980,no data
+113,Vietnam,1980,no data
+114,West Bank and Gaza,1980,no data
+115,Advanced economies,1980,5.6
+116,Euro area,1980,no data
+117,Major advanced economies (G7),1980,5.6
+118,Other advanced economies,1980,4.2
+119,"©IMF, 2020",1980,
+120,Albania,1981,4.2
+121,Algeria,1981,15.4
+122,Argentina,1981,5
+123,Armenia,1981,no data
+124,Aruba,1981,no data
+125,Australia,1981,5.8
+126,Austria,1981,2.2
+127,Azerbaijan,1981,no data
+128,"Bahamas, The",1981,no data
+129,Bahrain,1981,no data
+130,Barbados,1981,10.8
+131,Belarus,1981,no data
+132,Belgium,1981,10
+133,Belize,1981,no data
+134,Bhutan,1981,no data
+135,Bolivia,1981,no data
+136,Bosnia and Herzegovina,1981,no data
+137,Brazil,1981,no data
+138,Brunei Darussalam,1981,no data
+139,Bulgaria,1981,no data
+140,Cabo Verde,1981,21.9
+141,Canada,1981,7.6
+142,Chile,1981,10.3
+143,"China, People's Republic of",1981,3.8
+144,Colombia,1981,6.6
+145,Costa Rica,1981,8.8
+146,Croatia,1981,no data
+147,Cyprus,1981,no data
+148,Czech Republic,1981,no data
+149,Denmark,1981,7.1
+150,Dominican Republic,1981,no data
+151,Ecuador,1981,no data
+152,Egypt,1981,no data
+153,El Salvador,1981,no data
+154,Estonia,1981,no data
+155,Fiji,1981,no data
+156,Finland,1981,5.7
+157,France,1981,7.4
+158,Georgia,1981,no data
+159,Germany,1981,4.8
+160,Greece,1981,4
+161,Honduras,1981,7
+162,Hong Kong SAR,1981,3.9
+163,Hungary,1981,0.2
+164,Iceland,1981,0.4
+165,Indonesia,1981,no data
+166,Iran,1981,no data
+167,Ireland,1981,no data
+168,Israel,1981,5.1
+169,Italy,1981,7.6
+170,Jamaica,1981,25.9
+171,Japan,1981,2.2
+172,Jordan,1981,no data
+173,Kazakhstan,1981,no data
+174,"Korea, Republic of",1981,4.5
+175,Kosovo,1981,no data
+176,Kuwait,1981,0.5
+177,Kyrgyz Republic,1981,no data
+178,Latvia,1981,no data
+179,Lithuania,1981,no data
+180,Luxembourg,1981,1
+181,Macao SAR,1981,no data
+182,Malaysia,1981,no data
+183,Malta,1981,no data
+184,Mauritius,1981,no data
+185,Mexico,1981,0.9
+186,Moldova,1981,no data
+187,Mongolia,1981,no data
+188,Morocco,1981,no data
+189,Netherlands,1981,4.6
+190,New Zealand,1981,3.9
+191,Nicaragua,1981,11.8
+192,Nigeria,1981,no data
+193,North Macedonia ,1981,no data
+194,Norway,1981,2
+195,Pakistan,1981,no data
+196,Panama,1981,9.2
+197,Paraguay,1981,no data
+198,Peru,1981,6.8
+199,Philippines,1981,no data
+200,Poland,1981,no data
+201,Portugal,1981,8.3
+202,Puerto Rico,1981,19.8
+203,Romania,1981,no data
+204,Russian Federation,1981,no data
+205,San Marino,1981,no data
+206,Saudi Arabia,1981,no data
+207,Serbia,1981,no data
+208,Seychelles,1981,no data
+209,Singapore,1981,5.9
+210,Slovak Republic,1981,no data
+211,Slovenia,1981,no data
+212,South Africa,1981,9.8
+213,Spain,1981,13.8
+214,Sri Lanka,1981,no data
+215,Sudan,1981,22.3
+216,Suriname,1981,no data
+217,Sweden,1981,3.4
+218,Switzerland,1981,0.2
+219,Syria,1981,no data
+220,São Tomé and Príncipe,1981,13.6
+221,Taiwan Province of China,1981,1.4
+222,Tajikistan,1981,no data
+223,Thailand,1981,no data
+224,Trinidad and Tobago,1981,10.4
+225,Tunisia,1981,no data
+226,Turkey,1981,7.2
+227,Ukraine,1981,no data
+228,United Kingdom,1981,9.7
+229,United States,1981,7.6
+230,Uruguay,1981,no data
+231,Venezuela,1981,no data
+232,Vietnam,1981,no data
+233,West Bank and Gaza,1981,no data
+234,Advanced economies,1981,6.3
+235,Euro area,1981,no data
+236,Major advanced economies (G7),1981,6.4
+237,Other advanced economies,1981,4.2
+238,"©IMF, 2020",1981,
+239,Albania,1982,2.8
+240,Algeria,1982,15
+241,Argentina,1982,4.5
+242,Armenia,1982,no data
+243,Aruba,1982,no data
+244,Australia,1982,7.2
+245,Austria,1982,3.1
+246,Azerbaijan,1982,no data
+247,"Bahamas, The",1982,no data
+248,Bahrain,1982,no data
+249,Barbados,1982,13.6
+250,Belarus,1982,no data
+251,Belgium,1982,11.5
+252,Belize,1982,no data
+253,Bhutan,1982,no data
+254,Bolivia,1982,no data
+255,Bosnia and Herzegovina,1982,no data
+256,Brazil,1982,no data
+257,Brunei Darussalam,1982,no data
+258,Bulgaria,1982,no data
+259,Cabo Verde,1982,22.2
+260,Canada,1982,11.1
+261,Chile,1982,19.8
+262,"China, People's Republic of",1982,3.2
+263,Colombia,1982,7.1
+264,Costa Rica,1982,9.4
+265,Croatia,1982,no data
+266,Cyprus,1982,2.8
+267,Czech Republic,1982,no data
+268,Denmark,1982,7.6
+269,Dominican Republic,1982,no data
+270,Ecuador,1982,no data
+271,Egypt,1982,no data
+272,El Salvador,1982,no data
+273,Estonia,1982,no data
+274,Fiji,1982,no data
+275,Finland,1982,6.1
+276,France,1982,8.1
+277,Georgia,1982,no data
+278,Germany,1982,6.7
+279,Greece,1982,5.8
+280,Honduras,1982,6.7
+281,Hong Kong SAR,1982,3.5
+282,Hungary,1982,0.2
+283,Iceland,1982,0.7
+284,Indonesia,1982,no data
+285,Iran,1982,no data
+286,Ireland,1982,no data
+287,Israel,1982,5
+288,Italy,1982,8.3
+289,Jamaica,1982,27.6
+290,Japan,1982,2.4
+291,Jordan,1982,no data
+292,Kazakhstan,1982,no data
+293,"Korea, Republic of",1982,4.1
+294,Kosovo,1982,no data
+295,Kuwait,1982,0.5
+296,Kyrgyz Republic,1982,no data
+297,Latvia,1982,no data
+298,Lithuania,1982,no data
+299,Luxembourg,1982,1.3
+300,Macao SAR,1982,no data
+301,Malaysia,1982,no data
+302,Malta,1982,no data
+303,Mauritius,1982,20.6
+304,Mexico,1982,4.2
+305,Moldova,1982,no data
+306,Mongolia,1982,no data
+307,Morocco,1982,no data
+308,Netherlands,1982,6.5
+309,New Zealand,1982,4.4
+310,Nicaragua,1982,12.4
+311,Nigeria,1982,no data
+312,North Macedonia ,1982,no data
+313,Norway,1982,2.6
+314,Pakistan,1982,no data
+315,Panama,1982,11
+316,Paraguay,1982,no data
+317,Peru,1982,6.4
+318,Philippines,1982,no data
+319,Poland,1982,no data
+320,Portugal,1982,7.5
+321,Puerto Rico,1982,22.8
+322,Romania,1982,no data
+323,Russian Federation,1982,no data
+324,San Marino,1982,no data
+325,Saudi Arabia,1982,no data
+326,Serbia,1982,no data
+327,Seychelles,1982,no data
+328,Singapore,1982,6.3
+329,Slovak Republic,1982,no data
+330,Slovenia,1982,no data
+331,South Africa,1982,10.8
+332,Spain,1982,15.8
+333,Sri Lanka,1982,no data
+334,Sudan,1982,22.2
+335,Suriname,1982,no data
+336,Sweden,1982,4.3
+337,Switzerland,1982,0.4
+338,Syria,1982,no data
+339,São Tomé and Príncipe,1982,13.6
+340,Taiwan Province of China,1982,2.1
+341,Tajikistan,1982,no data
+342,Thailand,1982,no data
+343,Trinidad and Tobago,1982,10.3
+344,Tunisia,1982,no data
+345,Turkey,1982,7.6
+346,Ukraine,1982,no data
+347,United Kingdom,1982,10.7
+348,United States,1982,9.7
+349,Uruguay,1982,no data
+350,Venezuela,1982,no data
+351,Vietnam,1982,no data
+352,West Bank and Gaza,1982,no data
+353,Advanced economies,1982,7.6
+354,Euro area,1982,no data
+355,Major advanced economies (G7),1982,7.8
+356,Other advanced economies,1982,4.6
+357,"©IMF, 2020",1982,
+358,Albania,1983,3.3
+359,Algeria,1983,14.3
+360,Argentina,1983,5
+361,Armenia,1983,no data
+362,Aruba,1983,no data
+363,Australia,1983,10
+364,Austria,1983,3.7
+365,Azerbaijan,1983,no data
+366,"Bahamas, The",1983,no data
+367,Bahrain,1983,no data
+368,Barbados,1983,14.9
+369,Belarus,1983,no data
+370,Belgium,1983,10.7
+371,Belize,1983,no data
+372,Bhutan,1983,no data
+373,Bolivia,1983,no data
+374,Bosnia and Herzegovina,1983,no data
+375,Brazil,1983,no data
+376,Brunei Darussalam,1983,no data
+377,Bulgaria,1983,no data
+378,Cabo Verde,1983,22.6
+379,Canada,1983,12
+380,Chile,1983,21
+381,"China, People's Republic of",1983,2.3
+382,Colombia,1983,8.7
+383,Costa Rica,1983,9.2
+384,Croatia,1983,no data
+385,Cyprus,1983,3.3
+386,Czech Republic,1983,no data
+387,Denmark,1983,8.4
+388,Dominican Republic,1983,no data
+389,Ecuador,1983,no data
+390,Egypt,1983,no data
+391,El Salvador,1983,no data
+392,Estonia,1983,no data
+393,Fiji,1983,no data
+394,Finland,1983,6.1
+395,France,1983,7.4
+396,Georgia,1983,no data
+397,Germany,1983,8.1
+398,Greece,1983,7.9
+399,Honduras,1983,6.5
+400,Hong Kong SAR,1983,4.3
+401,Hungary,1983,0.2
+402,Iceland,1983,1
+403,Indonesia,1983,no data
+404,Iran,1983,no data
+405,Ireland,1983,no data
+406,Israel,1983,4.6
+407,Italy,1983,7.4
+408,Jamaica,1983,26.4
+409,Japan,1983,2.7
+410,Jordan,1983,no data
+411,Kazakhstan,1983,no data
+412,"Korea, Republic of",1983,4.1
+413,Kosovo,1983,no data
+414,Kuwait,1983,0.5
+415,Kyrgyz Republic,1983,no data
+416,Latvia,1983,no data
+417,Lithuania,1983,no data
+418,Luxembourg,1983,1.6
+419,Macao SAR,1983,no data
+420,Malaysia,1983,no data
+421,Malta,1983,12.5
+422,Mauritius,1983,19.7
+423,Mexico,1983,6.1
+424,Moldova,1983,no data
+425,Mongolia,1983,no data
+426,Morocco,1983,no data
+427,Netherlands,1983,8.3
+428,New Zealand,1983,6.2
+429,Nicaragua,1983,11
+430,Nigeria,1983,no data
+431,North Macedonia ,1983,no data
+432,Norway,1983,3.4
+433,Pakistan,1983,3.9
+434,Panama,1983,11.6
+435,Paraguay,1983,8.3
+436,Peru,1983,9
+437,Philippines,1983,no data
+438,Poland,1983,no data
+439,Portugal,1983,7.9
+440,Puerto Rico,1983,23.4
+441,Romania,1983,no data
+442,Russian Federation,1983,no data
+443,San Marino,1983,no data
+444,Saudi Arabia,1983,no data
+445,Serbia,1983,no data
+446,Seychelles,1983,no data
+447,Singapore,1983,5.6
+448,Slovak Republic,1983,no data
+449,Slovenia,1983,no data
+450,South Africa,1983,12.5
+451,Spain,1983,17.2
+452,Sri Lanka,1983,no data
+453,Sudan,1983,21.4
+454,Suriname,1983,no data
+455,Sweden,1983,4.8
+456,Switzerland,1983,0.9
+457,Syria,1983,no data
+458,São Tomé and Príncipe,1983,13.6
+459,Taiwan Province of China,1983,2.7
+460,Tajikistan,1983,no data
+461,Thailand,1983,no data
+462,Trinidad and Tobago,1983,11.1
+463,Tunisia,1983,no data
+464,Turkey,1983,7.5
+465,Ukraine,1983,no data
+466,United Kingdom,1983,11.5
+467,United States,1983,9.6
+468,Uruguay,1983,14.5
+469,Venezuela,1983,no data
+470,Vietnam,1983,no data
+471,West Bank and Gaza,1983,no data
+472,Advanced economies,1983,7.9
+473,Euro area,1983,no data
+474,Major advanced economies (G7),1983,7.9
+475,Other advanced economies,1983,5.3
+476,"©IMF, 2020",1983,
+477,Albania,1984,4.4
+478,Algeria,1984,16.5
+479,Argentina,1984,5
+480,Armenia,1984,no data
+481,Aruba,1984,no data
+482,Australia,1984,9
+483,Austria,1984,3.8
+484,Azerbaijan,1984,no data
+485,"Bahamas, The",1984,no data
+486,Bahrain,1984,no data
+487,Barbados,1984,17
+488,Belarus,1984,no data
+489,Belgium,1984,10.8
+490,Belize,1984,no data
+491,Bhutan,1984,no data
+492,Bolivia,1984,no data
+493,Bosnia and Herzegovina,1984,no data
+494,Brazil,1984,no data
+495,Brunei Darussalam,1984,no data
+496,Bulgaria,1984,no data
+497,Cabo Verde,1984,23
+498,Canada,1984,11.4
+499,Chile,1984,17.5
+500,"China, People's Republic of",1984,1.9
+501,Colombia,1984,9
+502,Costa Rica,1984,5.4
+503,Croatia,1984,no data
+504,Cyprus,1984,3.3
+505,Czech Republic,1984,no data
+506,Denmark,1984,7.9
+507,Dominican Republic,1984,no data
+508,Ecuador,1984,no data
+509,Egypt,1984,no data
+510,El Salvador,1984,no data
+511,Estonia,1984,no data
+512,Fiji,1984,no data
+513,Finland,1984,5.9
+514,France,1984,8.5
+515,Georgia,1984,no data
+516,Germany,1984,8.1
+517,Greece,1984,8.1
+518,Honduras,1984,6.3
+519,Hong Kong SAR,1984,3.9
+520,Hungary,1984,0.1
+521,Iceland,1984,1.3
+522,Indonesia,1984,1.6
+523,Iran,1984,no data
+524,Ireland,1984,no data
+525,Israel,1984,5.9
+526,Italy,1984,7.8
+527,Jamaica,1984,25.5
+528,Japan,1984,2.7
+529,Jordan,1984,5.4
+530,Kazakhstan,1984,no data
+531,"Korea, Republic of",1984,3.9
+532,Kosovo,1984,no data
+533,Kuwait,1984,0.5
+534,Kyrgyz Republic,1984,no data
+535,Latvia,1984,no data
+536,Lithuania,1984,no data
+537,Luxembourg,1984,1.7
+538,Macao SAR,1984,no data
+539,Malaysia,1984,no data
+540,Malta,1984,12.5
+541,Mauritius,1984,17.6
+542,Mexico,1984,5.6
+543,Moldova,1984,no data
+544,Mongolia,1984,no data
+545,Morocco,1984,no data
+546,Netherlands,1984,8.1
+547,New Zealand,1984,7.2
+548,Nicaragua,1984,12
+549,Nigeria,1984,no data
+550,North Macedonia ,1984,no data
+551,Norway,1984,3.1
+552,Pakistan,1984,3.8
+553,Panama,1984,12.2
+554,Paraguay,1984,7.3
+555,Peru,1984,8.9
+556,Philippines,1984,no data
+557,Poland,1984,no data
+558,Portugal,1984,10.5
+559,Puerto Rico,1984,20.7
+560,Romania,1984,no data
+561,Russian Federation,1984,no data
+562,San Marino,1984,no data
+563,Saudi Arabia,1984,no data
+564,Serbia,1984,no data
+565,Seychelles,1984,no data
+566,Singapore,1984,6.1
+567,Slovak Republic,1984,no data
+568,Slovenia,1984,no data
+569,South Africa,1984,13.7
+570,Spain,1984,19.9
+571,Sri Lanka,1984,no data
+572,Sudan,1984,20.7
+573,Suriname,1984,no data
+574,Sweden,1984,4.2
+575,Switzerland,1984,1.1
+576,Syria,1984,no data
+577,São Tomé and Príncipe,1984,13.6
+578,Taiwan Province of China,1984,2.5
+579,Tajikistan,1984,no data
+580,Thailand,1984,no data
+581,Trinidad and Tobago,1984,13.4
+582,Tunisia,1984,no data
+583,Turkey,1984,7.4
+584,Ukraine,1984,no data
+585,United Kingdom,1984,11.8
+586,United States,1984,7.5
+587,Uruguay,1984,14
+588,Venezuela,1984,no data
+589,Vietnam,1984,no data
+590,West Bank and Gaza,1984,no data
+591,Advanced economies,1984,7.5
+592,Euro area,1984,no data
+593,Major advanced economies (G7),1984,7.3
+594,Other advanced economies,1984,5
+595,"©IMF, 2020",1984,
+596,Albania,1985,5.9
+597,Algeria,1985,16.9
+598,Argentina,1985,6.2
+599,Armenia,1985,no data
+600,Aruba,1985,no data
+601,Australia,1985,8.3
+602,Austria,1985,3.6
+603,Azerbaijan,1985,no data
+604,"Bahamas, The",1985,no data
+605,Bahrain,1985,no data
+606,Barbados,1985,18.6
+607,Belarus,1985,no data
+608,Belgium,1985,10.1
+609,Belize,1985,no data
+610,Bhutan,1985,no data
+611,Bolivia,1985,no data
+612,Bosnia and Herzegovina,1985,no data
+613,Brazil,1985,no data
+614,Brunei Darussalam,1985,no data
+615,Bulgaria,1985,no data
+616,Cabo Verde,1985,23.4
+617,Canada,1985,10.5
+618,Chile,1985,15
+619,"China, People's Republic of",1985,1.8
+620,Colombia,1985,8.7
+621,Costa Rica,1985,6.8
+622,Croatia,1985,no data
+623,Cyprus,1985,3.3
+624,Czech Republic,1985,no data
+625,Denmark,1985,6.6
+626,Dominican Republic,1985,no data
+627,Ecuador,1985,no data
+628,Egypt,1985,no data
+629,El Salvador,1985,no data
+630,Estonia,1985,no data
+631,Fiji,1985,no data
+632,Finland,1985,6
+633,France,1985,8.7
+634,Georgia,1985,no data
+635,Germany,1985,8.1
+636,Greece,1985,7.8
+637,Honduras,1985,6.8
+638,Hong Kong SAR,1985,3.2
+639,Hungary,1985,0
+640,Iceland,1985,0.9
+641,Indonesia,1985,2.2
+642,Iran,1985,no data
+643,Ireland,1985,17.7
+644,Israel,1985,6.7
+645,Italy,1985,8.2
+646,Jamaica,1985,25
+647,Japan,1985,2.6
+648,Jordan,1985,6
+649,Kazakhstan,1985,no data
+650,"Korea, Republic of",1985,4
+651,Kosovo,1985,no data
+652,Kuwait,1985,0.5
+653,Kyrgyz Republic,1985,no data
+654,Latvia,1985,no data
+655,Lithuania,1985,no data
+656,Luxembourg,1985,1.7
+657,Macao SAR,1985,no data
+658,Malaysia,1985,6.9
+659,Malta,1985,12.2
+660,Mauritius,1985,15.3
+661,Mexico,1985,4.4
+662,Moldova,1985,no data
+663,Mongolia,1985,no data
+664,Morocco,1985,no data
+665,Netherlands,1985,7.3
+666,New Zealand,1985,3.9
+667,Nicaragua,1985,12.5
+668,Nigeria,1985,no data
+669,North Macedonia ,1985,no data
+670,Norway,1985,2.6
+671,Pakistan,1985,3.6
+672,Panama,1985,14.4
+673,Paraguay,1985,5.1
+674,Peru,1985,4.6
+675,Philippines,1985,11.1
+676,Poland,1985,no data
+677,Portugal,1985,8.7
+678,Puerto Rico,1985,21.8
+679,Romania,1985,4
+680,Russian Federation,1985,no data
+681,San Marino,1985,no data
+682,Saudi Arabia,1985,no data
+683,Serbia,1985,no data
+684,Seychelles,1985,no data
+685,Singapore,1985,4.6
+686,Slovak Republic,1985,no data
+687,Slovenia,1985,no data
+688,South Africa,1985,15.5
+689,Spain,1985,21.3
+690,Sri Lanka,1985,no data
+691,Sudan,1985,19.9
+692,Suriname,1985,no data
+693,Sweden,1985,3.9
+694,Switzerland,1985,1
+695,Syria,1985,no data
+696,São Tomé and Príncipe,1985,13.6
+697,Taiwan Province of China,1985,2.9
+698,Tajikistan,1985,no data
+699,Thailand,1985,no data
+700,Trinidad and Tobago,1985,15.7
+701,Tunisia,1985,no data
+702,Turkey,1985,6.9
+703,Ukraine,1985,no data
+704,United Kingdom,1985,11.4
+705,United States,1985,7.2
+706,Uruguay,1985,13.1
+707,Venezuela,1985,no data
+708,Vietnam,1985,no data
+709,West Bank and Gaza,1985,no data
+710,Advanced economies,1985,7.4
+711,Euro area,1985,no data
+712,Major advanced economies (G7),1985,7.1
+713,Other advanced economies,1985,4.7
+714,"©IMF, 2020",1985,
+715,Albania,1986,5.4
+716,Algeria,1986,18.4
+717,Argentina,1986,6.3
+718,Armenia,1986,no data
+719,Aruba,1986,no data
+720,Australia,1986,8.1
+721,Austria,1986,3.1
+722,Azerbaijan,1986,no data
+723,"Bahamas, The",1986,12.2
+724,Bahrain,1986,no data
+725,Barbados,1986,17.7
+726,Belarus,1986,no data
+727,Belgium,1986,10.1
+728,Belize,1986,no data
+729,Bhutan,1986,no data
+730,Bolivia,1986,no data
+731,Bosnia and Herzegovina,1986,no data
+732,Brazil,1986,no data
+733,Brunei Darussalam,1986,no data
+734,Bulgaria,1986,no data
+735,Cabo Verde,1986,23.8
+736,Canada,1986,9.6
+737,Chile,1986,12.3
+738,"China, People's Republic of",1986,2
+739,Colombia,1986,7.7
+740,Costa Rica,1986,6.2
+741,Croatia,1986,no data
+742,Cyprus,1986,3.7
+743,Czech Republic,1986,no data
+744,Denmark,1986,5
+745,Dominican Republic,1986,no data
+746,Ecuador,1986,no data
+747,Egypt,1986,no data
+748,El Salvador,1986,no data
+749,Estonia,1986,no data
+750,Fiji,1986,9.6
+751,Finland,1986,6.7
+752,France,1986,8.9
+753,Georgia,1986,no data
+754,Germany,1986,7.8
+755,Greece,1986,7.4
+756,Honduras,1986,6.7
+757,Hong Kong SAR,1986,2.8
+758,Hungary,1986,0.2
+759,Iceland,1986,0.7
+760,Indonesia,1986,2.8
+761,Iran,1986,no data
+762,Ireland,1986,18.1
+763,Israel,1986,7.1
+764,Italy,1986,8.9
+765,Jamaica,1986,23.7
+766,Japan,1986,2.8
+767,Jordan,1986,8
+768,Kazakhstan,1986,no data
+769,"Korea, Republic of",1986,3.8
+770,Kosovo,1986,no data
+771,Kuwait,1986,0.5
+772,Kyrgyz Republic,1986,no data
+773,Latvia,1986,no data
+774,Lithuania,1986,no data
+775,Luxembourg,1986,1.5
+776,Macao SAR,1986,no data
+777,Malaysia,1986,8.3
+778,Malta,1986,11
+779,Mauritius,1986,10.9
+780,Mexico,1986,4.3
+781,Moldova,1986,no data
+782,Mongolia,1986,no data
+783,Morocco,1986,no data
+784,Netherlands,1986,6.5
+785,New Zealand,1986,4.2
+786,Nicaragua,1986,13.1
+787,Nigeria,1986,no data
+788,North Macedonia ,1986,no data
+789,Norway,1986,2
+790,Pakistan,1986,3.3
+791,Panama,1986,12.5
+792,Paraguay,1986,6.1
+793,Peru,1986,5.3
+794,Philippines,1986,11.7
+795,Poland,1986,no data
+796,Portugal,1986,8.6
+797,Puerto Rico,1986,18.9
+798,Romania,1986,3.9
+799,Russian Federation,1986,no data
+800,San Marino,1986,no data
+801,Saudi Arabia,1986,no data
+802,Serbia,1986,no data
+803,Seychelles,1986,no data
+804,Singapore,1986,2
+805,Slovak Republic,1986,no data
+806,Slovenia,1986,no data
+807,South Africa,1986,16
+808,Spain,1986,20.9
+809,Sri Lanka,1986,no data
+810,Sudan,1986,19.2
+811,Suriname,1986,no data
+812,Sweden,1986,3.6
+813,Switzerland,1986,0.8
+814,Syria,1986,no data
+815,São Tomé and Príncipe,1986,13.6
+816,Taiwan Province of China,1986,2.7
+817,Tajikistan,1986,no data
+818,Thailand,1986,no data
+819,Trinidad and Tobago,1986,17.2
+820,Tunisia,1986,no data
+821,Turkey,1986,7.7
+822,Ukraine,1986,no data
+823,United Kingdom,1986,11.3
+824,United States,1986,7
+825,Uruguay,1986,10.1
+826,Venezuela,1986,no data
+827,Vietnam,1986,no data
+828,West Bank and Gaza,1986,no data
+829,Advanced economies,1986,7.3
+830,Euro area,1986,no data
+831,Major advanced economies (G7),1986,7.1
+832,Other advanced economies,1986,4.3
+833,"©IMF, 2020",1986,
+834,Albania,1987,5.2
+835,Algeria,1987,20.1
+836,Argentina,1987,6
+837,Armenia,1987,no data
+838,Aruba,1987,no data
+839,Australia,1987,8.1
+840,Austria,1987,3.8
+841,Azerbaijan,1987,no data
+842,"Bahamas, The",1987,11.5
+843,Bahrain,1987,no data
+844,Barbados,1987,17.9
+845,Belarus,1987,no data
+846,Belgium,1987,9.8
+847,Belize,1987,no data
+848,Bhutan,1987,no data
+849,Bolivia,1987,no data
+850,Bosnia and Herzegovina,1987,no data
+851,Brazil,1987,no data
+852,Brunei Darussalam,1987,no data
+853,Bulgaria,1987,no data
+854,Cabo Verde,1987,24.2
+855,Canada,1987,8.8
+856,Chile,1987,11
+857,"China, People's Republic of",1987,2
+858,Colombia,1987,7.4
+859,Costa Rica,1987,5.6
+860,Croatia,1987,no data
+861,Cyprus,1987,3.4
+862,Czech Republic,1987,no data
+863,Denmark,1987,5
+864,Dominican Republic,1987,no data
+865,Ecuador,1987,no data
+866,Egypt,1987,no data
+867,El Salvador,1987,no data
+868,Estonia,1987,no data
+869,Fiji,1987,11.9
+870,Finland,1987,4.9
+871,France,1987,9.2
+872,Georgia,1987,no data
+873,Germany,1987,7.8
+874,Greece,1987,7.4
+875,Honduras,1987,7.1
+876,Hong Kong SAR,1987,1.7
+877,Hungary,1987,0.3
+878,Iceland,1987,0.4
+879,Indonesia,1987,2.6
+880,Iran,1987,no data
+881,Ireland,1987,18.8
+882,Israel,1987,6.1
+883,Italy,1987,9.6
+884,Jamaica,1987,21
+885,Japan,1987,2.9
+886,Jordan,1987,8.4
+887,Kazakhstan,1987,no data
+888,"Korea, Republic of",1987,3.1
+889,Kosovo,1987,no data
+890,Kuwait,1987,0.5
+891,Kyrgyz Republic,1987,no data
+892,Latvia,1987,no data
+893,Lithuania,1987,no data
+894,Luxembourg,1987,1.7
+895,Macao SAR,1987,no data
+896,Malaysia,1987,8.2
+897,Malta,1987,8.2
+898,Mauritius,1987,6
+899,Mexico,1987,3.9
+900,Moldova,1987,no data
+901,Mongolia,1987,no data
+902,Morocco,1987,no data
+903,Netherlands,1987,6.3
+904,New Zealand,1987,4.2
+905,Nicaragua,1987,14
+906,Nigeria,1987,no data
+907,North Macedonia ,1987,no data
+908,Norway,1987,2.1
+909,Pakistan,1987,3.1
+910,Panama,1987,14.1
+911,Paraguay,1987,5.5
+912,Peru,1987,4.8
+913,Philippines,1987,11.1
+914,Poland,1987,no data
+915,Portugal,1987,7.1
+916,Puerto Rico,1987,16.8
+917,Romania,1987,3.7
+918,Russian Federation,1987,no data
+919,San Marino,1987,no data
+920,Saudi Arabia,1987,no data
+921,Serbia,1987,no data
+922,Seychelles,1987,no data
+923,Singapore,1987,3.9
+924,Slovak Republic,1987,no data
+925,Slovenia,1987,no data
+926,South Africa,1987,16.6
+927,Spain,1987,20.2
+928,Sri Lanka,1987,no data
+929,Sudan,1987,18.5
+930,Suriname,1987,no data
+931,Sweden,1987,2.9
+932,Switzerland,1987,0.8
+933,Syria,1987,no data
+934,São Tomé and Príncipe,1987,13.6
+935,Taiwan Province of China,1987,2
+936,Tajikistan,1987,no data
+937,Thailand,1987,no data
+938,Trinidad and Tobago,1987,22.2
+939,Tunisia,1987,no data
+940,Turkey,1987,8.1
+941,Ukraine,1987,no data
+942,United Kingdom,1987,10.4
+943,United States,1987,6.2
+944,Uruguay,1987,9.1
+945,Venezuela,1987,no data
+946,Vietnam,1987,no data
+947,West Bank and Gaza,1987,no data
+948,Advanced economies,1987,6.9
+949,Euro area,1987,no data
+950,Major advanced economies (G7),1987,6.7
+951,Other advanced economies,1987,3.9
+952,"©IMF, 2020",1987,
+953,Albania,1988,6
+954,Algeria,1988,21.8
+955,Argentina,1988,6.5
+956,Armenia,1988,no data
+957,Aruba,1988,no data
+958,Australia,1988,7.2
+959,Austria,1988,2.7
+960,Azerbaijan,1988,no data
+961,"Bahamas, The",1988,11
+962,Bahrain,1988,no data
+963,Barbados,1988,17.1
+964,Belarus,1988,no data
+965,Belgium,1988,8.8
+966,Belize,1988,no data
+967,Bhutan,1988,no data
+968,Bolivia,1988,no data
+969,Bosnia and Herzegovina,1988,no data
+970,Brazil,1988,no data
+971,Brunei Darussalam,1988,no data
+972,Bulgaria,1988,no data
+973,Cabo Verde,1988,24.6
+974,Canada,1988,7.8
+975,Chile,1988,9.9
+976,"China, People's Republic of",1988,2
+977,Colombia,1988,6.5
+978,Costa Rica,1988,5.5
+979,Croatia,1988,no data
+980,Cyprus,1988,2.8
+981,Czech Republic,1988,no data
+982,Denmark,1988,5.7
+983,Dominican Republic,1988,no data
+984,Ecuador,1988,7
+985,Egypt,1988,no data
+986,El Salvador,1988,10.2
+987,Estonia,1988,no data
+988,Fiji,1988,12
+989,Finland,1988,4.2
+990,France,1988,8.8
+991,Georgia,1988,no data
+992,Germany,1988,7.7
+993,Greece,1988,7.7
+994,Honduras,1988,6.9
+995,Hong Kong SAR,1988,1.4
+996,Hungary,1988,0.5
+997,Iceland,1988,0.6
+998,Indonesia,1988,2.9
+999,Iran,1988,no data
+1000,Ireland,1988,18.4
+1001,Israel,1988,6.4
+1002,Italy,1988,9.7
+1003,Jamaica,1988,19.1
+1004,Japan,1988,2.5
+1005,Jordan,1988,8.8
+1006,Kazakhstan,1988,no data
+1007,"Korea, Republic of",1988,2.5
+1008,Kosovo,1988,no data
+1009,Kuwait,1988,0.5
+1010,Kyrgyz Republic,1988,no data
+1011,Latvia,1988,no data
+1012,Lithuania,1988,no data
+1013,Luxembourg,1988,1.5
+1014,Macao SAR,1988,no data
+1015,Malaysia,1988,8.1
+1016,Malta,1988,6.2
+1017,Mauritius,1988,3.9
+1018,Mexico,1988,3.5
+1019,Moldova,1988,no data
+1020,Mongolia,1988,no data
+1021,Morocco,1988,no data
+1022,Netherlands,1988,6.2
+1023,New Zealand,1988,5.8
+1024,Nicaragua,1988,14.2
+1025,Nigeria,1988,no data
+1026,North Macedonia ,1988,no data
+1027,Norway,1988,3.1
+1028,Pakistan,1988,3.1
+1029,Panama,1988,18.8
+1030,Paraguay,1988,4.7
+1031,Peru,1988,4.2
+1032,Philippines,1988,9.4
+1033,Poland,1988,no data
+1034,Portugal,1988,7.1
+1035,Puerto Rico,1988,15
+1036,Romania,1988,3.7
+1037,Russian Federation,1988,no data
+1038,San Marino,1988,no data
+1039,Saudi Arabia,1988,no data
+1040,Serbia,1988,no data
+1041,Seychelles,1988,no data
+1042,Singapore,1988,2.6
+1043,Slovak Republic,1988,no data
+1044,Slovenia,1988,no data
+1045,South Africa,1988,17.2
+1046,Spain,1988,19.2
+1047,Sri Lanka,1988,no data
+1048,Sudan,1988,17.9
+1049,Suriname,1988,no data
+1050,Sweden,1988,2.4
+1051,Switzerland,1988,0.7
+1052,Syria,1988,no data
+1053,São Tomé and Príncipe,1988,13.6
+1054,Taiwan Province of China,1988,1.7
+1055,Tajikistan,1988,no data
+1056,Thailand,1988,no data
+1057,Trinidad and Tobago,1988,22
+1058,Tunisia,1988,no data
+1059,Turkey,1988,8.7
+1060,Ukraine,1988,no data
+1061,United Kingdom,1988,8.6
+1062,United States,1988,5.5
+1063,Uruguay,1988,8.6
+1064,Venezuela,1988,no data
+1065,Vietnam,1988,no data
+1066,West Bank and Gaza,1988,no data
+1067,Advanced economies,1988,6.3
+1068,Euro area,1988,no data
+1069,Major advanced economies (G7),1988,6.1
+1070,Other advanced economies,1988,3.5
+1071,"©IMF, 2020",1988,
+1072,Albania,1989,6.7
+1073,Algeria,1989,18.1
+1074,Argentina,1989,8
+1075,Armenia,1989,no data
+1076,Aruba,1989,no data
+1077,Australia,1989,6.1
+1078,Austria,1989,2.3
+1079,Azerbaijan,1989,no data
+1080,"Bahamas, The",1989,11.7
+1081,Bahrain,1989,no data
+1082,Barbados,1989,15.2
+1083,Belarus,1989,no data
+1084,Belgium,1989,7.4
+1085,Belize,1989,no data
+1086,Bhutan,1989,no data
+1087,Bolivia,1989,no data
+1088,Bosnia and Herzegovina,1989,no data
+1089,Brazil,1989,no data
+1090,Brunei Darussalam,1989,no data
+1091,Bulgaria,1989,0
+1092,Cabo Verde,1989,25
+1093,Canada,1989,7.5
+1094,Chile,1989,8
+1095,"China, People's Republic of",1989,2.6
+1096,Colombia,1989,6.8
+1097,Costa Rica,1989,3.8
+1098,Croatia,1989,no data
+1099,Cyprus,1989,2.3
+1100,Czech Republic,1989,no data
+1101,Denmark,1989,6.8
+1102,Dominican Republic,1989,no data
+1103,Ecuador,1989,7.9
+1104,Egypt,1989,no data
+1105,El Salvador,1989,9.1
+1106,Estonia,1989,no data
+1107,Fiji,1989,7.8
+1108,Finland,1989,3.1
+1109,France,1989,8.7
+1110,Georgia,1989,no data
+1111,Germany,1989,6.8
+1112,Greece,1989,7.5
+1113,Honduras,1989,6.7
+1114,Hong Kong SAR,1989,1.1
+1115,Hungary,1989,0.5
+1116,Iceland,1989,1.7
+1117,Indonesia,1989,2.9
+1118,Iran,1989,no data
+1119,Ireland,1989,17.9
+1120,Israel,1989,8.9
+1121,Italy,1989,9.7
+1122,Jamaica,1989,15.2
+1123,Japan,1989,2.3
+1124,Jordan,1989,10.3
+1125,Kazakhstan,1989,no data
+1126,"Korea, Republic of",1989,2.6
+1127,Kosovo,1989,no data
+1128,Kuwait,1989,0.5
+1129,Kyrgyz Republic,1989,no data
+1130,Latvia,1989,no data
+1131,Lithuania,1989,no data
+1132,Luxembourg,1989,1.4
+1133,Macao SAR,1989,no data
+1134,Malaysia,1989,6.7
+1135,Malta,1989,4.6
+1136,Mauritius,1989,3.6
+1137,Mexico,1989,2.9
+1138,Moldova,1989,no data
+1139,Mongolia,1989,no data
+1140,Morocco,1989,no data
+1141,Netherlands,1989,5.7
+1142,New Zealand,1989,7.3
+1143,Nicaragua,1989,15
+1144,Nigeria,1989,no data
+1145,North Macedonia ,1989,no data
+1146,Norway,1989,4.9
+1147,Pakistan,1989,3.1
+1148,Panama,1989,18.9
+1149,Paraguay,1989,6.1
+1150,Peru,1989,7.9
+1151,Philippines,1989,9.1
+1152,Poland,1989,no data
+1153,Portugal,1989,5.1
+1154,Puerto Rico,1989,14.6
+1155,Romania,1989,3.4
+1156,Russian Federation,1989,no data
+1157,San Marino,1989,no data
+1158,Saudi Arabia,1989,no data
+1159,Serbia,1989,no data
+1160,Seychelles,1989,no data
+1161,Singapore,1989,1.8
+1162,Slovak Republic,1989,no data
+1163,Slovenia,1989,no data
+1164,South Africa,1989,17.8
+1165,Spain,1989,17.2
+1166,Sri Lanka,1989,no data
+1167,Sudan,1989,17.2
+1168,Suriname,1989,no data
+1169,Sweden,1989,2
+1170,Switzerland,1989,0.6
+1171,Syria,1989,no data
+1172,São Tomé and Príncipe,1989,15.1
+1173,Taiwan Province of China,1989,1.6
+1174,Tajikistan,1989,no data
+1175,Thailand,1989,no data
+1176,Trinidad and Tobago,1989,22
+1177,Tunisia,1989,no data
+1178,Turkey,1989,8.6
+1179,Ukraine,1989,no data
+1180,United Kingdom,1989,7.2
+1181,United States,1989,5.3
+1182,Uruguay,1989,8
+1183,Venezuela,1989,no data
+1184,Vietnam,1989,no data
+1185,West Bank and Gaza,1989,no data
+1186,Advanced economies,1989,5.9
+1187,Euro area,1989,no data
+1188,Major advanced economies (G7),1989,5.7
+1189,Other advanced economies,1989,3.5
+1190,"©IMF, 2020",1989,
+1191,Albania,1990,8.5
+1192,Algeria,1990,19.8
+1193,Argentina,1990,7.6
+1194,Armenia,1990,no data
+1195,Aruba,1990,no data
+1196,Australia,1990,6.9
+1197,Austria,1990,2.7
+1198,Azerbaijan,1990,no data
+1199,"Bahamas, The",1990,12
+1200,Bahrain,1990,no data
+1201,Barbados,1990,14.9
+1202,Belarus,1990,no data
+1203,Belgium,1990,6.6
+1204,Belize,1990,15
+1205,Bhutan,1990,no data
+1206,Bolivia,1990,no data
+1207,Bosnia and Herzegovina,1990,no data
+1208,Brazil,1990,no data
+1209,Brunei Darussalam,1990,no data
+1210,Bulgaria,1990,2.9
+1211,Cabo Verde,1990,25.4
+1212,Canada,1990,8.2
+1213,Chile,1990,7.8
+1214,"China, People's Republic of",1990,2.5
+1215,Colombia,1990,6.6
+1216,Costa Rica,1990,4.6
+1217,Croatia,1990,no data
+1218,Cyprus,1990,1.8
+1219,Czech Republic,1990,no data
+1220,Denmark,1990,7.2
+1221,Dominican Republic,1990,no data
+1222,Ecuador,1990,6.1
+1223,Egypt,1990,8
+1224,El Salvador,1990,10
+1225,Estonia,1990,no data
+1226,Fiji,1990,8.2
+1227,Finland,1990,3.2
+1228,France,1990,8.4
+1229,Georgia,1990,no data
+1230,Germany,1990,6.2
+1231,Greece,1990,7
+1232,Honduras,1990,4.3
+1233,Hong Kong SAR,1990,1.3
+1234,Hungary,1990,2.1
+1235,Iceland,1990,2.6
+1236,Indonesia,1990,2.6
+1237,Iran,1990,14.2
+1238,Ireland,1990,17.2
+1239,Israel,1990,9.6
+1240,Italy,1990,8.9
+1241,Jamaica,1990,15.7
+1242,Japan,1990,2.1
+1243,Jordan,1990,16.8
+1244,Kazakhstan,1990,no data
+1245,"Korea, Republic of",1990,2.5
+1246,Kosovo,1990,no data
+1247,Kuwait,1990,0.5
+1248,Kyrgyz Republic,1990,no data
+1249,Latvia,1990,no data
+1250,Lithuania,1990,no data
+1251,Luxembourg,1990,1.3
+1252,Macao SAR,1990,no data
+1253,Malaysia,1990,5.1
+1254,Malta,1990,4.8
+1255,Mauritius,1990,2.8
+1256,Mexico,1990,2.7
+1257,Moldova,1990,no data
+1258,Mongolia,1990,no data
+1259,Morocco,1990,no data
+1260,Netherlands,1990,5.1
+1261,New Zealand,1990,8
+1262,Nicaragua,1990,15.5
+1263,Nigeria,1990,no data
+1264,North Macedonia ,1990,no data
+1265,Norway,1990,5.2
+1266,Pakistan,1990,3.1
+1267,Panama,1990,16.7
+1268,Paraguay,1990,6.6
+1269,Peru,1990,8.3
+1270,Philippines,1990,8.4
+1271,Poland,1990,6.3
+1272,Portugal,1990,4.2
+1273,Puerto Rico,1990,14.2
+1274,Romania,1990,3.4
+1275,Russian Federation,1990,no data
+1276,San Marino,1990,no data
+1277,Saudi Arabia,1990,no data
+1278,Serbia,1990,no data
+1279,Seychelles,1990,no data
+1280,Singapore,1990,1.8
+1281,Slovak Republic,1990,no data
+1282,Slovenia,1990,no data
+1283,South Africa,1990,18.8
+1284,Spain,1990,16.2
+1285,Sri Lanka,1990,15.9
+1286,Sudan,1990,16.6
+1287,Suriname,1990,no data
+1288,Sweden,1990,2.2
+1289,Switzerland,1990,0.5
+1290,Syria,1990,no data
+1291,São Tomé and Príncipe,1990,15.9
+1292,Taiwan Province of China,1990,1.7
+1293,Tajikistan,1990,no data
+1294,Thailand,1990,no data
+1295,Trinidad and Tobago,1990,20
+1296,Tunisia,1990,16.2
+1297,Turkey,1990,8
+1298,Ukraine,1990,no data
+1299,United Kingdom,1990,7.1
+1300,United States,1990,5.6
+1301,Uruguay,1990,8.5
+1302,Venezuela,1990,no data
+1303,Vietnam,1990,12.3
+1304,West Bank and Gaza,1990,no data
+1305,Advanced economies,1990,5.8
+1306,Euro area,1990,no data
+1307,Major advanced economies (G7),1990,5.7
+1308,Other advanced economies,1990,3.7
+1309,"©IMF, 2020",1990,
+1310,Albania,1991,8.9
+1311,Algeria,1991,20.3
+1312,Argentina,1991,6.5
+1313,Armenia,1991,no data
+1314,Aruba,1991,no data
+1315,Australia,1991,9.6
+1316,Austria,1991,3.2
+1317,Azerbaijan,1991,no data
+1318,"Bahamas, The",1991,12.3
+1319,Bahrain,1991,no data
+1320,Barbados,1991,17.2
+1321,Belarus,1991,0.1
+1322,Belgium,1991,6.5
+1323,Belize,1991,14
+1324,Bhutan,1991,no data
+1325,Bolivia,1991,no data
+1326,Bosnia and Herzegovina,1991,no data
+1327,Brazil,1991,10.1
+1328,Brunei Darussalam,1991,no data
+1329,Bulgaria,1991,6.8
+1330,Cabo Verde,1991,25.8
+1331,Canada,1991,10.3
+1332,Chile,1991,8.2
+1333,"China, People's Republic of",1991,2.3
+1334,Colombia,1991,6.4
+1335,Costa Rica,1991,5.5
+1336,Croatia,1991,13.2
+1337,Cyprus,1991,3
+1338,Czech Republic,1991,no data
+1339,Denmark,1991,7.9
+1340,Dominican Republic,1991,9.2
+1341,Ecuador,1991,8.5
+1342,Egypt,1991,8.8
+1343,El Salvador,1991,8.7
+1344,Estonia,1991,no data
+1345,Fiji,1991,7.5
+1346,Finland,1991,6.7
+1347,France,1991,8.6
+1348,Georgia,1991,no data
+1349,Germany,1991,5.5
+1350,Greece,1991,7.7
+1351,Honduras,1991,4.6
+1352,Hong Kong SAR,1991,1.8
+1353,Hungary,1991,8.4
+1354,Iceland,1991,2.5
+1355,Indonesia,1991,2.7
+1356,Iran,1991,10
+1357,Ireland,1991,19
+1358,Israel,1991,10.6
+1359,Italy,1991,8.5
+1360,Jamaica,1991,15.4
+1361,Japan,1991,2.1
+1362,Jordan,1991,18.8
+1363,Kazakhstan,1991,no data
+1364,"Korea, Republic of",1991,2.5
+1365,Kosovo,1991,no data
+1366,Kuwait,1991,0.5
+1367,Kyrgyz Republic,1991,no data
+1368,Latvia,1991,no data
+1369,Lithuania,1991,no data
+1370,Luxembourg,1991,1.4
+1371,Macao SAR,1991,no data
+1372,Malaysia,1991,4.3
+1373,Malta,1991,4.4
+1374,Mauritius,1991,2.7
+1375,Mexico,1991,2.7
+1376,Moldova,1991,no data
+1377,Mongolia,1991,no data
+1378,Morocco,1991,no data
+1379,Netherlands,1991,4.8
+1380,New Zealand,1991,10.6
+1381,Nicaragua,1991,14.9
+1382,Nigeria,1991,no data
+1383,North Macedonia ,1991,no data
+1384,Norway,1991,5.5
+1385,Pakistan,1991,5.9
+1386,Panama,1991,16
+1387,Paraguay,1991,5.1
+1388,Peru,1991,5.9
+1389,Philippines,1991,10.5
+1390,Poland,1991,11.8
+1391,Portugal,1991,4.1
+1392,Puerto Rico,1991,16
+1393,Romania,1991,3.5
+1394,Russian Federation,1991,no data
+1395,San Marino,1991,no data
+1396,Saudi Arabia,1991,no data
+1397,Serbia,1991,no data
+1398,Seychelles,1991,no data
+1399,Singapore,1991,1.8
+1400,Slovak Republic,1991,no data
+1401,Slovenia,1991,no data
+1402,South Africa,1991,20.2
+1403,Spain,1991,16.3
+1404,Sri Lanka,1991,14.7
+1405,Sudan,1991,16
+1406,Suriname,1991,no data
+1407,Sweden,1991,4
+1408,Switzerland,1991,1.1
+1409,Syria,1991,no data
+1410,São Tomé and Príncipe,1991,16.8
+1411,Taiwan Province of China,1991,1.5
+1412,Tajikistan,1991,no data
+1413,Thailand,1991,no data
+1414,Trinidad and Tobago,1991,18.5
+1415,Tunisia,1991,16.2
+1416,Turkey,1991,7.7
+1417,Ukraine,1991,no data
+1418,United Kingdom,1991,8.9
+1419,United States,1991,6.9
+1420,Uruguay,1991,8.9
+1421,Venezuela,1991,no data
+1422,Vietnam,1991,10.4
+1423,West Bank and Gaza,1991,no data
+1424,Advanced economies,1991,6.4
+1425,Euro area,1991,8.2
+1426,Major advanced economies (G7),1991,6.3
+1427,Other advanced economies,1991,4.4
+1428,"©IMF, 2020",1991,
+1429,Albania,1992,26.5
+1430,Algeria,1992,21.4
+1431,Argentina,1992,7.1
+1432,Armenia,1992,no data
+1433,Aruba,1992,no data
+1434,Australia,1992,10.7
+1435,Austria,1992,3.3
+1436,Azerbaijan,1992,no data
+1437,"Bahamas, The",1992,14.8
+1438,Bahrain,1992,no data
+1439,Barbados,1992,22.9
+1440,Belarus,1992,0.5
+1441,Belgium,1992,7.1
+1442,Belize,1992,12
+1443,Bhutan,1992,no data
+1444,Bolivia,1992,no data
+1445,Bosnia and Herzegovina,1992,no data
+1446,Brazil,1992,11.6
+1447,Brunei Darussalam,1992,no data
+1448,Bulgaria,1992,13.2
+1449,Cabo Verde,1992,26
+1450,Canada,1992,11.2
+1451,Chile,1992,6.7
+1452,"China, People's Republic of",1992,2.3
+1453,Colombia,1992,5.9
+1454,Costa Rica,1992,4.1
+1455,Croatia,1992,15.3
+1456,Cyprus,1992,1.8
+1457,Czech Republic,1992,no data
+1458,Denmark,1992,8.6
+1459,Dominican Republic,1992,9.5
+1460,Ecuador,1992,8.9
+1461,Egypt,1992,9
+1462,El Salvador,1992,9.3
+1463,Estonia,1992,no data
+1464,Fiji,1992,6.9
+1465,Finland,1992,11.8
+1466,France,1992,9.4
+1467,Georgia,1992,no data
+1468,Germany,1992,6.6
+1469,Greece,1992,8.7
+1470,Honduras,1992,3.1
+1471,Hong Kong SAR,1992,2
+1472,Hungary,1992,9.3
+1473,Iceland,1992,4.2
+1474,Indonesia,1992,2.8
+1475,Iran,1992,10
+1476,Ireland,1992,16.3
+1477,Israel,1992,11.2
+1478,Italy,1992,8.8
+1479,Jamaica,1992,15.7
+1480,Japan,1992,2.2
+1481,Jordan,1992,17.6
+1482,Kazakhstan,1992,no data
+1483,"Korea, Republic of",1992,2.5
+1484,Kosovo,1992,no data
+1485,Kuwait,1992,0.5
+1486,Kyrgyz Republic,1992,no data
+1487,Latvia,1992,3.2
+1488,Lithuania,1992,no data
+1489,Luxembourg,1992,1.6
+1490,Macao SAR,1992,no data
+1491,Malaysia,1992,3.7
+1492,Malta,1992,4.9
+1493,Mauritius,1992,3.3
+1494,Mexico,1992,2.8
+1495,Moldova,1992,no data
+1496,Mongolia,1992,no data
+1497,Morocco,1992,no data
+1498,Netherlands,1992,4.9
+1499,New Zealand,1992,10.7
+1500,Nicaragua,1992,14.4
+1501,Nigeria,1992,no data
+1502,North Macedonia ,1992,no data
+1503,Norway,1992,5.9
+1504,Pakistan,1992,5.9
+1505,Panama,1992,14.7
+1506,Paraguay,1992,5.3
+1507,Peru,1992,9.4
+1508,Philippines,1992,9.8
+1509,Poland,1992,13.6
+1510,Portugal,1992,3.9
+1511,Puerto Rico,1992,16.7
+1512,Romania,1992,5.4
+1513,Russian Federation,1992,5.2
+1514,San Marino,1992,no data
+1515,Saudi Arabia,1992,no data
+1516,Serbia,1992,no data
+1517,Seychelles,1992,no data
+1518,Singapore,1992,1.8
+1519,Slovak Republic,1992,no data
+1520,Slovenia,1992,7.8
+1521,South Africa,1992,21.2
+1522,Spain,1992,18.4
+1523,Sri Lanka,1992,14.6
+1524,Sudan,1992,15.4
+1525,Suriname,1992,no data
+1526,Sweden,1992,7.1
+1527,Switzerland,1992,2.5
+1528,Syria,1992,no data
+1529,São Tomé and Príncipe,1992,15.6
+1530,Taiwan Province of China,1992,1.5
+1531,Tajikistan,1992,no data
+1532,Thailand,1992,no data
+1533,Trinidad and Tobago,1992,19.6
+1534,Tunisia,1992,16.2
+1535,Turkey,1992,7.9
+1536,Ukraine,1992,no data
+1537,United Kingdom,1992,10
+1538,United States,1992,7.5
+1539,Uruguay,1992,9
+1540,Venezuela,1992,no data
+1541,Vietnam,1992,11
+1542,West Bank and Gaza,1992,no data
+1543,Advanced economies,1992,7.1
+1544,Euro area,1992,9.1
+1545,Major advanced economies (G7),1992,6.9
+1546,Other advanced economies,1992,5.1
+1547,"©IMF, 2020",1992,
+1548,Albania,1993,22.3
+1549,Algeria,1993,23.2
+1550,Argentina,1993,11.6
+1551,Armenia,1993,no data
+1552,Aruba,1993,no data
+1553,Australia,1993,10.9
+1554,Austria,1993,4
+1555,Azerbaijan,1993,no data
+1556,"Bahamas, The",1993,13.1
+1557,Bahrain,1993,no data
+1558,Barbados,1993,24.4
+1559,Belarus,1993,1.4
+1560,Belgium,1993,8.6
+1561,Belize,1993,10
+1562,Bhutan,1993,no data
+1563,Bolivia,1993,no data
+1564,Bosnia and Herzegovina,1993,no data
+1565,Brazil,1993,11
+1566,Brunei Darussalam,1993,no data
+1567,Bulgaria,1993,15.8
+1568,Cabo Verde,1993,26
+1569,Canada,1993,11.4
+1570,Chile,1993,6.5
+1571,"China, People's Republic of",1993,2.6
+1572,Colombia,1993,5
+1573,Costa Rica,1993,4.1
+1574,Croatia,1993,14.8
+1575,Cyprus,1993,2.7
+1576,Czech Republic,1993,no data
+1577,Denmark,1993,9.5
+1578,Dominican Republic,1993,9.3
+1579,Ecuador,1993,8.3
+1580,Egypt,1993,10.9
+1581,El Salvador,1993,9.9
+1582,Estonia,1993,6.5
+1583,Fiji,1993,7.5
+1584,Finland,1993,16.5
+1585,France,1993,10.3
+1586,Georgia,1993,no data
+1587,Germany,1993,7.8
+1588,Greece,1993,9.7
+1589,Honduras,1993,3
+1590,Hong Kong SAR,1993,2
+1591,Hungary,1993,11.3
+1592,Iceland,1993,5.3
+1593,Indonesia,1993,2.8
+1594,Iran,1993,10
+1595,Ireland,1993,16.7
+1596,Israel,1993,10
+1597,Italy,1993,9.8
+1598,Jamaica,1993,16.3
+1599,Japan,1993,2.5
+1600,Jordan,1993,19.6
+1601,Kazakhstan,1993,no data
+1602,"Korea, Republic of",1993,2.9
+1603,Kosovo,1993,no data
+1604,Kuwait,1993,3.8
+1605,Kyrgyz Republic,1993,no data
+1606,Latvia,1993,7
+1607,Lithuania,1993,no data
+1608,Luxembourg,1993,2.1
+1609,Macao SAR,1993,no data
+1610,Malaysia,1993,3
+1611,Malta,1993,5.4
+1612,Mauritius,1993,3.9
+1613,Mexico,1993,3.4
+1614,Moldova,1993,2.9
+1615,Mongolia,1993,no data
+1616,Morocco,1993,no data
+1617,Netherlands,1993,5.5
+1618,New Zealand,1993,9.8
+1619,Nicaragua,1993,15
+1620,Nigeria,1993,no data
+1621,North Macedonia ,1993,no data
+1622,Norway,1993,5.9
+1623,Pakistan,1993,4.7
+1624,Panama,1993,13.3
+1625,Paraguay,1993,5.1
+1626,Peru,1993,9.9
+1627,Philippines,1993,9.3
+1628,Poland,1993,16.4
+1629,Portugal,1993,5.1
+1630,Puerto Rico,1993,17
+1631,Romania,1993,9.2
+1632,Russian Federation,1993,5.9
+1633,San Marino,1993,no data
+1634,Saudi Arabia,1993,no data
+1635,Serbia,1993,no data
+1636,Seychelles,1993,no data
+1637,Singapore,1993,1.7
+1638,Slovak Republic,1993,12.7
+1639,Slovenia,1993,8.6
+1640,South Africa,1993,22.2
+1641,Spain,1993,22.6
+1642,Sri Lanka,1993,13.8
+1643,Sudan,1993,15.8
+1644,Suriname,1993,no data
+1645,Sweden,1993,11.2
+1646,Switzerland,1993,4.5
+1647,Syria,1993,no data
+1648,São Tomé and Príncipe,1993,14.9
+1649,Taiwan Province of China,1993,1.5
+1650,Tajikistan,1993,no data
+1651,Thailand,1993,no data
+1652,Trinidad and Tobago,1993,19.8
+1653,Tunisia,1993,16.3
+1654,Turkey,1993,8.4
+1655,Ukraine,1993,no data
+1656,United Kingdom,1993,10.4
+1657,United States,1993,6.9
+1658,Uruguay,1993,8.3
+1659,Venezuela,1993,no data
+1660,Vietnam,1993,10.6
+1661,West Bank and Gaza,1993,18.6
+1662,Advanced economies,1993,7.6
+1663,Euro area,1993,10
+1664,Major advanced economies (G7),1993,7.1
+1665,Other advanced economies,1993,5.6
+1666,"©IMF, 2020",1993,
+1667,Albania,1994,18.4
+1668,Algeria,1994,24.4
+1669,Argentina,1994,13.3
+1670,Armenia,1994,no data
+1671,Aruba,1994,no data
+1672,Australia,1994,9.7
+1673,Austria,1994,3.9
+1674,Azerbaijan,1994,no data
+1675,"Bahamas, The",1994,13.3
+1676,Bahrain,1994,no data
+1677,Barbados,1994,21.8
+1678,Belarus,1994,2.1
+1679,Belgium,1994,9.8
+1680,Belize,1994,9
+1681,Bhutan,1994,no data
+1682,Bolivia,1994,no data
+1683,Bosnia and Herzegovina,1994,no data
+1684,Brazil,1994,10.5
+1685,Brunei Darussalam,1994,no data
+1686,Bulgaria,1994,14.1
+1687,Cabo Verde,1994,26
+1688,Canada,1994,10.4
+1689,Chile,1994,7.8
+1690,"China, People's Republic of",1994,2.8
+1691,Colombia,1994,4.9
+1692,Costa Rica,1994,4.2
+1693,Croatia,1994,14.5
+1694,Cyprus,1994,2.7
+1695,Czech Republic,1994,no data
+1696,Denmark,1994,7.7
+1697,Dominican Republic,1994,7.4
+1698,Ecuador,1994,5.7
+1699,Egypt,1994,11.1
+1700,El Salvador,1994,7.7
+1701,Estonia,1994,7.5
+1702,Fiji,1994,7.3
+1703,Finland,1994,16.7
+1704,France,1994,10.7
+1705,Georgia,1994,no data
+1706,Germany,1994,8.4
+1707,Greece,1994,9.6
+1708,Honduras,1994,3
+1709,Hong Kong SAR,1994,1.9
+1710,Hungary,1994,10.1
+1711,Iceland,1994,5.3
+1712,Indonesia,1994,4.5
+1713,Iran,1994,10
+1714,Ireland,1994,15.1
+1715,Israel,1994,7.8
+1716,Italy,1994,10.6
+1717,Jamaica,1994,15.4
+1718,Japan,1994,2.9
+1719,Jordan,1994,15.8
+1720,Kazakhstan,1994,7.5
+1721,"Korea, Republic of",1994,2.5
+1722,Kosovo,1994,no data
+1723,Kuwait,1994,7.2
+1724,Kyrgyz Republic,1994,4.1
+1725,Latvia,1994,7
+1726,Lithuania,1994,no data
+1727,Luxembourg,1994,2.7
+1728,Macao SAR,1994,no data
+1729,Malaysia,1994,2.9
+1730,Malta,1994,5.4
+1731,Mauritius,1994,4.5
+1732,Mexico,1994,3.7
+1733,Moldova,1994,15
+1734,Mongolia,1994,no data
+1735,Morocco,1994,no data
+1736,Netherlands,1994,6.2
+1737,New Zealand,1994,8.4
+1738,Nicaragua,1994,17.1
+1739,Nigeria,1994,no data
+1740,North Macedonia ,1994,no data
+1741,Norway,1994,5.4
+1742,Pakistan,1994,4.8
+1743,Panama,1994,14
+1744,Paraguay,1994,4.4
+1745,Peru,1994,8.8
+1746,Philippines,1994,9.5
+1747,Poland,1994,11.4
+1748,Portugal,1994,6.3
+1749,Puerto Rico,1994,14.6
+1750,Romania,1994,11
+1751,Russian Federation,1994,8.1
+1752,San Marino,1994,no data
+1753,Saudi Arabia,1994,no data
+1754,Serbia,1994,no data
+1755,Seychelles,1994,no data
+1756,Singapore,1994,1.7
+1757,Slovak Republic,1994,14.6
+1758,Slovenia,1994,8.5
+1759,South Africa,1994,22.9
+1760,Spain,1994,24.1
+1761,Sri Lanka,1994,13.1
+1762,Sudan,1994,15.2
+1763,Suriname,1994,12.4
+1764,Sweden,1994,10.8
+1765,Switzerland,1994,4.7
+1766,Syria,1994,no data
+1767,São Tomé and Príncipe,1994,14.6
+1768,Taiwan Province of China,1994,1.6
+1769,Tajikistan,1994,no data
+1770,Thailand,1994,no data
+1771,Trinidad and Tobago,1994,18.4
+1772,Tunisia,1994,16.3
+1773,Turkey,1994,8
+1774,Ukraine,1994,no data
+1775,United Kingdom,1994,9.5
+1776,United States,1994,6.1
+1777,Uruguay,1994,9.2
+1778,Venezuela,1994,no data
+1779,Vietnam,1994,10.3
+1780,West Bank and Gaza,1994,18.6
+1781,Advanced economies,1994,7.4
+1782,Euro area,1994,10.6
+1783,Major advanced economies (G7),1994,6.9
+1784,Other advanced economies,1994,5
+1785,"©IMF, 2020",1994,
+1786,Albania,1995,12.9
+1787,Algeria,1995,28.1
+1788,Argentina,1995,18.9
+1789,Armenia,1995,no data
+1790,Aruba,1995,no data
+1791,Australia,1995,8.5
+1792,Austria,1995,4.2
+1793,Azerbaijan,1995,no data
+1794,"Bahamas, The",1995,10.9
+1795,Bahrain,1995,no data
+1796,Barbados,1995,19.6
+1797,Belarus,1995,2.9
+1798,Belgium,1995,9.7
+1799,Belize,1995,12.5
+1800,Bhutan,1995,no data
+1801,Bolivia,1995,no data
+1802,Bosnia and Herzegovina,1995,70
+1803,Brazil,1995,9.9
+1804,Brunei Darussalam,1995,no data
+1805,Bulgaria,1995,11.4
+1806,Cabo Verde,1995,26
+1807,Canada,1995,9.5
+1808,Chile,1995,7.4
+1809,"China, People's Republic of",1995,2.9
+1810,Colombia,1995,5.6
+1811,Costa Rica,1995,5.2
+1812,Croatia,1995,14.5
+1813,Cyprus,1995,2.6
+1814,Czech Republic,1995,4
+1815,Denmark,1995,6.8
+1816,Dominican Republic,1995,7.3
+1817,Ecuador,1995,5.5
+1818,Egypt,1995,11.2
+1819,El Salvador,1995,7.6
+1820,Estonia,1995,9.6
+1821,Fiji,1995,6.9
+1822,Finland,1995,15.5
+1823,France,1995,10.5
+1824,Georgia,1995,no data
+1825,Germany,1995,8.2
+1826,Greece,1995,10
+1827,Honduras,1995,3.2
+1828,Hong Kong SAR,1995,3.2
+1829,Hungary,1995,10.2
+1830,Iceland,1995,4.8
+1831,Indonesia,1995,7.4
+1832,Iran,1995,10
+1833,Ireland,1995,14.1
+1834,Israel,1995,6.9
+1835,Italy,1995,11.2
+1836,Jamaica,1995,16.2
+1837,Japan,1995,3.2
+1838,Jordan,1995,15.4
+1839,Kazakhstan,1995,11
+1840,"Korea, Republic of",1995,2.1
+1841,Kosovo,1995,no data
+1842,Kuwait,1995,1.5
+1843,Kyrgyz Republic,1995,5.7
+1844,Latvia,1995,7
+1845,Lithuania,1995,no data
+1846,Luxembourg,1995,3
+1847,Macao SAR,1995,no data
+1848,Malaysia,1995,3.1
+1849,Malta,1995,4.9
+1850,Mauritius,1995,5.1
+1851,Mexico,1995,6.2
+1852,Moldova,1995,14.4
+1853,Mongolia,1995,no data
+1854,Morocco,1995,16
+1855,Netherlands,1995,7.7
+1856,New Zealand,1995,6.5
+1857,Nicaragua,1995,16.9
+1858,Nigeria,1995,no data
+1859,North Macedonia ,1995,no data
+1860,Norway,1995,4.9
+1861,Pakistan,1995,5.4
+1862,Panama,1995,14
+1863,Paraguay,1995,3.3
+1864,Peru,1995,7.1
+1865,Philippines,1995,9.5
+1866,Poland,1995,13.3
+1867,Portugal,1995,7.2
+1868,Puerto Rico,1995,13.7
+1869,Romania,1995,9.9
+1870,Russian Federation,1995,9.4
+1871,San Marino,1995,no data
+1872,Saudi Arabia,1995,no data
+1873,Serbia,1995,no data
+1874,Seychelles,1995,7.7
+1875,Singapore,1995,1.8
+1876,Slovak Republic,1995,13.7
+1877,Slovenia,1995,7
+1878,South Africa,1995,16.5
+1879,Spain,1995,22.9
+1880,Sri Lanka,1995,12.3
+1881,Sudan,1995,14.6
+1882,Suriname,1995,8.4
+1883,Sweden,1995,10.4
+1884,Switzerland,1995,4.2
+1885,Syria,1995,no data
+1886,São Tomé and Príncipe,1995,14.4
+1887,Taiwan Province of China,1995,1.8
+1888,Tajikistan,1995,no data
+1889,Thailand,1995,no data
+1890,Trinidad and Tobago,1995,17.2
+1891,Tunisia,1995,16.2
+1892,Turkey,1995,7.1
+1893,Ukraine,1995,14.8
+1894,United Kingdom,1995,8.6
+1895,United States,1995,5.6
+1896,Uruguay,1995,10.3
+1897,Venezuela,1995,no data
+1898,Vietnam,1995,5.8
+1899,West Bank and Gaza,1995,18.7
+1900,Advanced economies,1995,7.1
+1901,Euro area,1995,10.7
+1902,Major advanced economies (G7),1995,6.6
+1903,Other advanced economies,1995,4.5
+1904,"©IMF, 2020",1995,
+1905,Albania,1996,12.3
+1906,Algeria,1996,28
+1907,Argentina,1996,18.8
+1908,Armenia,1996,no data
+1909,Aruba,1996,no data
+1910,Australia,1996,8.5
+1911,Austria,1996,4.7
+1912,Azerbaijan,1996,no data
+1913,"Bahamas, The",1996,11.5
+1914,Bahrain,1996,no data
+1915,Barbados,1996,15.8
+1916,Belarus,1996,4
+1917,Belgium,1996,9.6
+1918,Belize,1996,13.8
+1919,Bhutan,1996,no data
+1920,Bolivia,1996,no data
+1921,Bosnia and Herzegovina,1996,50
+1922,Brazil,1996,11.2
+1923,Brunei Darussalam,1996,no data
+1924,Bulgaria,1996,11
+1925,Cabo Verde,1996,25
+1926,Canada,1996,9.6
+1927,Chile,1996,6.5
+1928,"China, People's Republic of",1996,3
+1929,Colombia,1996,7.8
+1930,Costa Rica,1996,6.2
+1931,Croatia,1996,10
+1932,Cyprus,1996,3.1
+1933,Czech Republic,1996,3.9
+1934,Denmark,1996,6.3
+1935,Dominican Republic,1996,7.5
+1936,Ecuador,1996,9
+1937,Egypt,1996,9.5
+1938,El Salvador,1996,7.7
+1939,Estonia,1996,9.9
+1940,Fiji,1996,3.7
+1941,Finland,1996,14.6
+1942,France,1996,10.8
+1943,Georgia,1996,12.7
+1944,Germany,1996,8.9
+1945,Greece,1996,10.3
+1946,Honduras,1996,4.4
+1947,Hong Kong SAR,1996,2.8
+1948,Hungary,1996,9.9
+1949,Iceland,1996,3.7
+1950,Indonesia,1996,5
+1951,Iran,1996,9.1
+1952,Ireland,1996,11.8
+1953,Israel,1996,8.3
+1954,Italy,1996,11.2
+1955,Jamaica,1996,16
+1956,Japan,1996,3.4
+1957,Jordan,1996,13.1
+1958,Kazakhstan,1996,13
+1959,"Korea, Republic of",1996,2.1
+1960,Kosovo,1996,no data
+1961,Kuwait,1996,1.8
+1962,Kyrgyz Republic,1996,7.8
+1963,Latvia,1996,20.7
+1964,Lithuania,1996,no data
+1965,Luxembourg,1996,3.2
+1966,Macao SAR,1996,no data
+1967,Malaysia,1996,2.5
+1968,Malta,1996,5.2
+1969,Mauritius,1996,5.8
+1970,Mexico,1996,5.5
+1971,Moldova,1996,13
+1972,Mongolia,1996,no data
+1973,Morocco,1996,15.5
+1974,Netherlands,1996,7.1
+1975,New Zealand,1996,6.3
+1976,Nicaragua,1996,16
+1977,Nigeria,1996,no data
+1978,North Macedonia ,1996,32
+1979,Norway,1996,4.8
+1980,Pakistan,1996,5.4
+1981,Panama,1996,14.3
+1982,Paraguay,1996,8.2
+1983,Peru,1996,7.2
+1984,Philippines,1996,8.5
+1985,Poland,1996,12.3
+1986,Portugal,1996,7.3
+1987,Puerto Rico,1996,13.4
+1988,Romania,1996,7.3
+1989,Russian Federation,1996,9.3
+1990,San Marino,1996,no data
+1991,Saudi Arabia,1996,no data
+1992,Serbia,1996,no data
+1993,Seychelles,1996,7.5
+1994,Singapore,1996,1.7
+1995,Slovak Republic,1996,12.6
+1996,Slovenia,1996,6.9
+1997,South Africa,1996,20.3
+1998,Spain,1996,22.1
+1999,Sri Lanka,1996,11.3
+2000,Sudan,1996,14
+2001,Suriname,1996,10.9
+2002,Sweden,1996,10.9
+2003,Switzerland,1996,4.7
+2004,Syria,1996,no data
+2005,São Tomé and Príncipe,1996,14.1
+2006,Taiwan Province of China,1996,2.6
+2007,Tajikistan,1996,no data
+2008,Thailand,1996,no data
+2009,Trinidad and Tobago,1996,16.3
+2010,Tunisia,1996,16.1
+2011,Turkey,1996,6.1
+2012,Ukraine,1996,10
+2013,United Kingdom,1996,8.1
+2014,United States,1996,5.4
+2015,Uruguay,1996,11.9
+2016,Venezuela,1996,no data
+2017,Vietnam,1996,5.9
+2018,West Bank and Gaza,1996,23.5
+2019,Advanced economies,1996,7.1
+2020,Euro area,1996,10.8
+2021,Major advanced economies (G7),1996,6.7
+2022,Other advanced economies,1996,4.7
+2023,"©IMF, 2020",1996,
+2024,Albania,1997,14.9
+2025,Algeria,1997,28
+2026,Argentina,1997,16.8
+2027,Armenia,1997,no data
+2028,Aruba,1997,no data
+2029,Australia,1997,8.4
+2030,Austria,1997,4.8
+2031,Azerbaijan,1997,no data
+2032,"Bahamas, The",1997,9.8
+2033,Bahrain,1997,no data
+2034,Barbados,1997,14.6
+2035,Belarus,1997,2.8
+2036,Belgium,1997,9.2
+2037,Belize,1997,12.7
+2038,Bhutan,1997,no data
+2039,Bolivia,1997,no data
+2040,Bosnia and Herzegovina,1997,32.3
+2041,Brazil,1997,11.6
+2042,Brunei Darussalam,1997,no data
+2043,Bulgaria,1997,14
+2044,Cabo Verde,1997,25
+2045,Canada,1997,9.1
+2046,Chile,1997,6.1
+2047,"China, People's Republic of",1997,3.1
+2048,Colombia,1997,7.9
+2049,Costa Rica,1997,5.7
+2050,Croatia,1997,9.9
+2051,Cyprus,1997,3.4
+2052,Czech Republic,1997,4.8
+2053,Denmark,1997,5.2
+2054,Dominican Republic,1997,7.2
+2055,Ecuador,1997,7.8
+2056,Egypt,1997,8.7
+2057,El Salvador,1997,8
+2058,Estonia,1997,9.7
+2059,Fiji,1997,4.2
+2060,Finland,1997,12.7
+2061,France,1997,10.9
+2062,Georgia,1997,7.6
+2063,Germany,1997,9.7
+2064,Greece,1997,10.3
+2065,Honduras,1997,3.3
+2066,Hong Kong SAR,1997,2.2
+2067,Hungary,1997,8.7
+2068,Iceland,1997,3.7
+2069,Indonesia,1997,4.8
+2070,Iran,1997,11.9
+2071,Ireland,1997,9.9
+2072,Israel,1997,9.5
+2073,Italy,1997,11.2
+2074,Jamaica,1997,16.5
+2075,Japan,1997,3.4
+2076,Jordan,1997,14.4
+2077,Kazakhstan,1997,13
+2078,"Korea, Republic of",1997,2.6
+2079,Kosovo,1997,no data
+2080,Kuwait,1997,0.7
+2081,Kyrgyz Republic,1997,5.7
+2082,Latvia,1997,15.2
+2083,Lithuania,1997,no data
+2084,Luxembourg,1997,3.3
+2085,Macao SAR,1997,no data
+2086,Malaysia,1997,2.4
+2087,Malta,1997,6.2
+2088,Mauritius,1997,6.6
+2089,Mexico,1997,3.7
+2090,Moldova,1997,12
+2091,Mongolia,1997,no data
+2092,Morocco,1997,15.4
+2093,Netherlands,1997,6.1
+2094,New Zealand,1997,6.9
+2095,Nicaragua,1997,14.3
+2096,Nigeria,1997,no data
+2097,North Macedonia ,1997,36.1
+2098,Norway,1997,4
+2099,Pakistan,1997,6.1
+2100,Panama,1997,13.4
+2101,Paraguay,1997,5
+2102,Peru,1997,8.6
+2103,Philippines,1997,8.7
+2104,Poland,1997,11.2
+2105,Portugal,1997,6.7
+2106,Puerto Rico,1997,13.5
+2107,Romania,1997,7.9
+2108,Russian Federation,1997,10.8
+2109,San Marino,1997,no data
+2110,Saudi Arabia,1997,no data
+2111,Serbia,1997,12.3
+2112,Seychelles,1997,6.8
+2113,Singapore,1997,1.4
+2114,Slovak Republic,1997,11.9
+2115,Slovenia,1997,6.9
+2116,South Africa,1997,22
+2117,Spain,1997,20.6
+2118,Sri Lanka,1997,10.5
+2119,Sudan,1997,13.5
+2120,Suriname,1997,9.8
+2121,Sweden,1997,10.9
+2122,Switzerland,1997,5.2
+2123,Syria,1997,16.8
+2124,São Tomé and Príncipe,1997,14.4
+2125,Taiwan Province of China,1997,2.7
+2126,Tajikistan,1997,no data
+2127,Thailand,1997,no data
+2128,Trinidad and Tobago,1997,15
+2129,Tunisia,1997,15.9
+2130,Turkey,1997,6.3
+2131,Ukraine,1997,9.8
+2132,United Kingdom,1997,7
+2133,United States,1997,4.9
+2134,Uruguay,1997,11.6
+2135,Venezuela,1997,no data
+2136,Vietnam,1997,6
+2137,West Bank and Gaza,1997,20.1
+2138,Advanced economies,1997,6.9
+2139,Euro area,1997,10.8
+2140,Major advanced economies (G7),1997,6.4
+2141,Other advanced economies,1997,4.9
+2142,"©IMF, 2020",1997,
+2143,Albania,1998,17.7
+2144,Algeria,1998,28
+2145,Argentina,1998,14.8
+2146,Armenia,1998,no data
+2147,Aruba,1998,3.3
+2148,Australia,1998,7.7
+2149,Austria,1998,4.7
+2150,Azerbaijan,1998,no data
+2151,"Bahamas, The",1998,7.7
+2152,Bahrain,1998,no data
+2153,Barbados,1998,12.2
+2154,Belarus,1998,2.3
+2155,Belgium,1998,9.3
+2156,Belize,1998,14.3
+2157,Bhutan,1998,no data
+2158,Bolivia,1998,no data
+2159,Bosnia and Herzegovina,1998,29.3
+2160,Brazil,1998,14.7
+2161,Brunei Darussalam,1998,no data
+2162,Bulgaria,1998,12.4
+2163,Cabo Verde,1998,24
+2164,Canada,1998,8.3
+2165,Chile,1998,6.2
+2166,"China, People's Republic of",1998,3.1
+2167,Colombia,1998,9.7
+2168,Costa Rica,1998,5.6
+2169,Croatia,1998,11.6
+2170,Cyprus,1998,3.4
+2171,Czech Republic,1998,6.5
+2172,Denmark,1998,4.9
+2173,Dominican Republic,1998,7.4
+2174,Ecuador,1998,10.2
+2175,Egypt,1998,8
+2176,El Salvador,1998,7.3
+2177,Estonia,1998,9.8
+2178,Fiji,1998,4.6
+2179,Finland,1998,11.5
+2180,France,1998,10.7
+2181,Georgia,1998,12.4
+2182,Germany,1998,9.4
+2183,Greece,1998,11.2
+2184,Honduras,1998,4
+2185,Hong Kong SAR,1998,4.7
+2186,Hungary,1998,7.8
+2187,Iceland,1998,2.9
+2188,Indonesia,1998,5.5
+2189,Iran,1998,13.6
+2190,Ireland,1998,7.6
+2191,Israel,1998,10.7
+2192,Italy,1998,11.3
+2193,Jamaica,1998,15.5
+2194,Japan,1998,4.1
+2195,Jordan,1998,13.5
+2196,Kazakhstan,1998,13.1
+2197,"Korea, Republic of",1998,7
+2198,Kosovo,1998,no data
+2199,Kuwait,1998,0.7
+2200,Kyrgyz Republic,1998,5.9
+2201,Latvia,1998,14
+2202,Lithuania,1998,no data
+2203,Luxembourg,1998,3.1
+2204,Macao SAR,1998,no data
+2205,Malaysia,1998,3.2
+2206,Malta,1998,6.6
+2207,Mauritius,1998,6.9
+2208,Mexico,1998,3.2
+2209,Moldova,1998,9.2
+2210,Mongolia,1998,no data
+2211,Morocco,1998,15.2
+2212,Netherlands,1998,4.9
+2213,New Zealand,1998,7.7
+2214,Nicaragua,1998,13.2
+2215,Nigeria,1998,no data
+2216,North Macedonia ,1998,34.5
+2217,Norway,1998,3.2
+2218,Pakistan,1998,5.9
+2219,Panama,1998,11.6
+2220,Paraguay,1998,5.8
+2221,Peru,1998,6.9
+2222,Philippines,1998,10.1
+2223,Poland,1998,10.6
+2224,Portugal,1998,4.9
+2225,Puerto Rico,1998,13.3
+2226,Romania,1998,9.6
+2227,Russian Federation,1998,11.9
+2228,San Marino,1998,no data
+2229,Saudi Arabia,1998,no data
+2230,Serbia,1998,12.8
+2231,Seychelles,1998,4.2
+2232,Singapore,1998,2.5
+2233,Slovak Republic,1998,12.7
+2234,Slovenia,1998,7.4
+2235,South Africa,1998,26.1
+2236,Spain,1998,18.6
+2237,Sri Lanka,1998,9.2
+2238,Sudan,1998,13
+2239,Suriname,1998,10.6
+2240,Sweden,1998,8.8
+2241,Switzerland,1998,3.9
+2242,Syria,1998,12.4
+2243,São Tomé and Príncipe,1998,14.4
+2244,Taiwan Province of China,1998,2.7
+2245,Tajikistan,1998,no data
+2246,Thailand,1998,no data
+2247,Trinidad and Tobago,1998,14.2
+2248,Tunisia,1998,16.1
+2249,Turkey,1998,6.4
+2250,Ukraine,1998,11.3
+2251,United Kingdom,1998,6.3
+2252,United States,1998,4.5
+2253,Uruguay,1998,10.1
+2254,Venezuela,1998,no data
+2255,Vietnam,1998,6.9
+2256,West Bank and Gaza,1998,14.2
+2257,Advanced economies,1998,6.8
+2258,Euro area,1998,10.5
+2259,Major advanced economies (G7),1998,6.3
+2260,Other advanced economies,1998,6.2
+2261,"©IMF, 2020",1998,
+2262,Albania,1999,18.4
+2263,Algeria,1999,29.3
+2264,Argentina,1999,16.1
+2265,Armenia,1999,no data
+2266,Aruba,1999,4.8
+2267,Australia,1999,6.9
+2268,Austria,1999,4.1
+2269,Azerbaijan,1999,no data
+2270,"Bahamas, The",1999,7.8
+2271,Bahrain,1999,no data
+2272,Barbados,1999,10.4
+2273,Belarus,1999,2.1
+2274,Belgium,1999,8.4
+2275,Belize,1999,12.8
+2276,Bhutan,1999,no data
+2277,Bolivia,1999,no data
+2278,Bosnia and Herzegovina,1999,31.1
+2279,Brazil,1999,14.7
+2280,Brunei Darussalam,1999,no data
+2281,Bulgaria,1999,13.8
+2282,Cabo Verde,1999,22
+2283,Canada,1999,7.6
+2284,Chile,1999,10
+2285,"China, People's Republic of",1999,3.1
+2286,Colombia,1999,13.1
+2287,Costa Rica,1999,6
+2288,Croatia,1999,18.6
+2289,Cyprus,1999,3.6
+2290,Czech Republic,1999,8.7
+2291,Denmark,1999,5.1
+2292,Dominican Republic,1999,6.3
+2293,Ecuador,1999,13.1
+2294,Egypt,1999,7.7
+2295,El Salvador,1999,6.4
+2296,Estonia,1999,12.3
+2297,Fiji,1999,5.1
+2298,Finland,1999,10.3
+2299,France,1999,10.4
+2300,Georgia,1999,12.6
+2301,Germany,1999,8.6
+2302,Greece,1999,12.1
+2303,Honduras,1999,3.8
+2304,Hong Kong SAR,1999,6.2
+2305,Hungary,1999,7
+2306,Iceland,1999,2
+2307,Indonesia,1999,6.4
+2308,Iran,1999,15.8
+2309,Ireland,1999,5.9
+2310,Israel,1999,11.1
+2311,Italy,1999,10.9
+2312,Jamaica,1999,15.7
+2313,Japan,1999,4.7
+2314,Jordan,1999,14.4
+2315,Kazakhstan,1999,13.5
+2316,"Korea, Republic of",1999,6.6
+2317,Kosovo,1999,no data
+2318,Kuwait,1999,0.8
+2319,Kyrgyz Republic,1999,7.2
+2320,Latvia,1999,14.1
+2321,Lithuania,1999,14.6
+2322,Luxembourg,1999,2.9
+2323,Macao SAR,1999,no data
+2324,Malaysia,1999,3.4
+2325,Malta,1999,7.1
+2326,Mauritius,1999,7.7
+2327,Mexico,1999,2.5
+2328,Moldova,1999,11.1
+2329,Mongolia,1999,no data
+2330,Morocco,1999,13.9
+2331,Netherlands,1999,4.1
+2332,New Zealand,1999,7.1
+2333,Nicaragua,1999,10.7
+2334,Nigeria,1999,no data
+2335,North Macedonia ,1999,32.4
+2336,Norway,1999,3.2
+2337,Pakistan,1999,5.9
+2338,Panama,1999,9.5
+2339,Paraguay,1999,6.8
+2340,Peru,1999,9.4
+2341,Philippines,1999,9.7
+2342,Poland,1999,13.1
+2343,Portugal,1999,4.4
+2344,Puerto Rico,1999,11.7
+2345,Romania,1999,7.2
+2346,Russian Federation,1999,13
+2347,San Marino,1999,no data
+2348,Saudi Arabia,1999,4.3
+2349,Serbia,1999,13.3
+2350,Seychelles,1999,3.2
+2351,Singapore,1999,2.8
+2352,Slovak Republic,1999,16.5
+2353,Slovenia,1999,7.4
+2354,South Africa,1999,23.3
+2355,Spain,1999,15.6
+2356,Sri Lanka,1999,8.9
+2357,Sudan,1999,12.5
+2358,Suriname,1999,12
+2359,Sweden,1999,7.6
+2360,Switzerland,1999,2.7
+2361,Syria,1999,13.5
+2362,São Tomé and Príncipe,1999,14.4
+2363,Taiwan Province of China,1999,2.9
+2364,Tajikistan,1999,3.2
+2365,Thailand,1999,no data
+2366,Trinidad and Tobago,1999,13.2
+2367,Tunisia,1999,16
+2368,Turkey,1999,7.2
+2369,Ukraine,1999,11.9
+2370,United Kingdom,1999,6
+2371,United States,1999,4.2
+2372,Uruguay,1999,11.2
+2373,Venezuela,1999,14.5
+2374,Vietnam,1999,6.7
+2375,West Bank and Gaza,1999,11.8
+2376,Advanced economies,1999,6.6
+2377,Euro area,1999,9.8
+2378,Major advanced economies (G7),1999,6.1
+2379,Other advanced economies,1999,6.1
+2380,"©IMF, 2020",1999,
+2381,Albania,2000,16.8
+2382,Algeria,2000,29.5
+2383,Argentina,2000,17.1
+2384,Armenia,2000,no data
+2385,Aruba,2000,6.9
+2386,Australia,2000,6.3
+2387,Austria,2000,3.9
+2388,Azerbaijan,2000,11.8
+2389,"Bahamas, The",2000,7
+2390,Bahrain,2000,no data
+2391,Barbados,2000,9.4
+2392,Belarus,2000,2.1
+2393,Belgium,2000,6.9
+2394,Belize,2000,11.4
+2395,Bhutan,2000,no data
+2396,Bolivia,2000,7.5
+2397,Bosnia and Herzegovina,2000,31.1
+2398,Brazil,2000,13.9
+2399,Brunei Darussalam,2000,no data
+2400,Bulgaria,2000,18.1
+2401,Cabo Verde,2000,20
+2402,Canada,2000,6.8
+2403,Chile,2000,9.7
+2404,"China, People's Republic of",2000,3.1
+2405,Colombia,2000,13.3
+2406,Costa Rica,2000,5.2
+2407,Croatia,2000,20.6
+2408,Cyprus,2000,4.8
+2409,Czech Republic,2000,8.8
+2410,Denmark,2000,4.3
+2411,Dominican Republic,2000,8
+2412,Ecuador,2000,7.6
+2413,Egypt,2000,9
+2414,El Salvador,2000,6.7
+2415,Estonia,2000,14.6
+2416,Fiji,2000,5.5
+2417,Finland,2000,9.9
+2418,France,2000,9.2
+2419,Georgia,2000,10.3
+2420,Germany,2000,8
+2421,Greece,2000,11.4
+2422,Honduras,2000,4
+2423,Hong Kong SAR,2000,4.9
+2424,Hungary,2000,6.4
+2425,Iceland,2000,2.2
+2426,Indonesia,2000,6.1
+2427,Iran,2000,16
+2428,Ireland,2000,4.5
+2429,Israel,2000,10.9
+2430,Italy,2000,10.1
+2431,Jamaica,2000,15.5
+2432,Japan,2000,4.7
+2433,Jordan,2000,13.7
+2434,Kazakhstan,2000,12.8
+2435,"Korea, Republic of",2000,4.4
+2436,Kosovo,2000,no data
+2437,Kuwait,2000,0.8
+2438,Kyrgyz Republic,2000,7.5
+2439,Latvia,2000,14.3
+2440,Lithuania,2000,16.4
+2441,Luxembourg,2000,2.4
+2442,Macao SAR,2000,no data
+2443,Malaysia,2000,3.1
+2444,Malta,2000,6.8
+2445,Mauritius,2000,6.5
+2446,Mexico,2000,2.2
+2447,Moldova,2000,8.5
+2448,Mongolia,2000,no data
+2449,Morocco,2000,13.4
+2450,Netherlands,2000,3.7
+2451,New Zealand,2000,6.2
+2452,Nicaragua,2000,9.8
+2453,Nigeria,2000,no data
+2454,North Macedonia ,2000,31.7
+2455,Norway,2000,3.4
+2456,Pakistan,2000,7.8
+2457,Panama,2000,13.5
+2458,Paraguay,2000,7.3
+2459,Peru,2000,7.8
+2460,Philippines,2000,11.2
+2461,Poland,2000,16.1
+2462,Portugal,2000,3.9
+2463,Puerto Rico,2000,10.1
+2464,Romania,2000,7.6
+2465,Russian Federation,2000,10.6
+2466,San Marino,2000,no data
+2467,Saudi Arabia,2000,4.6
+2468,Serbia,2000,12.1
+2469,Seychelles,2000,3.1
+2470,Singapore,2000,2.7
+2471,Slovak Republic,2000,18.9
+2472,Slovenia,2000,6.8
+2473,South Africa,2000,23
+2474,Spain,2000,13.9
+2475,Sri Lanka,2000,7.6
+2476,Sudan,2000,15.2
+2477,Suriname,2000,13.8
+2478,Sweden,2000,6.3
+2479,Switzerland,2000,1.8
+2480,Syria,2000,13.5
+2481,São Tomé and Príncipe,2000,14.4
+2482,Taiwan Province of China,2000,3
+2483,Tajikistan,2000,2.6
+2484,Thailand,2000,no data
+2485,Trinidad and Tobago,2000,12.2
+2486,Tunisia,2000,15.7
+2487,Turkey,2000,6
+2488,Ukraine,2000,11.5
+2489,United Kingdom,2000,5.5
+2490,United States,2000,4
+2491,Uruguay,2000,13.4
+2492,Venezuela,2000,14
+2493,Vietnam,2000,6.4
+2494,West Bank and Gaza,2000,14.3
+2495,Advanced economies,2000,6
+2496,Euro area,2000,9
+2497,Major advanced economies (G7),2000,5.7
+2498,Other advanced economies,2000,5.1
+2499,"©IMF, 2020",2000,
+2500,Albania,2001,16.4
+2501,Algeria,2001,27.3
+2502,Argentina,2001,19.2
+2503,Armenia,2001,38.4
+2504,Aruba,2001,6.5
+2505,Australia,2001,6.8
+2506,Austria,2001,4
+2507,Azerbaijan,2001,10.9
+2508,"Bahamas, The",2001,6.9
+2509,Bahrain,2001,no data
+2510,Barbados,2001,9.9
+2511,Belarus,2001,2.3
+2512,Belgium,2001,6.6
+2513,Belize,2001,11.4
+2514,Bhutan,2001,no data
+2515,Bolivia,2001,8.5
+2516,Bosnia and Herzegovina,2001,31.1
+2517,Brazil,2001,12.5
+2518,Brunei Darussalam,2001,no data
+2519,Bulgaria,2001,17.5
+2520,Cabo Verde,2001,21
+2521,Canada,2001,7.2
+2522,Chile,2001,9.9
+2523,"China, People's Republic of",2001,3.6
+2524,Colombia,2001,15
+2525,Costa Rica,2001,6.1
+2526,Croatia,2001,21.5
+2527,Cyprus,2001,3.9
+2528,Czech Republic,2001,8.1
+2529,Denmark,2001,4.5
+2530,Dominican Republic,2001,9.1
+2531,Ecuador,2001,9.6
+2532,Egypt,2001,8.8
+2533,El Salvador,2001,7
+2534,Estonia,2001,13
+2535,Fiji,2001,6
+2536,Finland,2001,9.2
+2537,France,2001,8.5
+2538,Georgia,2001,11.1
+2539,Germany,2001,7.8
+2540,Greece,2001,10.8
+2541,Honduras,2001,4
+2542,Hong Kong SAR,2001,5.1
+2543,Hungary,2001,5.7
+2544,Iceland,2001,2.3
+2545,Indonesia,2001,8.1
+2546,Iran,2001,16.6
+2547,Ireland,2001,4.2
+2548,Israel,2001,11.6
+2549,Italy,2001,9.1
+2550,Jamaica,2001,15
+2551,Japan,2001,5
+2552,Jordan,2001,14.7
+2553,Kazakhstan,2001,10.4
+2554,"Korea, Republic of",2001,4
+2555,Kosovo,2001,no data
+2556,Kuwait,2001,1.1
+2557,Kyrgyz Republic,2001,7.8
+2558,Latvia,2001,13.5
+2559,Lithuania,2001,17.4
+2560,Luxembourg,2001,2.2
+2561,Macao SAR,2001,6.4
+2562,Malaysia,2001,3.7
+2563,Malta,2001,7.6
+2564,Mauritius,2001,6.8
+2565,Mexico,2001,2.8
+2566,Moldova,2001,7.3
+2567,Mongolia,2001,no data
+2568,Morocco,2001,12.3
+2569,Netherlands,2001,3.1
+2570,New Zealand,2001,5.5
+2571,Nicaragua,2001,6.4
+2572,Nigeria,2001,no data
+2573,North Macedonia ,2001,30.5
+2574,Norway,2001,3.5
+2575,Pakistan,2001,7.8
+2576,Panama,2001,14
+2577,Paraguay,2001,7.6
+2578,Peru,2001,9.2
+2579,Philippines,2001,11.1
+2580,Poland,2001,18.2
+2581,Portugal,2001,4
+2582,Puerto Rico,2001,11.4
+2583,Romania,2001,7.3
+2584,Russian Federation,2001,8.9
+2585,San Marino,2001,3.5
+2586,Saudi Arabia,2001,4.6
+2587,Serbia,2001,12.2
+2588,Seychelles,2001,4.4
+2589,Singapore,2001,2.7
+2590,Slovak Republic,2001,19.5
+2591,Slovenia,2001,6.2
+2592,South Africa,2001,26
+2593,Spain,2001,10.5
+2594,Sri Lanka,2001,7.9
+2595,Sudan,2001,15
+2596,Suriname,2001,13.7
+2597,Sweden,2001,5.8
+2598,Switzerland,2001,1.7
+2599,Syria,2001,8.2
+2600,São Tomé and Príncipe,2001,15.7
+2601,Taiwan Province of China,2001,4.6
+2602,Tajikistan,2001,2.5
+2603,Thailand,2001,3.3
+2604,Trinidad and Tobago,2001,10.8
+2605,Tunisia,2001,15.1
+2606,Turkey,2001,7.8
+2607,Ukraine,2001,10.8
+2608,United Kingdom,2001,5.1
+2609,United States,2001,4.7
+2610,Uruguay,2001,15.2
+2611,Venezuela,2001,13.4
+2612,Vietnam,2001,6.3
+2613,West Bank and Gaza,2001,25.3
+2614,Advanced economies,2001,6.1
+2615,Euro area,2001,8.4
+2616,Major advanced economies (G7),2001,5.9
+2617,Other advanced economies,2001,5.2
+2618,"©IMF, 2020",2001,
+2619,Albania,2002,15.8
+2620,Algeria,2002,25.7
+2621,Argentina,2002,22.5
+2622,Armenia,2002,35.3
+2623,Aruba,2002,8.1
+2624,Australia,2002,6.4
+2625,Austria,2002,4.4
+2626,Azerbaijan,2002,10
+2627,"Bahamas, The",2002,9.1
+2628,Bahrain,2002,no data
+2629,Barbados,2002,10.3
+2630,Belarus,2002,2.7
+2631,Belgium,2002,7.5
+2632,Belize,2002,10
+2633,Bhutan,2002,no data
+2634,Bolivia,2002,8.7
+2635,Bosnia and Herzegovina,2002,31.1
+2636,Brazil,2002,13
+2637,Brunei Darussalam,2002,no data
+2638,Bulgaria,2002,17.4
+2639,Cabo Verde,2002,20.5
+2640,Canada,2002,7.7
+2641,Chile,2002,9.8
+2642,"China, People's Republic of",2002,4
+2643,Colombia,2002,15.6
+2644,Costa Rica,2002,6.4
+2645,Croatia,2002,21.8
+2646,Cyprus,2002,3.5
+2647,Czech Republic,2002,7.3
+2648,Denmark,2002,4.6
+2649,Dominican Republic,2002,8.5
+2650,Ecuador,2002,7.8
+2651,Egypt,2002,10.1
+2652,El Salvador,2002,6.2
+2653,Estonia,2002,11.2
+2654,Fiji,2002,6.4
+2655,Finland,2002,9.2
+2656,France,2002,8.3
+2657,Georgia,2002,13.5
+2658,Germany,2002,8.6
+2659,Greece,2002,10.4
+2660,Honduras,2002,4
+2661,Hong Kong SAR,2002,7.3
+2662,Hungary,2002,5.8
+2663,Iceland,2002,3.1
+2664,Indonesia,2002,9.1
+2665,Iran,2002,12.2
+2666,Ireland,2002,4.7
+2667,Israel,2002,12.9
+2668,Italy,2002,8.6
+2669,Jamaica,2002,14.2
+2670,Japan,2002,5.4
+2671,Jordan,2002,15.3
+2672,Kazakhstan,2002,9.3
+2673,"Korea, Republic of",2002,3.3
+2674,Kosovo,2002,no data
+2675,Kuwait,2002,1.3
+2676,Kyrgyz Republic,2002,12.5
+2677,Latvia,2002,12.5
+2678,Lithuania,2002,13.7
+2679,Luxembourg,2002,2.5
+2680,Macao SAR,2002,6.3
+2681,Malaysia,2002,3.5
+2682,Malta,2002,7
+2683,Mauritius,2002,7.2
+2684,Mexico,2002,3
+2685,Moldova,2002,6.8
+2686,Mongolia,2002,no data
+2687,Morocco,2002,11.3
+2688,Netherlands,2002,3.7
+2689,New Zealand,2002,5.3
+2690,Nicaragua,2002,12.2
+2691,Nigeria,2002,no data
+2692,North Macedonia ,2002,31.9
+2693,Norway,2002,3.9
+2694,Pakistan,2002,8.3
+2695,Panama,2002,13.5
+2696,Paraguay,2002,10.8
+2697,Peru,2002,9.4
+2698,Philippines,2002,11.4
+2699,Poland,2002,19.9
+2700,Portugal,2002,5
+2701,Puerto Rico,2002,12.3
+2702,Romania,2002,8.3
+2703,Russian Federation,2002,8
+2704,San Marino,2002,3.9
+2705,Saudi Arabia,2002,5.3
+2706,Serbia,2002,14.5
+2707,Seychelles,2002,4.1
+2708,Singapore,2002,3.6
+2709,Slovak Republic,2002,18.8
+2710,Slovenia,2002,6.3
+2711,South Africa,2002,27.8
+2712,Spain,2002,11.5
+2713,Sri Lanka,2002,8.8
+2714,Sudan,2002,15.9
+2715,Suriname,2002,9.7
+2716,Sweden,2002,6
+2717,Switzerland,2002,2.5
+2718,Syria,2002,11.7
+2719,São Tomé and Príncipe,2002,17.6
+2720,Taiwan Province of China,2002,5.2
+2721,Tajikistan,2002,2.6
+2722,Thailand,2002,2.4
+2723,Trinidad and Tobago,2002,10.4
+2724,Tunisia,2002,15.3
+2725,Turkey,2002,9.8
+2726,Ukraine,2002,9.6
+2727,United Kingdom,2002,5.2
+2728,United States,2002,5.8
+2729,Uruguay,2002,16.8
+2730,Venezuela,2002,16
+2731,Vietnam,2002,6
+2732,West Bank and Gaza,2002,31.2
+2733,Advanced economies,2002,6.5
+2734,Euro area,2002,8.7
+2735,Major advanced economies (G7),2002,6.5
+2736,Other advanced economies,2002,5.2
+2737,"©IMF, 2020",2002,
+2738,Albania,2003,15
+2739,Algeria,2003,23.7
+2740,Argentina,2003,17.3
+2741,Armenia,2003,31.2
+2742,Aruba,2003,11.4
+2743,Australia,2003,5.9
+2744,Austria,2003,4.8
+2745,Azerbaijan,2003,9.2
+2746,"Bahamas, The",2003,10.8
+2747,Bahrain,2003,no data
+2748,Barbados,2003,11
+2749,Belarus,2003,3.1
+2750,Belgium,2003,8.2
+2751,Belize,2003,12.9
+2752,Bhutan,2003,1.8
+2753,Bolivia,2003,8.7
+2754,Bosnia and Herzegovina,2003,31.1
+2755,Brazil,2003,13.7
+2756,Brunei Darussalam,2003,no data
+2757,Bulgaria,2003,13.9
+2758,Cabo Verde,2003,20
+2759,Canada,2003,7.6
+2760,Chile,2003,9.5
+2761,"China, People's Republic of",2003,4.3
+2762,Colombia,2003,14.1
+2763,Costa Rica,2003,6.7
+2764,Croatia,2003,19.1
+2765,Cyprus,2003,4.1
+2766,Czech Republic,2003,7.8
+2767,Denmark,2003,5.4
+2768,Dominican Republic,2003,8.7
+2769,Ecuador,2003,10.2
+2770,Egypt,2003,11.3
+2771,El Salvador,2003,6.9
+2772,Estonia,2003,10.3
+2773,Fiji,2003,6.8
+2774,Finland,2003,9.1
+2775,France,2003,8.5
+2776,Georgia,2003,12.7
+2777,Germany,2003,9.7
+2778,Greece,2003,9.8
+2779,Honduras,2003,5.3
+2780,Hong Kong SAR,2003,7.9
+2781,Hungary,2003,5.9
+2782,Iceland,2003,3.4
+2783,Indonesia,2003,9.7
+2784,Iran,2003,11.3
+2785,Ireland,2003,4.8
+2786,Israel,2003,13.4
+2787,Italy,2003,8.5
+2788,Jamaica,2003,11.8
+2789,Japan,2003,5.2
+2790,Jordan,2003,14.4
+2791,Kazakhstan,2003,8.8
+2792,"Korea, Republic of",2003,3.6
+2793,Kosovo,2003,no data
+2794,Kuwait,2003,1.2
+2795,Kyrgyz Republic,2003,9.9
+2796,Latvia,2003,11.6
+2797,Lithuania,2003,12.4
+2798,Luxembourg,2003,3.3
+2799,Macao SAR,2003,6.1
+2800,Malaysia,2003,3.6
+2801,Malta,2003,7.6
+2802,Mauritius,2003,7.7
+2803,Mexico,2003,3.4
+2804,Moldova,2003,7.9
+2805,Mongolia,2003,no data
+2806,Morocco,2003,11.4
+2807,Netherlands,2003,4.8
+2808,New Zealand,2003,4.8
+2809,Nicaragua,2003,7
+2810,Nigeria,2003,no data
+2811,North Macedonia ,2003,36.7
+2812,Norway,2003,4.5
+2813,Pakistan,2003,8.3
+2814,Panama,2003,13
+2815,Paraguay,2003,8.1
+2816,Peru,2003,9.4
+2817,Philippines,2003,11.4
+2818,Poland,2003,19.6
+2819,Portugal,2003,6.3
+2820,Puerto Rico,2003,12
+2821,Romania,2003,7.8
+2822,Russian Federation,2003,8.2
+2823,San Marino,2003,4.1
+2824,Saudi Arabia,2003,5.6
+2825,Serbia,2003,16
+2826,Seychelles,2003,3.2
+2827,Singapore,2003,4
+2828,Slovak Republic,2003,17.7
+2829,Slovenia,2003,6.7
+2830,South Africa,2003,27.7
+2831,Spain,2003,11.5
+2832,Sri Lanka,2003,8.4
+2833,Sudan,2003,15.8
+2834,Suriname,2003,6.5
+2835,Sweden,2003,6.6
+2836,Switzerland,2003,3.7
+2837,Syria,2003,10.8
+2838,São Tomé and Príncipe,2003,16.4
+2839,Taiwan Province of China,2003,5
+2840,Tajikistan,2003,2.3
+2841,Thailand,2003,2.2
+2842,Trinidad and Tobago,2003,10.5
+2843,Tunisia,2003,14.5
+2844,Turkey,2003,9.9
+2845,Ukraine,2003,9.1
+2846,United Kingdom,2003,5
+2847,United States,2003,6
+2848,Uruguay,2003,17.2
+2849,Venezuela,2003,18.2
+2850,Vietnam,2003,5.8
+2851,West Bank and Gaza,2003,25.5
+2852,Advanced economies,2003,6.7
+2853,Euro area,2003,9.1
+2854,Major advanced economies (G7),2003,6.6
+2855,Other advanced economies,2003,5.4
+2856,"©IMF, 2020",2003,
+2857,Albania,2004,14.4
+2858,Algeria,2004,17.7
+2859,Argentina,2004,13.6
+2860,Armenia,2004,31.6
+2861,Aruba,2004,9.5
+2862,Australia,2004,5.4
+2863,Austria,2004,5.5
+2864,Azerbaijan,2004,8
+2865,"Bahamas, The",2004,10.2
+2866,Bahrain,2004,no data
+2867,Barbados,2004,9.6
+2868,Belarus,2004,2.5
+2869,Belgium,2004,8.4
+2870,Belize,2004,11.6
+2871,Bhutan,2004,2.5
+2872,Bolivia,2004,8.4
+2873,Bosnia and Herzegovina,2004,31.1
+2874,Brazil,2004,12.9
+2875,Brunei Darussalam,2004,no data
+2876,Bulgaria,2004,12.2
+2877,Cabo Verde,2004,19.5
+2878,Canada,2004,7.2
+2879,Chile,2004,10
+2880,"China, People's Republic of",2004,4.2
+2881,Colombia,2004,13.7
+2882,Costa Rica,2004,6.5
+2883,Croatia,2004,17.8
+2884,Cyprus,2004,4.6
+2885,Czech Republic,2004,8.3
+2886,Denmark,2004,5.5
+2887,Dominican Republic,2004,7.9
+2888,Ecuador,2004,7.2
+2889,Egypt,2004,10.5
+2890,El Salvador,2004,6.8
+2891,Estonia,2004,10.1
+2892,Fiji,2004,7.3
+2893,Finland,2004,8.9
+2894,France,2004,8.8
+2895,Georgia,2004,13.9
+2896,Germany,2004,10.3
+2897,Greece,2004,10.6
+2898,Honduras,2004,6
+2899,Hong Kong SAR,2004,6.8
+2900,Hungary,2004,6.1
+2901,Iceland,2004,3.1
+2902,Indonesia,2004,9.9
+2903,Iran,2004,10.3
+2904,Ireland,2004,4.7
+2905,Israel,2004,12.9
+2906,Italy,2004,8
+2907,Jamaica,2004,12.2
+2908,Japan,2004,4.7
+2909,Jordan,2004,14.7
+2910,Kazakhstan,2004,8.4
+2911,"Korea, Republic of",2004,3.7
+2912,Kosovo,2004,no data
+2913,Kuwait,2004,1.4
+2914,Kyrgyz Republic,2004,8.5
+2915,Latvia,2004,11.8
+2916,Lithuania,2004,10.9
+2917,Luxembourg,2004,3.7
+2918,Macao SAR,2004,4.9
+2919,Malaysia,2004,3.6
+2920,Malta,2004,7.2
+2921,Mauritius,2004,8.4
+2922,Mexico,2004,3.9
+2923,Moldova,2004,8.1
+2924,Mongolia,2004,no data
+2925,Morocco,2004,10.8
+2926,Netherlands,2004,5.7
+2927,New Zealand,2004,4
+2928,Nicaragua,2004,6.5
+2929,Nigeria,2004,no data
+2930,North Macedonia ,2004,37.2
+2931,Norway,2004,4.5
+2932,Pakistan,2004,7.7
+2933,Panama,2004,11.7
+2934,Paraguay,2004,7.3
+2935,Peru,2004,9.4
+2936,Philippines,2004,11.8
+2937,Poland,2004,19
+2938,Portugal,2004,6.6
+2939,Puerto Rico,2004,10.6
+2940,Romania,2004,8
+2941,Russian Federation,2004,7.7
+2942,San Marino,2004,3.4
+2943,Saudi Arabia,2004,5.8
+2944,Serbia,2004,19.5
+2945,Seychelles,2004,3.5
+2946,Singapore,2004,3.4
+2947,Slovak Republic,2004,18.4
+2948,Slovenia,2004,6.3
+2949,South Africa,2004,25.2
+2950,Spain,2004,11
+2951,Sri Lanka,2004,8.3
+2952,Sudan,2004,16.2
+2953,Suriname,2004,8.4
+2954,Sweden,2004,7.4
+2955,Switzerland,2004,3.9
+2956,Syria,2004,12.3
+2957,São Tomé and Príncipe,2004,16.1
+2958,Taiwan Province of China,2004,4.4
+2959,Tajikistan,2004,2.2
+2960,Thailand,2004,2.1
+2961,Trinidad and Tobago,2004,8.4
+2962,Tunisia,2004,14.2
+2963,Turkey,2004,9.7
+2964,Ukraine,2004,8.6
+2965,United Kingdom,2004,4.8
+2966,United States,2004,5.5
+2967,Uruguay,2004,13.3
+2968,Venezuela,2004,15.1
+2969,Vietnam,2004,5.6
+2970,West Bank and Gaza,2004,26.8
+2971,Advanced economies,2004,6.5
+2972,Euro area,2004,9.3
+2973,Major advanced economies (G7),2004,6.4
+2974,Other advanced economies,2004,5.3
+2975,"©IMF, 2020",2004,
+2976,Albania,2005,14.1
+2977,Algeria,2005,15.3
+2978,Argentina,2005,11.6
+2979,Armenia,2005,31.2
+2980,Aruba,2005,8.8
+2981,Australia,2005,5
+2982,Austria,2005,5.6
+2983,Azerbaijan,2005,7.3
+2984,"Bahamas, The",2005,10.2
+2985,Bahrain,2005,no data
+2986,Barbados,2005,9.1
+2987,Belarus,2005,1.7
+2988,Belgium,2005,8.5
+2989,Belize,2005,11
+2990,Bhutan,2005,3.1
+2991,Bolivia,2005,8.1
+2992,Bosnia and Herzegovina,2005,31.1
+2993,Brazil,2005,11.4
+2994,Brunei Darussalam,2005,no data
+2995,Bulgaria,2005,10.2
+2996,Cabo Verde,2005,21.4
+2997,Canada,2005,6.8
+2998,Chile,2005,9.3
+2999,"China, People's Republic of",2005,4.2
+3000,Colombia,2005,11.8
+3001,Costa Rica,2005,6.6
+3002,Croatia,2005,17.6
+3003,Cyprus,2005,5.3
+3004,Czech Republic,2005,7.9
+3005,Denmark,2005,4.8
+3006,Dominican Republic,2005,8.2
+3007,Ecuador,2005,7.1
+3008,Egypt,2005,11.5
+3009,El Salvador,2005,7.2
+3010,Estonia,2005,8
+3011,Fiji,2005,7.3
+3012,Finland,2005,8.5
+3013,France,2005,8.9
+3014,Georgia,2005,15.1
+3015,Germany,2005,11
+3016,Greece,2005,10
+3017,Honduras,2005,4.9
+3018,Hong Kong SAR,2005,5.6
+3019,Hungary,2005,7.2
+3020,Iceland,2005,2.6
+3021,Indonesia,2005,11.2
+3022,Iran,2005,11.5
+3023,Ireland,2005,4.6
+3024,Israel,2005,11.2
+3025,Italy,2005,7.7
+3026,Jamaica,2005,11.2
+3027,Japan,2005,4.4
+3028,Jordan,2005,14.8
+3029,Kazakhstan,2005,8.1
+3030,"Korea, Republic of",2005,3.8
+3031,Kosovo,2005,no data
+3032,Kuwait,2005,1.3
+3033,Kyrgyz Republic,2005,8.1
+3034,Latvia,2005,10.1
+3035,Lithuania,2005,8.3
+3036,Luxembourg,2005,4.1
+3037,Macao SAR,2005,4.2
+3038,Malaysia,2005,3.6
+3039,Malta,2005,6.9
+3040,Mauritius,2005,9.6
+3041,Mexico,2005,3.5
+3042,Moldova,2005,7.3
+3043,Mongolia,2005,no data
+3044,Morocco,2005,11.1
+3045,Netherlands,2005,5.9
+3046,New Zealand,2005,3.8
+3047,Nicaragua,2005,5.6
+3048,Nigeria,2005,no data
+3049,North Macedonia ,2005,37.3
+3050,Norway,2005,4.6
+3051,Pakistan,2005,7.7
+3052,Panama,2005,9.8
+3053,Paraguay,2005,5.8
+3054,Peru,2005,9.6
+3055,Philippines,2005,11.4
+3056,Poland,2005,17.7
+3057,Portugal,2005,7.6
+3058,Puerto Rico,2005,11.3
+3059,Romania,2005,7.2
+3060,Russian Federation,2005,7.2
+3061,San Marino,2005,3.6
+3062,Saudi Arabia,2005,6.1
+3063,Serbia,2005,21.8
+3064,Seychelles,2005,3.6
+3065,Singapore,2005,3.1
+3066,Slovak Republic,2005,16.4
+3067,Slovenia,2005,6.5
+3068,South Africa,2005,24.7
+3069,Spain,2005,9.2
+3070,Sri Lanka,2005,7.7
+3071,Sudan,2005,17
+3072,Suriname,2005,11.1
+3073,Sweden,2005,7.6
+3074,Switzerland,2005,3.8
+3075,Syria,2005,8.1
+3076,São Tomé and Príncipe,2005,16.5
+3077,Taiwan Province of China,2005,4.1
+3078,Tajikistan,2005,2.1
+3079,Thailand,2005,1.9
+3080,Trinidad and Tobago,2005,8
+3081,Tunisia,2005,12.8
+3082,Turkey,2005,9.5
+3083,Ukraine,2005,7.2
+3084,United Kingdom,2005,4.8
+3085,United States,2005,5.1
+3086,Uruguay,2005,12.1
+3087,Venezuela,2005,12.2
+3088,Vietnam,2005,5.3
+3089,West Bank and Gaza,2005,23.5
+3090,Advanced economies,2005,6.3
+3091,Euro area,2005,9.1
+3092,Major advanced economies (G7),2005,6.2
+3093,Other advanced economies,2005,5.1
+3094,"©IMF, 2020",2005,
+3095,Albania,2006,13.8
+3096,Algeria,2006,12.5
+3097,Argentina,2006,10.2
+3098,Armenia,2006,27.8
+3099,Aruba,2006,9.3
+3100,Australia,2006,4.8
+3101,Austria,2006,5.2
+3102,Azerbaijan,2006,6.6
+3103,"Bahamas, The",2006,7.6
+3104,Bahrain,2006,no data
+3105,Barbados,2006,8.7
+3106,Belarus,2006,1.4
+3107,Belgium,2006,8.3
+3108,Belize,2006,9.4
+3109,Bhutan,2006,3.2
+3110,Bolivia,2006,8
+3111,Bosnia and Herzegovina,2006,31.1
+3112,Brazil,2006,11.5
+3113,Brunei Darussalam,2006,no data
+3114,Bulgaria,2006,9
+3115,Cabo Verde,2006,13.5
+3116,Canada,2006,6.3
+3117,Chile,2006,8
+3118,"China, People's Republic of",2006,4.1
+3119,Colombia,2006,12
+3120,Costa Rica,2006,6
+3121,Croatia,2006,16.5
+3122,Cyprus,2006,4.6
+3123,Czech Republic,2006,7.1
+3124,Denmark,2006,3.9
+3125,Dominican Republic,2006,7.1
+3126,Ecuador,2006,6.7
+3127,Egypt,2006,10.9
+3128,El Salvador,2006,6.6
+3129,Estonia,2006,5.9
+3130,Fiji,2006,7.7
+3131,Finland,2006,7.8
+3132,France,2006,8.8
+3133,Georgia,2006,15.4
+3134,Germany,2006,10
+3135,Greece,2006,9
+3136,Honduras,2006,3.6
+3137,Hong Kong SAR,2006,4.8
+3138,Hungary,2006,7.5
+3139,Iceland,2006,2.9
+3140,Indonesia,2006,10.3
+3141,Iran,2006,11.3
+3142,Ireland,2006,4.8
+3143,Israel,2006,10.5
+3144,Italy,2006,6.8
+3145,Jamaica,2006,10.3
+3146,Japan,2006,4.1
+3147,Jordan,2006,14.1
+3148,Kazakhstan,2006,7.8
+3149,"Korea, Republic of",2006,3.5
+3150,Kosovo,2006,no data
+3151,Kuwait,2006,1.4
+3152,Kyrgyz Republic,2006,8.3
+3153,Latvia,2006,7
+3154,Lithuania,2006,5.8
+3155,Luxembourg,2006,4.2
+3156,Macao SAR,2006,3.8
+3157,Malaysia,2006,3.3
+3158,Malta,2006,6.8
+3159,Mauritius,2006,9.1
+3160,Mexico,2006,3.5
+3161,Moldova,2006,7.4
+3162,Mongolia,2006,no data
+3163,Morocco,2006,9.7
+3164,Netherlands,2006,5
+3165,New Zealand,2006,3.9
+3166,Nicaragua,2006,5.2
+3167,Nigeria,2006,no data
+3168,North Macedonia ,2006,36
+3169,Norway,2006,3.4
+3170,Pakistan,2006,6.2
+3171,Panama,2006,8.7
+3172,Paraguay,2006,6.7
+3173,Peru,2006,8.5
+3174,Philippines,2006,8
+3175,Poland,2006,13.8
+3176,Portugal,2006,7.6
+3177,Puerto Rico,2006,10.5
+3178,Romania,2006,7.1
+3179,Russian Federation,2006,7.1
+3180,San Marino,2006,3.3
+3181,Saudi Arabia,2006,6.3
+3182,Serbia,2006,21.6
+3183,Seychelles,2006,2.5
+3184,Singapore,2006,2.7
+3185,Slovak Republic,2006,13.4
+3186,Slovenia,2006,6
+3187,South Africa,2006,23.6
+3188,Spain,2006,8.5
+3189,Sri Lanka,2006,6.6
+3190,Sudan,2006,17.5
+3191,Suriname,2006,12.3
+3192,Sweden,2006,7
+3193,Switzerland,2006,3.3
+3194,Syria,2006,8.2
+3195,São Tomé and Príncipe,2006,16.6
+3196,Taiwan Province of China,2006,3.9
+3197,Tajikistan,2006,2.3
+3198,Thailand,2006,1.5
+3199,Trinidad and Tobago,2006,6.2
+3200,Tunisia,2006,12.5
+3201,Turkey,2006,9
+3202,Ukraine,2006,6.8
+3203,United Kingdom,2006,5.4
+3204,United States,2006,4.6
+3205,Uruguay,2006,10.8
+3206,Venezuela,2006,10
+3207,Vietnam,2006,4.8
+3208,West Bank and Gaza,2006,23.7
+3209,Advanced economies,2006,5.8
+3210,Euro area,2006,8.4
+3211,Major advanced economies (G7),2006,5.8
+3212,Other advanced economies,2006,4.6
+3213,"©IMF, 2020",2006,
+3214,Albania,2007,13.4
+3215,Algeria,2007,13.8
+3216,Argentina,2007,8.5
+3217,Armenia,2007,28.7
+3218,Aruba,2007,5.7
+3219,Australia,2007,4.4
+3220,Austria,2007,4.9
+3221,Azerbaijan,2007,6.3
+3222,"Bahamas, The",2007,7.9
+3223,Bahrain,2007,5.6
+3224,Barbados,2007,7.4
+3225,Belarus,2007,1.1
+3226,Belgium,2007,7.5
+3227,Belize,2007,10.3
+3228,Bhutan,2007,3.7
+3229,Bolivia,2007,7.7
+3230,Bosnia and Herzegovina,2007,29
+3231,Brazil,2007,10.9
+3232,Brunei Darussalam,2007,no data
+3233,Bulgaria,2007,6.9
+3234,Cabo Verde,2007,15.2
+3235,Canada,2007,6
+3236,Chile,2007,7
+3237,"China, People's Republic of",2007,4
+3238,Colombia,2007,11.2
+3239,Costa Rica,2007,4.6
+3240,Croatia,2007,14.7
+3241,Cyprus,2007,3.9
+3242,Czech Republic,2007,5.3
+3243,Denmark,2007,3.8
+3244,Dominican Republic,2007,6.5
+3245,Ecuador,2007,6.9
+3246,Egypt,2007,9.2
+3247,El Salvador,2007,6.3
+3248,Estonia,2007,4.6
+3249,Fiji,2007,8.6
+3250,Finland,2007,7
+3251,France,2007,8
+3252,Georgia,2007,17.4
+3253,Germany,2007,8.6
+3254,Greece,2007,8.4
+3255,Honduras,2007,3.2
+3256,Hong Kong SAR,2007,4
+3257,Hungary,2007,7.4
+3258,Iceland,2007,2.3
+3259,Indonesia,2007,9.1
+3260,Iran,2007,10.5
+3261,Ireland,2007,5
+3262,Israel,2007,9.2
+3263,Italy,2007,6.1
+3264,Jamaica,2007,9.9
+3265,Japan,2007,3.8
+3266,Jordan,2007,12.7
+3267,Kazakhstan,2007,7.3
+3268,"Korea, Republic of",2007,3.3
+3269,Kosovo,2007,no data
+3270,Kuwait,2007,1.7
+3271,Kyrgyz Republic,2007,8.2
+3272,Latvia,2007,6.1
+3273,Lithuania,2007,4.2
+3274,Luxembourg,2007,4.2
+3275,Macao SAR,2007,3.1
+3276,Malaysia,2007,3.2
+3277,Malta,2007,6.5
+3278,Mauritius,2007,8.5
+3279,Mexico,2007,3.6
+3280,Moldova,2007,5.1
+3281,Mongolia,2007,11.3
+3282,Morocco,2007,9.8
+3283,Netherlands,2007,4.2
+3284,New Zealand,2007,3.6
+3285,Nicaragua,2007,5.9
+3286,Nigeria,2007,no data
+3287,North Macedonia ,2007,34.9
+3288,Norway,2007,2.5
+3289,Pakistan,2007,5.2
+3290,Panama,2007,6.4
+3291,Paraguay,2007,5.6
+3292,Peru,2007,8.4
+3293,Philippines,2007,7.3
+3294,Poland,2007,9.6
+3295,Portugal,2007,8
+3296,Puerto Rico,2007,11.2
+3297,Romania,2007,6.3
+3298,Russian Federation,2007,6
+3299,San Marino,2007,3
+3300,Saudi Arabia,2007,5.6
+3301,Serbia,2007,18.8
+3302,Seychelles,2007,1.9
+3303,Singapore,2007,2.1
+3304,Slovak Republic,2007,11.2
+3305,Slovenia,2007,4.8
+3306,South Africa,2007,23
+3307,Spain,2007,8.2
+3308,Sri Lanka,2007,6.2
+3309,Sudan,2007,16.8
+3310,Suriname,2007,10.7
+3311,Sweden,2007,6.1
+3312,Switzerland,2007,2.8
+3313,Syria,2007,8.4
+3314,São Tomé and Príncipe,2007,15.9
+3315,Taiwan Province of China,2007,3.9
+3316,Tajikistan,2007,2.5
+3317,Thailand,2007,1.4
+3318,Trinidad and Tobago,2007,5.6
+3319,Tunisia,2007,12.4
+3320,Turkey,2007,9.2
+3321,Ukraine,2007,6.4
+3322,United Kingdom,2007,5.4
+3323,United States,2007,4.6
+3324,Uruguay,2007,9.4
+3325,Venezuela,2007,8.5
+3326,Vietnam,2007,4.6
+3327,West Bank and Gaza,2007,21.7
+3328,Advanced economies,2007,5.4
+3329,Euro area,2007,7.5
+3330,Major advanced economies (G7),2007,5.4
+3331,Other advanced economies,2007,4.2
+3332,"©IMF, 2020",2007,
+3333,Albania,2008,13.1
+3334,Algeria,2008,11.3
+3335,Argentina,2008,7.9
+3336,Armenia,2008,16.4
+3337,Aruba,2008,6.9
+3338,Australia,2008,4.3
+3339,Austria,2008,4.1
+3340,Azerbaijan,2008,5.9
+3341,"Bahamas, The",2008,8.7
+3342,Bahrain,2008,3.7
+3343,Barbados,2008,8.1
+3344,Belarus,2008,0.9
+3345,Belgium,2008,7
+3346,Belize,2008,8.2
+3347,Bhutan,2008,3.9
+3348,Bolivia,2008,4.4
+3349,Bosnia and Herzegovina,2008,23.4
+3350,Brazil,2008,9.4
+3351,Brunei Darussalam,2008,no data
+3352,Bulgaria,2008,5.7
+3353,Cabo Verde,2008,13
+3354,Canada,2008,6.2
+3355,Chile,2008,7.8
+3356,"China, People's Republic of",2008,4.2
+3357,Colombia,2008,11.3
+3358,Costa Rica,2008,4.9
+3359,Croatia,2008,13
+3360,Cyprus,2008,3.7
+3361,Czech Republic,2008,4.4
+3362,Denmark,2008,3.7
+3363,Dominican Republic,2008,6
+3364,Ecuador,2008,6
+3365,Egypt,2008,8.7
+3366,El Salvador,2008,5.9
+3367,Estonia,2008,5.5
+3368,Fiji,2008,8.8
+3369,Finland,2008,6.4
+3370,France,2008,7.5
+3371,Georgia,2008,17.9
+3372,Germany,2008,7.4
+3373,Greece,2008,7.8
+3374,Honduras,2008,3.2
+3375,Hong Kong SAR,2008,3.5
+3376,Hungary,2008,7.8
+3377,Iceland,2008,3
+3378,Indonesia,2008,8.4
+3379,Iran,2008,10.4
+3380,Ireland,2008,6.8
+3381,Israel,2008,7.7
+3382,Italy,2008,6.7
+3383,Jamaica,2008,10.6
+3384,Japan,2008,4
+3385,Jordan,2008,12.7
+3386,Kazakhstan,2008,6.6
+3387,"Korea, Republic of",2008,3.2
+3388,Kosovo,2008,no data
+3389,Kuwait,2008,1.7
+3390,Kyrgyz Republic,2008,8.2
+3391,Latvia,2008,7.7
+3392,Lithuania,2008,5.8
+3393,Luxembourg,2008,4.1
+3394,Macao SAR,2008,3
+3395,Malaysia,2008,3.3
+3396,Malta,2008,6
+3397,Mauritius,2008,7.2
+3398,Mexico,2008,3.9
+3399,Moldova,2008,4
+3400,Mongolia,2008,9.2
+3401,Morocco,2008,9.6
+3402,Netherlands,2008,3.7
+3403,New Zealand,2008,4
+3404,Nicaragua,2008,6.1
+3405,Nigeria,2008,no data
+3406,North Macedonia ,2008,33.8
+3407,Norway,2008,2.7
+3408,Pakistan,2008,5.2
+3409,Panama,2008,5.6
+3410,Paraguay,2008,5.7
+3411,Peru,2008,8.4
+3412,Philippines,2008,7.4
+3413,Poland,2008,7.1
+3414,Portugal,2008,7.6
+3415,Puerto Rico,2008,11.8
+3416,Romania,2008,5.5
+3417,Russian Federation,2008,6.2
+3418,San Marino,2008,3.1
+3419,Saudi Arabia,2008,5.2
+3420,Serbia,2008,14.4
+3421,Seychelles,2008,1.7
+3422,Singapore,2008,2.2
+3423,Slovak Republic,2008,9.6
+3424,Slovenia,2008,4.4
+3425,South Africa,2008,22.5
+3426,Spain,2008,11.2
+3427,Sri Lanka,2008,6
+3428,Sudan,2008,16
+3429,Suriname,2008,9.4
+3430,Sweden,2008,6.2
+3431,Switzerland,2008,2.6
+3432,Syria,2008,10.9
+3433,São Tomé and Príncipe,2008,15.7
+3434,Taiwan Province of China,2008,4.1
+3435,Tajikistan,2008,2.3
+3436,Thailand,2008,1.4
+3437,Trinidad and Tobago,2008,4.6
+3438,Tunisia,2008,12.4
+3439,Turkey,2008,10
+3440,Ukraine,2008,6.4
+3441,United Kingdom,2008,5.7
+3442,United States,2008,5.8
+3443,Uruguay,2008,7.9
+3444,Venezuela,2008,7.4
+3445,Vietnam,2008,4.7
+3446,West Bank and Gaza,2008,26.6
+3447,Advanced economies,2008,5.8
+3448,Euro area,2008,7.6
+3449,Major advanced economies (G7),2008,5.8
+3450,Other advanced economies,2008,4
+3451,"©IMF, 2020",2008,
+3452,Albania,2009,13.8
+3453,Algeria,2009,10.2
+3454,Argentina,2009,8.7
+3455,Armenia,2009,18.7
+3456,Aruba,2009,10.3
+3457,Australia,2009,5.6
+3458,Austria,2009,5.3
+3459,Azerbaijan,2009,5.7
+3460,"Bahamas, The",2009,14.2
+3461,Bahrain,2009,4
+3462,Barbados,2009,10
+3463,Belarus,2009,0.9
+3464,Belgium,2009,7.9
+3465,Belize,2009,12.8
+3466,Bhutan,2009,4
+3467,Bolivia,2009,4.9
+3468,Bosnia and Herzegovina,2009,24.1
+3469,Brazil,2009,9.7
+3470,Brunei Darussalam,2009,no data
+3471,Bulgaria,2009,6.9
+3472,Cabo Verde,2009,13
+3473,Canada,2009,8.4
+3474,Chile,2009,11.1
+3475,"China, People's Republic of",2009,4.3
+3476,Colombia,2009,12
+3477,Costa Rica,2009,7.8
+3478,Croatia,2009,14.5
+3479,Cyprus,2009,5.3
+3480,Czech Republic,2009,6.7
+3481,Denmark,2009,6.4
+3482,Dominican Republic,2009,6.8
+3483,Ecuador,2009,6.5
+3484,Egypt,2009,9.4
+3485,El Salvador,2009,7.3
+3486,Estonia,2009,13.5
+3487,Fiji,2009,8.7
+3488,Finland,2009,8.3
+3489,France,2009,9.1
+3490,Georgia,2009,18.3
+3491,Germany,2009,7.7
+3492,Greece,2009,9.6
+3493,Honduras,2009,3.3
+3494,Hong Kong SAR,2009,5.2
+3495,Hungary,2009,10
+3496,Iceland,2009,7.2
+3497,Indonesia,2009,7.9
+3498,Iran,2009,11.9
+3499,Ireland,2009,12.6
+3500,Israel,2009,9.4
+3501,Italy,2009,7.7
+3502,Jamaica,2009,11.4
+3503,Japan,2009,5.1
+3504,Jordan,2009,12.9
+3505,Kazakhstan,2009,6.6
+3506,"Korea, Republic of",2009,3.6
+3507,Kosovo,2009,no data
+3508,Kuwait,2009,1.6
+3509,Kyrgyz Republic,2009,8.4
+3510,Latvia,2009,17.6
+3511,Lithuania,2009,13.8
+3512,Luxembourg,2009,5.5
+3513,Macao SAR,2009,3.6
+3514,Malaysia,2009,3.7
+3515,Malta,2009,6.9
+3516,Mauritius,2009,7.3
+3517,Mexico,2009,5.3
+3518,Moldova,2009,6.4
+3519,Mongolia,2009,11.6
+3520,Morocco,2009,9.1
+3521,Netherlands,2009,4.4
+3522,New Zealand,2009,5.8
+3523,Nicaragua,2009,8.2
+3524,Nigeria,2009,no data
+3525,North Macedonia ,2009,32.2
+3526,Norway,2009,3.3
+3527,Pakistan,2009,5.5
+3528,Panama,2009,6.6
+3529,Paraguay,2009,6.4
+3530,Peru,2009,8.4
+3531,Philippines,2009,7.5
+3532,Poland,2009,8.2
+3533,Portugal,2009,9.4
+3534,Puerto Rico,2009,15.3
+3535,Romania,2009,6.3
+3536,Russian Federation,2009,8.2
+3537,San Marino,2009,4.5
+3538,Saudi Arabia,2009,5.4
+3539,Serbia,2009,16.9
+3540,Seychelles,2009,5.1
+3541,Singapore,2009,3
+3542,Slovak Republic,2009,12.1
+3543,Slovenia,2009,5.9
+3544,South Africa,2009,23.7
+3545,Spain,2009,17.9
+3546,Sri Lanka,2009,5.9
+3547,Sudan,2009,14.9
+3548,Suriname,2009,8.7
+3549,Sweden,2009,8.3
+3550,Switzerland,2009,3.7
+3551,Syria,2009,8.1
+3552,São Tomé and Príncipe,2009,15.1
+3553,Taiwan Province of China,2009,5.9
+3554,Tajikistan,2009,2.1
+3555,Thailand,2009,1.5
+3556,Trinidad and Tobago,2009,5.3
+3557,Tunisia,2009,13.3
+3558,Turkey,2009,13.1
+3559,Ukraine,2009,8.8
+3560,United Kingdom,2009,7.6
+3561,United States,2009,9.3
+3562,Uruguay,2009,7.8
+3563,Venezuela,2009,7.9
+3564,Vietnam,2009,4.6
+3565,West Bank and Gaza,2009,24.5
+3566,Advanced economies,2009,8.1
+3567,Euro area,2009,9.7
+3568,Major advanced economies (G7),2009,8
+3569,Other advanced economies,2009,5.3
+3570,"©IMF, 2020",2009,
+3571,Albania,2010,14
+3572,Algeria,2010,10
+3573,Argentina,2010,7.8
+3574,Armenia,2010,19
+3575,Aruba,2010,10.6
+3576,Australia,2010,5.2
+3577,Austria,2010,4.8
+3578,Azerbaijan,2010,5.6
+3579,"Bahamas, The",2010,15.1
+3580,Bahrain,2010,3.6
+3581,Barbados,2010,10.3
+3582,Belarus,2010,0.8
+3583,Belgium,2010,8.3
+3584,Belize,2010,18.5
+3585,Bhutan,2010,3.3
+3586,Bolivia,2010,4.4
+3587,Bosnia and Herzegovina,2010,27.2
+3588,Brazil,2010,8.5
+3589,Brunei Darussalam,2010,no data
+3590,Bulgaria,2010,10.3
+3591,Cabo Verde,2010,10.7
+3592,Canada,2010,8
+3593,Chile,2010,8.3
+3594,"China, People's Republic of",2010,4.1
+3595,Colombia,2010,11.8
+3596,Costa Rica,2010,9.2
+3597,Croatia,2010,17.2
+3598,Cyprus,2010,6.3
+3599,Czech Republic,2010,7.3
+3600,Denmark,2010,7.7
+3601,Dominican Republic,2010,6.5
+3602,Ecuador,2010,5
+3603,Egypt,2010,9.2
+3604,El Salvador,2010,7
+3605,Estonia,2010,16.7
+3606,Fiji,2010,7.1
+3607,Finland,2010,8.5
+3608,France,2010,9.3
+3609,Georgia,2010,17.4
+3610,Germany,2010,6.9
+3611,Greece,2010,12.7
+3612,Honduras,2010,4.1
+3613,Hong Kong SAR,2010,4.3
+3614,Hungary,2010,11.2
+3615,Iceland,2010,7.6
+3616,Indonesia,2010,7.1
+3617,Iran,2010,13.5
+3618,Ireland,2010,14.6
+3619,Israel,2010,8.3
+3620,Italy,2010,8.3
+3621,Jamaica,2010,12.4
+3622,Japan,2010,5.1
+3623,Jordan,2010,12.5
+3624,Kazakhstan,2010,5.8
+3625,"Korea, Republic of",2010,3.7
+3626,Kosovo,2010,no data
+3627,Kuwait,2010,2.1
+3628,Kyrgyz Republic,2010,8.6
+3629,Latvia,2010,19.5
+3630,Lithuania,2010,17.8
+3631,Luxembourg,2010,5.8
+3632,Macao SAR,2010,2.8
+3633,Malaysia,2010,3.3
+3634,Malta,2010,6.8
+3635,Mauritius,2010,7.8
+3636,Mexico,2010,5.3
+3637,Moldova,2010,7.4
+3638,Mongolia,2010,9.9
+3639,Morocco,2010,9.1
+3640,Netherlands,2010,5
+3641,New Zealand,2010,6.2
+3642,Nicaragua,2010,7.8
+3643,Nigeria,2010,5.1
+3644,North Macedonia ,2010,32.1
+3645,Norway,2010,3.8
+3646,Pakistan,2010,5.6
+3647,Panama,2010,6.5
+3648,Paraguay,2010,5.7
+3649,Peru,2010,7.9
+3650,Philippines,2010,7.3
+3651,Poland,2010,9.6
+3652,Portugal,2010,10.8
+3653,Puerto Rico,2010,16.4
+3654,Romania,2010,7
+3655,Russian Federation,2010,7.4
+3656,San Marino,2010,4.9
+3657,Saudi Arabia,2010,5.5
+3658,Serbia,2010,20
+3659,Seychelles,2010,4.6
+3660,Singapore,2010,2.2
+3661,Slovak Republic,2010,14.5
+3662,Slovenia,2010,7.3
+3663,South Africa,2010,24.9
+3664,Spain,2010,19.9
+3665,Sri Lanka,2010,5
+3666,Sudan,2010,13.7
+3667,Suriname,2010,7.2
+3668,Sweden,2010,8.6
+3669,Switzerland,2010,3.5
+3670,Syria,2010,8.6
+3671,São Tomé and Príncipe,2010,14.6
+3672,Taiwan Province of China,2010,5.2
+3673,Tajikistan,2010,2.2
+3674,Thailand,2010,1.1
+3675,Trinidad and Tobago,2010,5.9
+3676,Tunisia,2010,13
+3677,Turkey,2010,11.1
+3678,Ukraine,2010,8.1
+3679,United Kingdom,2010,7.9
+3680,United States,2010,9.6
+3681,Uruguay,2010,7
+3682,Venezuela,2010,8.5
+3683,Vietnam,2010,4.3
+3684,West Bank and Gaza,2010,23.7
+3685,Advanced economies,2010,8.3
+3686,Euro area,2010,10.2
+3687,Major advanced economies (G7),2010,8.1
+3688,Other advanced economies,2010,5.2
+3689,"©IMF, 2020",2010,
+3690,Albania,2011,14
+3691,Algeria,2011,10
+3692,Argentina,2011,7.2
+3693,Armenia,2011,18.4
+3694,Aruba,2011,8.9
+3695,Australia,2011,5.1
+3696,Austria,2011,4.6
+3697,Azerbaijan,2011,5.4
+3698,"Bahamas, The",2011,15.9
+3699,Bahrain,2011,4
+3700,Barbados,2011,11.2
+3701,Belarus,2011,0.7
+3702,Belgium,2011,7.1
+3703,Belize,2011,16.7
+3704,Bhutan,2011,3.1
+3705,Bolivia,2011,3.8
+3706,Bosnia and Herzegovina,2011,27.6
+3707,Brazil,2011,7.8
+3708,Brunei Darussalam,2011,9.3
+3709,Bulgaria,2011,11.3
+3710,Cabo Verde,2011,12.2
+3711,Canada,2011,7.5
+3712,Chile,2011,7.3
+3713,"China, People's Republic of",2011,4.1
+3714,Colombia,2011,10.8
+3715,Costa Rica,2011,10.5
+3716,Croatia,2011,17.4
+3717,Cyprus,2011,7.9
+3718,Czech Republic,2011,6.7
+3719,Denmark,2011,7.8
+3720,Dominican Republic,2011,7.6
+3721,Ecuador,2011,4.2
+3722,Egypt,2011,10.4
+3723,El Salvador,2011,6.6
+3724,Estonia,2011,12.3
+3725,Fiji,2011,7.1
+3726,Finland,2011,7.9
+3727,France,2011,9.2
+3728,Georgia,2011,17.3
+3729,Germany,2011,5.9
+3730,Greece,2011,17.9
+3731,Honduras,2011,4.5
+3732,Hong Kong SAR,2011,3.4
+3733,Hungary,2011,11
+3734,Iceland,2011,7.1
+3735,Indonesia,2011,6.6
+3736,Iran,2011,12.3
+3737,Ireland,2011,15.4
+3738,Israel,2011,7.1
+3739,Italy,2011,8.4
+3740,Jamaica,2011,12.4
+3741,Japan,2011,4.6
+3742,Jordan,2011,12.9
+3743,Kazakhstan,2011,5.4
+3744,"Korea, Republic of",2011,3.4
+3745,Kosovo,2011,no data
+3746,Kuwait,2011,2.1
+3747,Kyrgyz Republic,2011,8.5
+3748,Latvia,2011,16.2
+3749,Lithuania,2011,15.4
+3750,Luxembourg,2011,5.7
+3751,Macao SAR,2011,2.6
+3752,Malaysia,2011,3.1
+3753,Malta,2011,6.4
+3754,Mauritius,2011,7.9
+3755,Mexico,2011,5.2
+3756,Moldova,2011,6.7
+3757,Mongolia,2011,7.7
+3758,Morocco,2011,8.9
+3759,Netherlands,2011,5
+3760,New Zealand,2011,6
+3761,Nicaragua,2011,5.9
+3762,Nigeria,2011,6
+3763,North Macedonia ,2011,31.4
+3764,Norway,2011,3.4
+3765,Pakistan,2011,6
+3766,Panama,2011,4.5
+3767,Paraguay,2011,5.6
+3768,Peru,2011,7.7
+3769,Philippines,2011,7
+3770,Poland,2011,9.6
+3771,Portugal,2011,12.7
+3772,Puerto Rico,2011,15.9
+3773,Romania,2011,7.1
+3774,Russian Federation,2011,6.5
+3775,San Marino,2011,5.5
+3776,Saudi Arabia,2011,5.8
+3777,Serbia,2011,23.6
+3778,Seychelles,2011,4.1
+3779,Singapore,2011,2
+3780,Slovak Republic,2011,13.7
+3781,Slovenia,2011,8.2
+3782,South Africa,2011,24.8
+3783,Spain,2011,21.4
+3784,Sri Lanka,2011,4.1
+3785,Sudan,2011,12
+3786,Suriname,2011,7.5
+3787,Sweden,2011,7.8
+3788,Switzerland,2011,2.8
+3789,Syria,2011,no data
+3790,São Tomé and Príncipe,2011,14.1
+3791,Taiwan Province of China,2011,4.4
+3792,Tajikistan,2011,2.5
+3793,Thailand,2011,0.7
+3794,Trinidad and Tobago,2011,5.1
+3795,Tunisia,2011,18.9
+3796,Turkey,2011,9.1
+3797,Ukraine,2011,7.9
+3798,United Kingdom,2011,8.1
+3799,United States,2011,8.9
+3800,Uruguay,2011,6.3
+3801,Venezuela,2011,8.2
+3802,Vietnam,2011,4.5
+3803,West Bank and Gaza,2011,20.9
+3804,Advanced economies,2011,8
+3805,Euro area,2011,10.2
+3806,Major advanced economies (G7),2011,7.6
+3807,Other advanced economies,2011,4.7
+3808,"©IMF, 2020",2011,
+3809,Albania,2012,13.4
+3810,Algeria,2012,11
+3811,Argentina,2012,7.2
+3812,Armenia,2012,17.3
+3813,Aruba,2012,9.6
+3814,Australia,2012,5.2
+3815,Austria,2012,4.9
+3816,Azerbaijan,2012,5.2
+3817,"Bahamas, The",2012,14.4
+3818,Bahrain,2012,3.7
+3819,Barbados,2012,11.5
+3820,Belarus,2012,0.6
+3821,Belgium,2012,7.6
+3822,Belize,2012,15.3
+3823,Bhutan,2012,2.1
+3824,Bolivia,2012,3.2
+3825,Bosnia and Herzegovina,2012,28
+3826,Brazil,2012,7.4
+3827,Brunei Darussalam,2012,8.5
+3828,Bulgaria,2012,12.4
+3829,Cabo Verde,2012,16.8
+3830,Canada,2012,7.3
+3831,Chile,2012,6.6
+3832,"China, People's Republic of",2012,4.1
+3833,Colombia,2012,10.4
+3834,Costa Rica,2012,9.8
+3835,Croatia,2012,18.6
+3836,Cyprus,2012,11.8
+3837,Czech Republic,2012,7
+3838,Denmark,2012,7.8
+3839,Dominican Republic,2012,8.4
+3840,Ecuador,2012,4.1
+3841,Egypt,2012,12.4
+3842,El Salvador,2012,6.1
+3843,Estonia,2012,10
+3844,Fiji,2012,6.8
+3845,Finland,2012,7.8
+3846,France,2012,9.8
+3847,Georgia,2012,17.2
+3848,Germany,2012,5.4
+3849,Greece,2012,24.4
+3850,Honduras,2012,3.8
+3851,Hong Kong SAR,2012,3.3
+3852,Hungary,2012,11
+3853,Iceland,2012,6
+3854,Indonesia,2012,6.1
+3855,Iran,2012,12.1
+3856,Ireland,2012,15.5
+3857,Israel,2012,6.9
+3858,Italy,2012,10.7
+3859,Jamaica,2012,13.9
+3860,Japan,2012,4.3
+3861,Jordan,2012,12.2
+3862,Kazakhstan,2012,5.3
+3863,"Korea, Republic of",2012,3.2
+3864,Kosovo,2012,30.9
+3865,Kuwait,2012,2
+3866,Kyrgyz Republic,2012,8.4
+3867,Latvia,2012,15
+3868,Lithuania,2012,13.4
+3869,Luxembourg,2012,6.1
+3870,Macao SAR,2012,2
+3871,Malaysia,2012,3
+3872,Malta,2012,6.2
+3873,Mauritius,2012,8.1
+3874,Mexico,2012,4.9
+3875,Moldova,2012,5.6
+3876,Mongolia,2012,8.2
+3877,Morocco,2012,9
+3878,Netherlands,2012,5.8
+3879,New Zealand,2012,6.4
+3880,Nicaragua,2012,5.9
+3881,Nigeria,2012,10.6
+3882,North Macedonia ,2012,31
+3883,Norway,2012,3.3
+3884,Pakistan,2012,6
+3885,Panama,2012,4.1
+3886,Paraguay,2012,4.6
+3887,Peru,2012,6.8
+3888,Philippines,2012,7
+3889,Poland,2012,10.1
+3890,Portugal,2012,15.5
+3891,Puerto Rico,2012,14.5
+3892,Romania,2012,6.8
+3893,Russian Federation,2012,5.5
+3894,San Marino,2012,7
+3895,Saudi Arabia,2012,5.5
+3896,Serbia,2012,24.6
+3897,Seychelles,2012,3.7
+3898,Singapore,2012,2
+3899,Slovak Republic,2012,14
+3900,Slovenia,2012,8.9
+3901,South Africa,2012,24.9
+3902,Spain,2012,24.8
+3903,Sri Lanka,2012,4
+3904,Sudan,2012,14.8
+3905,Suriname,2012,8.1
+3906,Sweden,2012,8
+3907,Switzerland,2012,2.9
+3908,Syria,2012,no data
+3909,São Tomé and Príncipe,2012,13.6
+3910,Taiwan Province of China,2012,4.2
+3911,Tajikistan,2012,no data
+3912,Thailand,2012,0.7
+3913,Trinidad and Tobago,2012,5
+3914,Tunisia,2012,16.7
+3915,Turkey,2012,8.4
+3916,Ukraine,2012,7.5
+3917,United Kingdom,2012,8
+3918,United States,2012,8.1
+3919,Uruguay,2012,6.3
+3920,Venezuela,2012,7.8
+3921,Vietnam,2012,2.7
+3922,West Bank and Gaza,2012,23
+3923,Advanced economies,2012,8
+3924,Euro area,2012,11.4
+3925,Major advanced economies (G7),2012,7.4
+3926,Other advanced economies,2012,4.7
+3927,"©IMF, 2020",2012,
+3928,Albania,2013,15.9
+3929,Algeria,2013,9.8
+3930,Argentina,2013,7.1
+3931,Armenia,2013,16.2
+3932,Aruba,2013,7.6
+3933,Australia,2013,5.7
+3934,Austria,2013,5.3
+3935,Azerbaijan,2013,5
+3936,"Bahamas, The",2013,15.8
+3937,Bahrain,2013,4.4
+3938,Barbados,2013,11.6
+3939,Belarus,2013,0.5
+3940,Belgium,2013,8.5
+3941,Belize,2013,13
+3942,Bhutan,2013,2.9
+3943,Bolivia,2013,4
+3944,Bosnia and Herzegovina,2013,27.5
+3945,Brazil,2013,7.2
+3946,Brunei Darussalam,2013,7.7
+3947,Bulgaria,2013,13
+3948,Cabo Verde,2013,16.4
+3949,Canada,2013,7.1
+3950,Chile,2013,6.1
+3951,"China, People's Republic of",2013,4.1
+3952,Colombia,2013,9.7
+3953,Costa Rica,2013,8.3
+3954,Croatia,2013,19.8
+3955,Cyprus,2013,15.9
+3956,Czech Republic,2013,6.9
+3957,Denmark,2013,7.4
+3958,Dominican Republic,2013,9.2
+3959,Ecuador,2013,4.2
+3960,Egypt,2013,13
+3961,El Salvador,2013,5.9
+3962,Estonia,2013,8.6
+3963,Fiji,2013,6.4
+3964,Finland,2013,8.3
+3965,France,2013,10.3
+3966,Georgia,2013,16.9
+3967,Germany,2013,5.2
+3968,Greece,2013,27.5
+3969,Honduras,2013,4.1
+3970,Hong Kong SAR,2013,3.4
+3971,Hungary,2013,10.2
+3972,Iceland,2013,5.4
+3973,Indonesia,2013,6.3
+3974,Iran,2013,10.4
+3975,Ireland,2013,13.8
+3976,Israel,2013,6.3
+3977,Italy,2013,12.1
+3978,Jamaica,2013,15.3
+3979,Japan,2013,4
+3980,Jordan,2013,12.6
+3981,Kazakhstan,2013,5.2
+3982,"Korea, Republic of",2013,3.1
+3983,Kosovo,2013,30
+3984,Kuwait,2013,1.9
+3985,Kyrgyz Republic,2013,8.3
+3986,Latvia,2013,11.9
+3987,Lithuania,2013,11.8
+3988,Luxembourg,2013,6.8
+3989,Macao SAR,2013,1.9
+3990,Malaysia,2013,3.1
+3991,Malta,2013,6.1
+3992,Mauritius,2013,8
+3993,Mexico,2013,4.9
+3994,Moldova,2013,5.1
+3995,Mongolia,2013,7.9
+3996,Morocco,2013,9.2
+3997,Netherlands,2013,7.3
+3998,New Zealand,2013,5.8
+3999,Nicaragua,2013,5.7
+4000,Nigeria,2013,10
+4001,North Macedonia ,2013,29
+4002,Norway,2013,3.8
+4003,Pakistan,2013,6
+4004,Panama,2013,4.1
+4005,Paraguay,2013,5
+4006,Peru,2013,5.9
+4007,Philippines,2013,7.1
+4008,Poland,2013,10.3
+4009,Portugal,2013,16.2
+4010,Puerto Rico,2013,14.3
+4011,Romania,2013,7.1
+4012,Russian Federation,2013,5.5
+4013,San Marino,2013,8.1
+4014,Saudi Arabia,2013,5.6
+4015,Serbia,2013,23
+4016,Seychelles,2013,3.3
+4017,Singapore,2013,1.9
+4018,Slovak Republic,2013,14.3
+4019,Slovenia,2013,10.2
+4020,South Africa,2013,24.7
+4021,Spain,2013,26.1
+4022,Sri Lanka,2013,4.4
+4023,Sudan,2013,15.2
+4024,Suriname,2013,6.6
+4025,Sweden,2013,8
+4026,Switzerland,2013,3.2
+4027,Syria,2013,no data
+4028,São Tomé and Príncipe,2013,13.5
+4029,Taiwan Province of China,2013,4.2
+4030,Tajikistan,2013,no data
+4031,Thailand,2013,0.7
+4032,Trinidad and Tobago,2013,3.7
+4033,Tunisia,2013,15.3
+4034,Turkey,2013,9
+4035,Ukraine,2013,7.2
+4036,United Kingdom,2013,7.6
+4037,United States,2013,7.4
+4038,Uruguay,2013,6.5
+4039,Venezuela,2013,7.5
+4040,Vietnam,2013,2.8
+4041,West Bank and Gaza,2013,23.4
+4042,Advanced economies,2013,7.9
+4043,Euro area,2013,12
+4044,Major advanced economies (G7),2013,7.1
+4045,Other advanced economies,2013,4.6
+4046,"©IMF, 2020",2013,
+4047,Albania,2014,17.5
+4048,Algeria,2014,10.6
+4049,Argentina,2014,7.3
+4050,Armenia,2014,17.6
+4051,Aruba,2014,7.5
+4052,Australia,2014,6.1
+4053,Austria,2014,5.6
+4054,Azerbaijan,2014,4.9
+4055,"Bahamas, The",2014,14.6
+4056,Bahrain,2014,3.8
+4057,Barbados,2014,12.3
+4058,Belarus,2014,0.5
+4059,Belgium,2014,8.6
+4060,Belize,2014,11.6
+4061,Bhutan,2014,2.6
+4062,Bolivia,2014,4
+4063,Bosnia and Herzegovina,2014,27.5
+4064,Brazil,2014,6.8
+4065,Brunei Darussalam,2014,6.9
+4066,Bulgaria,2014,11.5
+4067,Cabo Verde,2014,15.8
+4068,Canada,2014,6.9
+4069,Chile,2014,6.5
+4070,"China, People's Republic of",2014,4.1
+4071,Colombia,2014,9.1
+4072,Costa Rica,2014,9.7
+4073,Croatia,2014,19.3
+4074,Cyprus,2014,16.1
+4075,Czech Republic,2014,6.1
+4076,Denmark,2014,6.9
+4077,Dominican Republic,2014,8.5
+4078,Ecuador,2014,3.8
+4079,Egypt,2014,13.4
+4080,El Salvador,2014,7
+4081,Estonia,2014,7.4
+4082,Fiji,2014,6.2
+4083,Finland,2014,8.8
+4084,France,2014,10.3
+4085,Georgia,2014,14.6
+4086,Germany,2014,5
+4087,Greece,2014,26.5
+4088,Honduras,2014,5.5
+4089,Hong Kong SAR,2014,3.3
+4090,Hungary,2014,7.7
+4091,Iceland,2014,5
+4092,Indonesia,2014,5.9
+4093,Iran,2014,10.6
+4094,Ireland,2014,11.9
+4095,Israel,2014,5.9
+4096,Italy,2014,12.6
+4097,Jamaica,2014,13.8
+4098,Japan,2014,3.6
+4099,Jordan,2014,11.9
+4100,Kazakhstan,2014,5
+4101,"Korea, Republic of",2014,3.5
+4102,Kosovo,2014,35.3
+4103,Kuwait,2014,1.7
+4104,Kyrgyz Republic,2014,8
+4105,Latvia,2014,10.8
+4106,Lithuania,2014,10.7
+4107,Luxembourg,2014,7.1
+4108,Macao SAR,2014,1.7
+4109,Malaysia,2014,2.9
+4110,Malta,2014,5.7
+4111,Mauritius,2014,7.8
+4112,Mexico,2014,4.8
+4113,Moldova,2014,3.9
+4114,Mongolia,2014,7.9
+4115,Morocco,2014,9.9
+4116,Netherlands,2014,7.4
+4117,New Zealand,2014,5.4
+4118,Nicaragua,2014,6.6
+4119,Nigeria,2014,7.8
+4120,North Macedonia ,2014,28
+4121,Norway,2014,3.6
+4122,Pakistan,2014,6
+4123,Panama,2014,4.8
+4124,Paraguay,2014,6
+4125,Peru,2014,5.9
+4126,Philippines,2014,6.8
+4127,Poland,2014,9
+4128,Portugal,2014,13.9
+4129,Puerto Rico,2014,13.9
+4130,Romania,2014,6.8
+4131,Russian Federation,2014,5.2
+4132,San Marino,2014,8.7
+4133,Saudi Arabia,2014,5.7
+4134,Serbia,2014,19.9
+4135,Seychelles,2014,3
+4136,Singapore,2014,2
+4137,Slovak Republic,2014,13.2
+4138,Slovenia,2014,9.7
+4139,South Africa,2014,25.1
+4140,Spain,2014,24.4
+4141,Sri Lanka,2014,4.3
+4142,Sudan,2014,19.8
+4143,Suriname,2014,5.5
+4144,Sweden,2014,7.9
+4145,Switzerland,2014,3
+4146,Syria,2014,no data
+4147,São Tomé and Príncipe,2014,13.5
+4148,Taiwan Province of China,2014,4
+4149,Tajikistan,2014,no data
+4150,Thailand,2014,0.8
+4151,Trinidad and Tobago,2014,3.3
+4152,Tunisia,2014,15
+4153,Turkey,2014,9.9
+4154,Ukraine,2014,9.3
+4155,United Kingdom,2014,6.2
+4156,United States,2014,6.2
+4157,Uruguay,2014,6.6
+4158,Venezuela,2014,6.7
+4159,Vietnam,2014,2.1
+4160,West Bank and Gaza,2014,26.9
+4161,Advanced economies,2014,7.3
+4162,Euro area,2014,11.6
+4163,Major advanced economies (G7),2014,6.4
+4164,Other advanced economies,2014,4.6
+4165,"©IMF, 2020",2014,
+4166,Albania,2015,17.1
+4167,Algeria,2015,11.2
+4168,Argentina,2015,6.5
+4169,Armenia,2015,18.5
+4170,Aruba,2015,7.3
+4171,Australia,2015,6.1
+4172,Austria,2015,5.7
+4173,Azerbaijan,2015,5
+4174,"Bahamas, The",2015,13.4
+4175,Bahrain,2015,3.4
+4176,Barbados,2015,11.3
+4177,Belarus,2015,0.9
+4178,Belgium,2015,8.5
+4179,Belize,2015,10.2
+4180,Bhutan,2015,2.5
+4181,Bolivia,2015,4
+4182,Bosnia and Herzegovina,2015,27.7
+4183,Brazil,2015,8.3
+4184,Brunei Darussalam,2015,7.7
+4185,Bulgaria,2015,9.2
+4186,Cabo Verde,2015,12.4
+4187,Canada,2015,6.9
+4188,Chile,2015,6.3
+4189,"China, People's Republic of",2015,4.1
+4190,Colombia,2015,8.9
+4191,Costa Rica,2015,9.6
+4192,Croatia,2015,17.1
+4193,Cyprus,2015,14.9
+4194,Czech Republic,2015,5
+4195,Denmark,2015,6.3
+4196,Dominican Republic,2015,7.3
+4197,Ecuador,2015,4.8
+4198,Egypt,2015,12.9
+4199,El Salvador,2015,7
+4200,Estonia,2015,6.2
+4201,Fiji,2015,5.5
+4202,Finland,2015,9.6
+4203,France,2015,10.4
+4204,Georgia,2015,14.1
+4205,Germany,2015,4.6
+4206,Greece,2015,24.9
+4207,Honduras,2015,4.6
+4208,Hong Kong SAR,2015,3.3
+4209,Hungary,2015,6.8
+4210,Iceland,2015,4
+4211,Indonesia,2015,6.2
+4212,Iran,2015,11
+4213,Ireland,2015,9.9
+4214,Israel,2015,5.3
+4215,Italy,2015,11.9
+4216,Jamaica,2015,13.5
+4217,Japan,2015,3.4
+4218,Jordan,2015,13.1
+4219,Kazakhstan,2015,5.1
+4220,"Korea, Republic of",2015,3.6
+4221,Kosovo,2015,32.9
+4222,Kuwait,2015,1.3
+4223,Kyrgyz Republic,2015,7.6
+4224,Latvia,2015,9.9
+4225,Lithuania,2015,9.1
+4226,Luxembourg,2015,6.6
+4227,Macao SAR,2015,1.8
+4228,Malaysia,2015,3.2
+4229,Malta,2015,5.4
+4230,Mauritius,2015,7.9
+4231,Mexico,2015,4.3
+4232,Moldova,2015,5
+4233,Mongolia,2015,7.5
+4234,Morocco,2015,9.7
+4235,Netherlands,2015,6.9
+4236,New Zealand,2015,5.4
+4237,Nicaragua,2015,5.9
+4238,Nigeria,2015,9
+4239,North Macedonia ,2015,26.1
+4240,Norway,2015,4.5
+4241,Pakistan,2015,5.9
+4242,Panama,2015,5.1
+4243,Paraguay,2015,5.4
+4244,Peru,2015,6.5
+4245,Philippines,2015,6.3
+4246,Poland,2015,7.5
+4247,Portugal,2015,12.4
+4248,Puerto Rico,2015,12
+4249,Romania,2015,6.8
+4250,Russian Federation,2015,5.6
+4251,San Marino,2015,9.2
+4252,Saudi Arabia,2015,5.6
+4253,Serbia,2015,18.2
+4254,Seychelles,2015,2.7
+4255,Singapore,2015,1.9
+4256,Slovak Republic,2015,11.5
+4257,Slovenia,2015,9
+4258,South Africa,2015,25.4
+4259,Spain,2015,22.1
+4260,Sri Lanka,2015,4.7
+4261,Sudan,2015,21.6
+4262,Suriname,2015,7
+4263,Sweden,2015,7.4
+4264,Switzerland,2015,3.2
+4265,Syria,2015,no data
+4266,São Tomé and Príncipe,2015,13.4
+4267,Taiwan Province of China,2015,3.8
+4268,Tajikistan,2015,no data
+4269,Thailand,2015,0.9
+4270,Trinidad and Tobago,2015,3.4
+4271,Tunisia,2015,15.4
+4272,Turkey,2015,10.3
+4273,Ukraine,2015,9.1
+4274,United Kingdom,2015,5.4
+4275,United States,2015,5.3
+4276,Uruguay,2015,7.5
+4277,Venezuela,2015,7.4
+4278,Vietnam,2015,2.3
+4279,West Bank and Gaza,2015,25.9
+4280,Advanced economies,2015,6.7
+4281,Euro area,2015,10.9
+4282,Major advanced economies (G7),2015,5.8
+4283,Other advanced economies,2015,4.5
+4284,"©IMF, 2020",2015,
+4285,Albania,2016,15.2
+4286,Algeria,2016,10.5
+4287,Argentina,2016,8.5
+4288,Armenia,2016,18
+4289,Aruba,2016,7.7
+4290,Australia,2016,5.7
+4291,Austria,2016,6
+4292,Azerbaijan,2016,5
+4293,"Bahamas, The",2016,12.2
+4294,Bahrain,2016,3.7
+4295,Barbados,2016,9.7
+4296,Belarus,2016,1
+4297,Belgium,2016,7.8
+4298,Belize,2016,9.6
+4299,Bhutan,2016,2.1
+4300,Bolivia,2016,4
+4301,Bosnia and Herzegovina,2016,25.4
+4302,Brazil,2016,11.3
+4303,Brunei Darussalam,2016,8.5
+4304,Bulgaria,2016,7.7
+4305,Cabo Verde,2016,15
+4306,Canada,2016,7
+4307,Chile,2016,6.7
+4308,"China, People's Republic of",2016,4
+4309,Colombia,2016,9.2
+4310,Costa Rica,2016,9.5
+4311,Croatia,2016,15
+4312,Cyprus,2016,13
+4313,Czech Republic,2016,3.9
+4314,Denmark,2016,6
+4315,Dominican Republic,2016,7.1
+4316,Ecuador,2016,5.2
+4317,Egypt,2016,12.7
+4318,El Salvador,2016,7.1
+4319,Estonia,2016,6.8
+4320,Fiji,2016,5.5
+4321,Finland,2016,9
+4322,France,2016,10
+4323,Georgia,2016,14
+4324,Germany,2016,4.2
+4325,Greece,2016,23.6
+4326,Honduras,2016,4.7
+4327,Hong Kong SAR,2016,3.4
+4328,Hungary,2016,5.1
+4329,Iceland,2016,3
+4330,Indonesia,2016,5.6
+4331,Iran,2016,12.4
+4332,Ireland,2016,8.4
+4333,Israel,2016,4.8
+4334,Italy,2016,11.7
+4335,Jamaica,2016,13.2
+4336,Japan,2016,3.1
+4337,Jordan,2016,15.3
+4338,Kazakhstan,2016,5
+4339,"Korea, Republic of",2016,3.7
+4340,Kosovo,2016,27.5
+4341,Kuwait,2016,1.2
+4342,Kyrgyz Republic,2016,7.2
+4343,Latvia,2016,9.6
+4344,Lithuania,2016,7.9
+4345,Luxembourg,2016,6.3
+4346,Macao SAR,2016,1.9
+4347,Malaysia,2016,3.5
+4348,Malta,2016,4.7
+4349,Mauritius,2016,7.3
+4350,Mexico,2016,3.9
+4351,Moldova,2016,4.2
+4352,Mongolia,2016,10
+4353,Morocco,2016,9.4
+4354,Netherlands,2016,6
+4355,New Zealand,2016,5.1
+4356,Nicaragua,2016,4.5
+4357,Nigeria,2016,13.4
+4358,North Macedonia ,2016,23.8
+4359,Norway,2016,4.7
+4360,Pakistan,2016,6
+4361,Panama,2016,5.5
+4362,Paraguay,2016,6
+4363,Peru,2016,6.7
+4364,Philippines,2016,5.5
+4365,Poland,2016,6.2
+4366,Portugal,2016,11.1
+4367,Puerto Rico,2016,11.8
+4368,Romania,2016,5.9
+4369,Russian Federation,2016,5.5
+4370,San Marino,2016,8.6
+4371,Saudi Arabia,2016,5.6
+4372,Serbia,2016,15.9
+4373,Seychelles,2016,2.7
+4374,Singapore,2016,2.1
+4375,Slovak Republic,2016,9.7
+4376,Slovenia,2016,8
+4377,South Africa,2016,26.7
+4378,Spain,2016,19.6
+4379,Sri Lanka,2016,4.4
+4380,Sudan,2016,20.6
+4381,Suriname,2016,10
+4382,Sweden,2016,7
+4383,Switzerland,2016,3.3
+4384,Syria,2016,no data
+4385,São Tomé and Príncipe,2016,13.4
+4386,Taiwan Province of China,2016,3.9
+4387,Tajikistan,2016,no data
+4388,Thailand,2016,1
+4389,Trinidad and Tobago,2016,4
+4390,Tunisia,2016,15.5
+4391,Turkey,2016,10.9
+4392,Ukraine,2016,9.5
+4393,United Kingdom,2016,4.9
+4394,United States,2016,4.9
+4395,Uruguay,2016,7.9
+4396,Venezuela,2016,20.9
+4397,Vietnam,2016,2.3
+4398,West Bank and Gaza,2016,26.9
+4399,Advanced economies,2016,6.2
+4400,Euro area,2016,10
+4401,Major advanced economies (G7),2016,5.5
+4402,Other advanced economies,2016,4.4
+4403,"©IMF, 2020",2016,
+4404,Albania,2017,13.7
+4405,Algeria,2017,11.7
+4406,Argentina,2017,8.4
+4407,Armenia,2017,20.9
+4408,Aruba,2017,8.9
+4409,Australia,2017,5.6
+4410,Austria,2017,5.5
+4411,Azerbaijan,2017,5
+4412,"Bahamas, The",2017,10.1
+4413,Bahrain,2017,3.6
+4414,Barbados,2017,10
+4415,Belarus,2017,0.8
+4416,Belgium,2017,7.1
+4417,Belize,2017,9.4
+4418,Bhutan,2017,3.1
+4419,Bolivia,2017,4
+4420,Bosnia and Herzegovina,2017,20.5
+4421,Brazil,2017,12.8
+4422,Brunei Darussalam,2017,9.3
+4423,Bulgaria,2017,6.2
+4424,Cabo Verde,2017,12.2
+4425,Canada,2017,6.3
+4426,Chile,2017,7
+4427,"China, People's Republic of",2017,3.9
+4428,Colombia,2017,9.4
+4429,Costa Rica,2017,9.3
+4430,Croatia,2017,12.4
+4431,Cyprus,2017,11.1
+4432,Czech Republic,2017,2.9
+4433,Denmark,2017,5.8
+4434,Dominican Republic,2017,5.5
+4435,Ecuador,2017,4.6
+4436,Egypt,2017,12.2
+4437,El Salvador,2017,7
+4438,Estonia,2017,5.8
+4439,Fiji,2017,4.5
+4440,Finland,2017,8.8
+4441,France,2017,9.4
+4442,Georgia,2017,13.9
+4443,Germany,2017,3.8
+4444,Greece,2017,21.5
+4445,Honduras,2017,4
+4446,Hong Kong SAR,2017,3.1
+4447,Hungary,2017,4.2
+4448,Iceland,2017,2.8
+4449,Indonesia,2017,5.5
+4450,Iran,2017,12.1
+4451,Ireland,2017,6.7
+4452,Israel,2017,4.2
+4453,Italy,2017,11.3
+4454,Jamaica,2017,11.7
+4455,Japan,2017,2.8
+4456,Jordan,2017,18.3
+4457,Kazakhstan,2017,4.9
+4458,"Korea, Republic of",2017,3.7
+4459,Kosovo,2017,30.5
+4460,Kuwait,2017,1.3
+4461,Kyrgyz Republic,2017,6.9
+4462,Latvia,2017,8.7
+4463,Lithuania,2017,7.1
+4464,Luxembourg,2017,5.8
+4465,Macao SAR,2017,2
+4466,Malaysia,2017,3.4
+4467,Malta,2017,4
+4468,Mauritius,2017,7.1
+4469,Mexico,2017,3.4
+4470,Moldova,2017,3.9
+4471,Mongolia,2017,8.8
+4472,Morocco,2017,10.2
+4473,Netherlands,2017,4.9
+4474,New Zealand,2017,4.7
+4475,Nicaragua,2017,3.7
+4476,Nigeria,2017,17.5
+4477,North Macedonia ,2017,22.4
+4478,Norway,2017,4.2
+4479,Pakistan,2017,6
+4480,Panama,2017,6.1
+4481,Paraguay,2017,6.1
+4482,Peru,2017,6.9
+4483,Philippines,2017,5.7
+4484,Poland,2017,4.9
+4485,Portugal,2017,8.9
+4486,Puerto Rico,2017,10.8
+4487,Romania,2017,4.9
+4488,Russian Federation,2017,5.2
+4489,San Marino,2017,8.1
+4490,Saudi Arabia,2017,6
+4491,Serbia,2017,14.1
+4492,Seychelles,2017,3
+4493,Singapore,2017,2.2
+4494,Slovak Republic,2017,8.1
+4495,Slovenia,2017,6.6
+4496,South Africa,2017,27.5
+4497,Spain,2017,17.2
+4498,Sri Lanka,2017,4.2
+4499,Sudan,2017,19.6
+4500,Suriname,2017,7
+4501,Sweden,2017,6.7
+4502,Switzerland,2017,3.1
+4503,Syria,2017,no data
+4504,São Tomé and Príncipe,2017,13.5
+4505,Taiwan Province of China,2017,3.8
+4506,Tajikistan,2017,no data
+4507,Thailand,2017,1.2
+4508,Trinidad and Tobago,2017,4.8
+4509,Tunisia,2017,15.5
+4510,Turkey,2017,10.9
+4511,Ukraine,2017,9.7
+4512,United Kingdom,2017,4.4
+4513,United States,2017,4.3
+4514,Uruguay,2017,7.9
+4515,Venezuela,2017,27.9
+4516,Vietnam,2017,2.2
+4517,West Bank and Gaza,2017,25.5
+4518,Advanced economies,2017,5.6
+4519,Euro area,2017,9.1
+4520,Major advanced economies (G7),2017,5
+4521,Other advanced economies,2017,4.2
+4522,"©IMF, 2020",2017,
+4523,Albania,2018,12.3
+4524,Algeria,2018,11.7
+4525,Argentina,2018,9.2
+4526,Armenia,2018,20.5
+4527,Aruba,2018,7.3
+4528,Australia,2018,5.3
+4529,Austria,2018,4.9
+4530,Azerbaijan,2018,4.9
+4531,"Bahamas, The",2018,10.4
+4532,Bahrain,2018,3.9
+4533,Barbados,2018,10.1
+4534,Belarus,2018,0.4
+4535,Belgium,2018,6
+4536,Belize,2018,9.7
+4537,Bhutan,2018,no data
+4538,Bolivia,2018,4
+4539,Bosnia and Herzegovina,2018,18.4
+4540,Brazil,2018,12.3
+4541,Brunei Darussalam,2018,8.7
+4542,Bulgaria,2018,5.2
+4543,Cabo Verde,2018,12.2
+4544,Canada,2018,5.8
+4545,Chile,2018,7.4
+4546,"China, People's Republic of",2018,3.8
+4547,Colombia,2018,9.7
+4548,Costa Rica,2018,12
+4549,Croatia,2018,9.9
+4550,Cyprus,2018,8.4
+4551,Czech Republic,2018,2.2
+4552,Denmark,2018,5.1
+4553,Dominican Republic,2018,5.7
+4554,Ecuador,2018,3.7
+4555,Egypt,2018,10.9
+4556,El Salvador,2018,6.3
+4557,Estonia,2018,5.4
+4558,Fiji,2018,4.5
+4559,Finland,2018,7.4
+4560,France,2018,9
+4561,Georgia,2018,12.7
+4562,Germany,2018,3.4
+4563,Greece,2018,19.3
+4564,Honduras,2018,4.1
+4565,Hong Kong SAR,2018,2.8
+4566,Hungary,2018,3.7
+4567,Iceland,2018,2.7
+4568,Indonesia,2018,5.3
+4569,Iran,2018,12
+4570,Ireland,2018,5.8
+4571,Israel,2018,4
+4572,Italy,2018,10.6
+4573,Jamaica,2018,9.1
+4574,Japan,2018,2.4
+4575,Jordan,2018,18.6
+4576,Kazakhstan,2018,4.9
+4577,"Korea, Republic of",2018,3.8
+4578,Kosovo,2018,29.6
+4579,Kuwait,2018,1.1
+4580,Kyrgyz Republic,2018,6.6
+4581,Latvia,2018,7.4
+4582,Lithuania,2018,6.1
+4583,Luxembourg,2018,5.1
+4584,Macao SAR,2018,1.8
+4585,Malaysia,2018,3.3
+4586,Malta,2018,3.7
+4587,Mauritius,2018,6.9
+4588,Mexico,2018,3.3
+4589,Moldova,2018,3
+4590,Mongolia,2018,7.8
+4591,Morocco,2018,9.8
+4592,Netherlands,2018,3.8
+4593,New Zealand,2018,4.3
+4594,Nicaragua,2018,5.5
+4595,Nigeria,2018,22.6
+4596,North Macedonia ,2018,20.7
+4597,Norway,2018,3.9
+4598,Pakistan,2018,5.6
+4599,Panama,2018,6
+4600,Paraguay,2018,6.2
+4601,Peru,2018,6.7
+4602,Philippines,2018,5.3
+4603,Poland,2018,3.8
+4604,Portugal,2018,7
+4605,Puerto Rico,2018,9.2
+4606,Romania,2018,4.2
+4607,Russian Federation,2018,4.8
+4608,San Marino,2018,8
+4609,Saudi Arabia,2018,6
+4610,Serbia,2018,13.3
+4611,Seychelles,2018,3
+4612,Singapore,2018,2.1
+4613,Slovak Republic,2018,6.5
+4614,Slovenia,2018,5.1
+4615,South Africa,2018,27.1
+4616,Spain,2018,15.3
+4617,Sri Lanka,2018,4.4
+4618,Sudan,2018,19.5
+4619,Suriname,2018,9
+4620,Sweden,2018,6.3
+4621,Switzerland,2018,2.5
+4622,Syria,2018,no data
+4623,São Tomé and Príncipe,2018,no data
+4624,Taiwan Province of China,2018,3.7
+4625,Tajikistan,2018,no data
+4626,Thailand,2018,1.1
+4627,Trinidad and Tobago,2018,4.1
+4628,Tunisia,2018,15.5
+4629,Turkey,2018,11
+4630,Ukraine,2018,9
+4631,United Kingdom,2018,4.1
+4632,United States,2018,3.9
+4633,Uruguay,2018,8.4
+4634,Venezuela,2018,35.5
+4635,Vietnam,2018,2.2
+4636,West Bank and Gaza,2018,26.3
+4637,Advanced economies,2018,5.1
+4638,Euro area,2018,8.2
+4639,Major advanced economies (G7),2018,4.6
+4640,Other advanced economies,2018,4
+4641,"©IMF, 2020",2018,
+4642,Albania,2019,11.5
+4643,Algeria,2019,11.4
+4644,Argentina,2019,9.8
+4645,Armenia,2019,18.9
+4646,Aruba,2019,7.5
+4647,Australia,2019,5.2
+4648,Austria,2019,4.5
+4649,Azerbaijan,2019,4.8
+4650,"Bahamas, The",2019,10.7
+4651,Bahrain,2019,4
+4652,Barbados,2019,10.4
+4653,Belarus,2019,0.3
+4654,Belgium,2019,5.4
+4655,Belize,2019,9
+4656,Bhutan,2019,no data
+4657,Bolivia,2019,4
+4658,Bosnia and Herzegovina,2019,15.7
+4659,Brazil,2019,11.9
+4660,Brunei Darussalam,2019,6.8
+4661,Bulgaria,2019,4.2
+4662,Cabo Verde,2019,8.5
+4663,Canada,2019,5.7
+4664,Chile,2019,7.2
+4665,"China, People's Republic of",2019,3.6
+4666,Colombia,2019,10.5
+4667,Costa Rica,2019,12.4
+4668,Croatia,2019,7.8
+4669,Cyprus,2019,7.1
+4670,Czech Republic,2019,2
+4671,Denmark,2019,5
+4672,Dominican Republic,2019,6.2
+4673,Ecuador,2019,3.8
+4674,Egypt,2019,8.6
+4675,El Salvador,2019,6.7
+4676,Estonia,2019,4.4
+4677,Fiji,2019,4.5
+4678,Finland,2019,6.8
+4679,France,2019,8.5
+4680,Georgia,2019,11.6
+4681,Germany,2019,3.1
+4682,Greece,2019,17.3
+4683,Honduras,2019,4.1
+4684,Hong Kong SAR,2019,3
+4685,Hungary,2019,3.4
+4686,Iceland,2019,3.6
+4687,Indonesia,2019,5.3
+4688,Iran,2019,10.7
+4689,Ireland,2019,5
+4690,Israel,2019,3.8
+4691,Italy,2019,9.9
+4692,Jamaica,2019,7.7
+4693,Japan,2019,2.4
+4694,Jordan,2019,19.1
+4695,Kazakhstan,2019,4.8
+4696,"Korea, Republic of",2019,3.8
+4697,Kosovo,2019,25.7
+4698,Kuwait,2019,no data
+4699,Kyrgyz Republic,2019,6.6
+4700,Latvia,2019,6.3
+4701,Lithuania,2019,6.3
+4702,Luxembourg,2019,5.4
+4703,Macao SAR,2019,1.7
+4704,Malaysia,2019,3.3
+4705,Malta,2019,3.6
+4706,Mauritius,2019,6.7
+4707,Mexico,2019,3.5
+4708,Moldova,2019,5.1
+4709,Mongolia,2019,10
+4710,Morocco,2019,9.2
+4711,Netherlands,2019,3.4
+4712,New Zealand,2019,4.1
+4713,Nicaragua,2019,6.1
+4714,Nigeria,2019,no data
+4715,North Macedonia ,2019,17.3
+4716,Norway,2019,3.7
+4717,Pakistan,2019,4.1
+4718,Panama,2019,7.1
+4719,Paraguay,2019,6.1
+4720,Peru,2019,6.6
+4721,Philippines,2019,5.1
+4722,Poland,2019,3.3
+4723,Portugal,2019,6.5
+4724,Puerto Rico,2019,8.3
+4725,Romania,2019,3.9
+4726,Russian Federation,2019,4.6
+4727,San Marino,2019,7.7
+4728,Saudi Arabia,2019,5.6
+4729,Serbia,2019,10.9
+4730,Seychelles,2019,3
+4731,Singapore,2019,2.3
+4732,Slovak Republic,2019,5.8
+4733,Slovenia,2019,4.6
+4734,South Africa,2019,28.7
+4735,Spain,2019,14.1
+4736,Sri Lanka,2019,4.8
+4737,Sudan,2019,22.1
+4738,Suriname,2019,9
+4739,Sweden,2019,6.8
+4740,Switzerland,2019,2.3
+4741,Syria,2019,no data
+4742,São Tomé and Príncipe,2019,no data
+4743,Taiwan Province of China,2019,3.8
+4744,Tajikistan,2019,no data
+4745,Thailand,2019,1
+4746,Trinidad and Tobago,2019,no data
+4747,Tunisia,2019,14.9
+4748,Turkey,2019,13.7
+4749,Ukraine,2019,8.5
+4750,United Kingdom,2019,3.8
+4751,United States,2019,3.7
+4752,Uruguay,2019,8.9
+4753,Venezuela,2019,no data
+4754,Vietnam,2019,2.2
+4755,West Bank and Gaza,2019,25.4
+4756,Advanced economies,2019,4.8
+4757,Euro area,2019,7.6
+4758,Major advanced economies (G7),2019,4.3
+4759,Other advanced economies,2019,4
+4760,"©IMF, 2020",2019,
+4761,Albania,2020,11.8
+4762,Algeria,2020,14.1
+4763,Argentina,2020,11
+4764,Armenia,2020,22.3
+4765,Aruba,2020,13.1
+4766,Australia,2020,6.9
+4767,Austria,2020,5.8
+4768,Azerbaijan,2020,6.5
+4769,"Bahamas, The",2020,25.4
+4770,Bahrain,2020,4.9
+4771,Barbados,2020,14.9
+4772,Belarus,2020,1.4
+4773,Belgium,2020,6.1
+4774,Belize,2020,25.1
+4775,Bhutan,2020,no data
+4776,Bolivia,2020,8
+4777,Bosnia and Herzegovina,2020,19
+4778,Brazil,2020,13.4
+4779,Brunei Darussalam,2020,6.8
+4780,Bulgaria,2020,5.6
+4781,Cabo Verde,2020,8.5
+4782,Canada,2020,9.7
+4783,Chile,2020,11.4
+4784,"China, People's Republic of",2020,3.8
+4785,Colombia,2020,17.3
+4786,Costa Rica,2020,22
+4787,Croatia,2020,9.3
+4788,Cyprus,2020,8
+4789,Czech Republic,2020,3.1
+4790,Denmark,2020,6.2
+4791,Dominican Republic,2020,16
+4792,Ecuador,2020,8.1
+4793,Egypt,2020,8.3
+4794,El Salvador,2020,9.4
+4795,Estonia,2020,7.8
+4796,Fiji,2020,13.4
+4797,Finland,2020,8.4
+4798,France,2020,8.9
+4799,Georgia,2020,no data
+4800,Germany,2020,4.3
+4801,Greece,2020,19.9
+4802,Honduras,2020,5.7
+4803,Hong Kong SAR,2020,5.2
+4804,Hungary,2020,6.1
+4805,Iceland,2020,7.2
+4806,Indonesia,2020,8
+4807,Iran,2020,12.2
+4808,Ireland,2020,5.6
+4809,Israel,2020,6
+4810,Italy,2020,11
+4811,Jamaica,2020,no data
+4812,Japan,2020,3.3
+4813,Jordan,2020,no data
+4814,Kazakhstan,2020,7.8
+4815,"Korea, Republic of",2020,4.1
+4816,Kosovo,2020,no data
+4817,Kuwait,2020,no data
+4818,Kyrgyz Republic,2020,6.6
+4819,Latvia,2020,9
+4820,Lithuania,2020,8.2
+4821,Luxembourg,2020,6.5
+4822,Macao SAR,2020,2.3
+4823,Malaysia,2020,4.9
+4824,Malta,2020,4.2
+4825,Mauritius,2020,21
+4826,Mexico,2020,5.2
+4827,Moldova,2020,8
+4828,Mongolia,2020,12
+4829,Morocco,2020,12.5
+4830,Netherlands,2020,5.5
+4831,New Zealand,2020,6
+4832,Nicaragua,2020,10.6
+4833,Nigeria,2020,no data
+4834,North Macedonia ,2020,20.2
+4835,Norway,2020,4.5
+4836,Pakistan,2020,4.5
+4837,Panama,2020,10.9
+4838,Paraguay,2020,7
+4839,Peru,2020,12.5
+4840,Philippines,2020,10.4
+4841,Poland,2020,3.8
+4842,Portugal,2020,8.1
+4843,Puerto Rico,2020,12
+4844,Romania,2020,7.9
+4845,Russian Federation,2020,5.6
+4846,San Marino,2020,10.1
+4847,Saudi Arabia,2020,no data
+4848,Serbia,2020,13.4
+4849,Seychelles,2020,3
+4850,Singapore,2020,3
+4851,Slovak Republic,2020,7.8
+4852,Slovenia,2020,8
+4853,South Africa,2020,37
+4854,Spain,2020,16.8
+4855,Sri Lanka,2020,8.4
+4856,Sudan,2020,25
+4857,Suriname,2020,11.2
+4858,Sweden,2020,8.7
+4859,Switzerland,2020,3.2
+4860,Syria,2020,no data
+4861,São Tomé and Príncipe,2020,no data
+4862,Taiwan Province of China,2020,3.9
+4863,Tajikistan,2020,no data
+4864,Thailand,2020,1
+4865,Trinidad and Tobago,2020,no data
+4866,Tunisia,2020,no data
+4867,Turkey,2020,14.6
+4868,Ukraine,2020,11
+4869,United Kingdom,2020,5.4
+4870,United States,2020,8.9
+4871,Uruguay,2020,9.7
+4872,Venezuela,2020,no data
+4873,Vietnam,2020,3.3
+4874,West Bank and Gaza,2020,32.2
+4875,Advanced economies,2020,7.3
+4876,Euro area,2020,8.9
+4877,Major advanced economies (G7),2020,7.2
+4878,Other advanced economies,2020,5
+4879,"©IMF, 2020",2020,
+4880,Albania,2021,11.5
+4881,Algeria,2021,14.3
+4882,Argentina,2021,10.1
+4883,Armenia,2021,21.1
+4884,Aruba,2021,10.5
+4885,Australia,2021,7.7
+4886,Austria,2021,5.5
+4887,Azerbaijan,2021,5.8
+4888,"Bahamas, The",2021,20.3
+4889,Bahrain,2021,3.9
+4890,Barbados,2021,12.8
+4891,Belarus,2021,1.1
+4892,Belgium,2021,7.6
+4893,Belize,2021,20.9
+4894,Bhutan,2021,no data
+4895,Bolivia,2021,4
+4896,Bosnia and Herzegovina,2021,17.5
+4897,Brazil,2021,14.1
+4898,Brunei Darussalam,2021,6.8
+4899,Bulgaria,2021,4.5
+4900,Cabo Verde,2021,8.5
+4901,Canada,2021,7.9
+4902,Chile,2021,10.2
+4903,"China, People's Republic of",2021,3.6
+4904,Colombia,2021,15.8
+4905,Costa Rica,2021,18.5
+4906,Croatia,2021,10.3
+4907,Cyprus,2021,7
+4908,Czech Republic,2021,3.4
+4909,Denmark,2021,6
+4910,Dominican Republic,2021,8
+4911,Ecuador,2021,5.6
+4912,Egypt,2021,9.7
+4913,El Salvador,2021,9.5
+4914,Estonia,2021,6.1
+4915,Fiji,2021,6.3
+4916,Finland,2021,8.6
+4917,France,2021,10.2
+4918,Georgia,2021,no data
+4919,Germany,2021,4.2
+4920,Greece,2021,18.3
+4921,Honduras,2021,4.9
+4922,Hong Kong SAR,2021,4.4
+4923,Hungary,2021,4.7
+4924,Iceland,2021,7
+4925,Indonesia,2021,6.8
+4926,Iran,2021,12.4
+4927,Ireland,2021,6.2
+4928,Israel,2021,5.6
+4929,Italy,2021,11.8
+4930,Jamaica,2021,no data
+4931,Japan,2021,2.8
+4932,Jordan,2021,no data
+4933,Kazakhstan,2021,5.8
+4934,"Korea, Republic of",2021,4.1
+4935,Kosovo,2021,no data
+4936,Kuwait,2021,no data
+4937,Kyrgyz Republic,2021,6.6
+4938,Latvia,2021,8
+4939,Lithuania,2021,7.5
+4940,Luxembourg,2021,7
+4941,Macao SAR,2021,2
+4942,Malaysia,2021,3.4
+4943,Malta,2021,4.2
+4944,Mauritius,2021,11
+4945,Mexico,2021,5.8
+4946,Moldova,2021,5.5
+4947,Mongolia,2021,10.8
+4948,Morocco,2021,10.5
+4949,Netherlands,2021,4.5
+4950,New Zealand,2021,7
+4951,Nicaragua,2021,11.1
+4952,Nigeria,2021,no data
+4953,North Macedonia ,2021,17.8
+4954,Norway,2021,4.3
+4955,Pakistan,2021,5.1
+4956,Panama,2021,10.1
+4957,Paraguay,2021,6.1
+4958,Peru,2021,8.8
+4959,Philippines,2021,7.4
+4960,Poland,2021,5.1
+4961,Portugal,2021,7.7
+4962,Puerto Rico,2021,11.5
+4963,Romania,2021,6
+4964,Russian Federation,2021,5.2
+4965,San Marino,2021,8.4
+4966,Saudi Arabia,2021,no data
+4967,Serbia,2021,13
+4968,Seychelles,2021,3
+4969,Singapore,2021,2.6
+4970,Slovak Republic,2021,7.1
+4971,Slovenia,2021,6
+4972,South Africa,2021,36.5
+4973,Spain,2021,16.8
+4974,Sri Lanka,2021,7
+4975,Sudan,2021,22
+4976,Suriname,2021,11
+4977,Sweden,2021,9.3
+4978,Switzerland,2021,3.6
+4979,Syria,2021,no data
+4980,São Tomé and Príncipe,2021,no data
+4981,Taiwan Province of China,2021,3.8
+4982,Tajikistan,2021,no data
+4983,Thailand,2021,1
+4984,Trinidad and Tobago,2021,no data
+4985,Tunisia,2021,no data
+4986,Turkey,2021,12.4
+4987,Ukraine,2021,9.6
+4988,United Kingdom,2021,7.4
+4989,United States,2021,7.3
+4990,Uruguay,2021,9
+4991,Venezuela,2021,no data
+4992,Vietnam,2021,2.7
+4993,West Bank and Gaza,2021,28.2
+4994,Advanced economies,2021,6.9
+4995,Euro area,2021,9.1
+4996,Major advanced economies (G7),2021,6.7
+4997,Other advanced economies,2021,5.1
+4998,"©IMF, 2020",2021,
+4999,Albania,2022,11.3
+5000,Algeria,2022,14.7
+5001,Argentina,2022,9.7
+5002,Armenia,2022,21
+5003,Aruba,2022,10.4
+5004,Australia,2022,6.7
+5005,Austria,2022,5
+5006,Azerbaijan,2022,5.7
+5007,"Bahamas, The",2022,18
+5008,Bahrain,2022,3.8
+5009,Barbados,2022,11.8
+5010,Belarus,2022,0.8
+5011,Belgium,2022,6.6
+5012,Belize,2022,18.6
+5013,Bhutan,2022,no data
+5014,Bolivia,2022,4
+5015,Bosnia and Herzegovina,2022,16.8
+5016,Brazil,2022,13.3
+5017,Brunei Darussalam,2022,6.8
+5018,Bulgaria,2022,4.3
+5019,Cabo Verde,2022,8.5
+5020,Canada,2022,6.9
+5021,Chile,2022,9.1
+5022,"China, People's Republic of",2022,3.6
+5023,Colombia,2022,14.6
+5024,Costa Rica,2022,15.5
+5025,Croatia,2022,9.6
+5026,Cyprus,2022,6.4
+5027,Czech Republic,2022,3.2
+5028,Denmark,2022,5.7
+5029,Dominican Republic,2022,5.5
+5030,Ecuador,2022,5.5
+5031,Egypt,2022,9.7
+5032,El Salvador,2022,8.2
+5033,Estonia,2022,5
+5034,Fiji,2022,4.5
+5035,Finland,2022,7.7
+5036,France,2022,9.5
+5037,Georgia,2022,no data
+5038,Germany,2022,3.7
+5039,Greece,2022,16.6
+5040,Honduras,2022,4.8
+5041,Hong Kong SAR,2022,4
+5042,Hungary,2022,3.9
+5043,Iceland,2022,5
+5044,Indonesia,2022,5.8
+5045,Iran,2022,13.1
+5046,Ireland,2022,5.9
+5047,Israel,2022,5.1
+5048,Italy,2022,10.8
+5049,Jamaica,2022,no data
+5050,Japan,2022,2.4
+5051,Jordan,2022,no data
+5052,Kazakhstan,2022,4.8
+5053,"Korea, Republic of",2022,4.1
+5054,Kosovo,2022,no data
+5055,Kuwait,2022,no data
+5056,Kyrgyz Republic,2022,6.6
+5057,Latvia,2022,7.5
+5058,Lithuania,2022,6.9
+5059,Luxembourg,2022,6.9
+5060,Macao SAR,2022,1.8
+5061,Malaysia,2022,3.3
+5062,Malta,2022,4.2
+5063,Mauritius,2022,7.5
+5064,Mexico,2022,4.7
+5065,Moldova,2022,3
+5066,Mongolia,2022,9.7
+5067,Morocco,2022,9.7
+5068,Netherlands,2022,4
+5069,New Zealand,2022,5.4
+5070,Nicaragua,2022,7.5
+5071,Nigeria,2022,no data
+5072,North Macedonia ,2022,16.7
+5073,Norway,2022,4
+5074,Pakistan,2022,4.9
+5075,Panama,2022,9.2
+5076,Paraguay,2022,5.8
+5077,Peru,2022,6.8
+5078,Philippines,2022,6.7
+5079,Poland,2022,4.9
+5080,Portugal,2022,6.9
+5081,Puerto Rico,2022,10
+5082,Romania,2022,5.5
+5083,Russian Federation,2022,4.7
+5084,San Marino,2022,8.4
+5085,Saudi Arabia,2022,no data
+5086,Serbia,2022,12.7
+5087,Seychelles,2022,3
+5088,Singapore,2022,2.3
+5089,Slovak Republic,2022,6.6
+5090,Slovenia,2022,5
+5091,South Africa,2022,37
+5092,Spain,2022,15.7
+5093,Sri Lanka,2022,5.5
+5094,Sudan,2022,19.9
+5095,Suriname,2022,10.6
+5096,Sweden,2022,8.5
+5097,Switzerland,2022,3.4
+5098,Syria,2022,no data
+5099,São Tomé and Príncipe,2022,no data
+5100,Taiwan Province of China,2022,3.8
+5101,Tajikistan,2022,no data
+5102,Thailand,2022,1
+5103,Trinidad and Tobago,2022,no data
+5104,Tunisia,2022,no data
+5105,Turkey,2022,10.7
+5106,Ukraine,2022,9
+5107,United Kingdom,2022,6.1
+5108,United States,2022,5.7
+5109,Uruguay,2022,8.5
+5110,Venezuela,2022,no data
+5111,Vietnam,2022,2.4
+5112,West Bank and Gaza,2022,26
+5113,Advanced economies,2022,6
+5114,Euro area,2022,8.4
+5115,Major advanced economies (G7),2022,5.6
+5116,Other advanced economies,2022,4.7
+5117,"©IMF, 2020",2022,
+5118,Albania,2023,11
+5119,Algeria,2023,15.7
+5120,Argentina,2023,9.4
+5121,Armenia,2023,20.9
+5122,Aruba,2023,9.7
+5123,Australia,2023,6
+5124,Austria,2023,4.7
+5125,Azerbaijan,2023,5.6
+5126,"Bahamas, The",2023,16.1
+5127,Bahrain,2023,3.8
+5128,Barbados,2023,11.5
+5129,Belarus,2023,0.6
+5130,Belgium,2023,6.2
+5131,Belize,2023,17.8
+5132,Bhutan,2023,no data
+5133,Bolivia,2023,4
+5134,Bosnia and Herzegovina,2023,16
+5135,Brazil,2023,12.5
+5136,Brunei Darussalam,2023,6.8
+5137,Bulgaria,2023,4.2
+5138,Cabo Verde,2023,8.5
+5139,Canada,2023,6.6
+5140,Chile,2023,8.2
+5141,"China, People's Republic of",2023,3.5
+5142,Colombia,2023,13.5
+5143,Costa Rica,2023,12
+5144,Croatia,2023,8.8
+5145,Cyprus,2023,5.9
+5146,Czech Republic,2023,3
+5147,Denmark,2023,5.6
+5148,Dominican Republic,2023,5.5
+5149,Ecuador,2023,5.2
+5150,Egypt,2023,9.5
+5151,El Salvador,2023,7.5
+5152,Estonia,2023,5
+5153,Fiji,2023,3.9
+5154,Finland,2023,7.1
+5155,France,2023,9
+5156,Georgia,2023,no data
+5157,Germany,2023,3.6
+5158,Greece,2023,14.8
+5159,Honduras,2023,4.7
+5160,Hong Kong SAR,2023,3.9
+5161,Hungary,2023,3.7
+5162,Iceland,2023,4
+5163,Indonesia,2023,5.4
+5164,Iran,2023,13.8
+5165,Ireland,2023,5.3
+5166,Israel,2023,4.7
+5167,Italy,2023,10.3
+5168,Jamaica,2023,no data
+5169,Japan,2023,2.3
+5170,Jordan,2023,no data
+5171,Kazakhstan,2023,4.8
+5172,"Korea, Republic of",2023,4
+5173,Kosovo,2023,no data
+5174,Kuwait,2023,no data
+5175,Kyrgyz Republic,2023,6.6
+5176,Latvia,2023,7.4
+5177,Lithuania,2023,6.4
+5178,Luxembourg,2023,6.3
+5179,Macao SAR,2023,1.8
+5180,Malaysia,2023,3.3
+5181,Malta,2023,4.1
+5182,Mauritius,2023,7.3
+5183,Mexico,2023,4.4
+5184,Moldova,2023,3
+5185,Mongolia,2023,8.7
+5186,Morocco,2023,9.1
+5187,Netherlands,2023,4
+5188,New Zealand,2023,5.3
+5189,Nicaragua,2023,7.2
+5190,Nigeria,2023,no data
+5191,North Macedonia ,2023,16
+5192,Norway,2023,3.9
+5193,Pakistan,2023,4.9
+5194,Panama,2023,8.8
+5195,Paraguay,2023,5.8
+5196,Peru,2023,6.5
+5197,Philippines,2023,6.2
+5198,Poland,2023,4.7
+5199,Portugal,2023,6.5
+5200,Puerto Rico,2023,9.5
+5201,Romania,2023,5.5
+5202,Russian Federation,2023,4.7
+5203,San Marino,2023,8.3
+5204,Saudi Arabia,2023,no data
+5205,Serbia,2023,12.4
+5206,Seychelles,2023,3
+5207,Singapore,2023,2.1
+5208,Slovak Republic,2023,6.4
+5209,Slovenia,2023,4.6
+5210,South Africa,2023,37.5
+5211,Spain,2023,14.9
+5212,Sri Lanka,2023,4.4
+5213,Sudan,2023,19.4
+5214,Suriname,2023,10.1
+5215,Sweden,2023,7.7
+5216,Switzerland,2023,3.2
+5217,Syria,2023,no data
+5218,São Tomé and Príncipe,2023,no data
+5219,Taiwan Province of China,2023,3.8
+5220,Tajikistan,2023,no data
+5221,Thailand,2023,1
+5222,Trinidad and Tobago,2023,no data
+5223,Tunisia,2023,no data
+5224,Turkey,2023,9
+5225,Ukraine,2023,8.6
+5226,United Kingdom,2023,5.2
+5227,United States,2023,5.1
+5228,Uruguay,2023,8.3
+5229,Venezuela,2023,no data
+5230,Vietnam,2023,2.3
+5231,West Bank and Gaza,2023,26.2
+5232,Advanced economies,2023,5.5
+5233,Euro area,2023,7.9
+5234,Major advanced economies (G7),2023,5.2
+5235,Other advanced economies,2023,4.5
+5236,"©IMF, 2020",2023,
+5237,Albania,2024,11
+5238,Algeria,2024,16.9
+5239,Argentina,2024,9.2
+5240,Armenia,2024,20.8
+5241,Aruba,2024,8.4
+5242,Australia,2024,5.6
+5243,Austria,2024,4.5
+5244,Azerbaijan,2024,5.6
+5245,"Bahamas, The",2024,15.6
+5246,Bahrain,2024,3.8
+5247,Barbados,2024,11.2
+5248,Belarus,2024,0.6
+5249,Belgium,2024,5.9
+5250,Belize,2024,17.8
+5251,Bhutan,2024,no data
+5252,Bolivia,2024,4
+5253,Bosnia and Herzegovina,2024,15.3
+5254,Brazil,2024,11.6
+5255,Brunei Darussalam,2024,6.8
+5256,Bulgaria,2024,4.2
+5257,Cabo Verde,2024,8.5
+5258,Canada,2024,6.5
+5259,Chile,2024,7.5
+5260,"China, People's Republic of",2024,3.5
+5261,Colombia,2024,12.5
+5262,Costa Rica,2024,10.5
+5263,Croatia,2024,8
+5264,Cyprus,2024,5.3
+5265,Czech Republic,2024,2.8
+5266,Denmark,2024,5.6
+5267,Dominican Republic,2024,5.5
+5268,Ecuador,2024,4.7
+5269,Egypt,2024,9.3
+5270,El Salvador,2024,7
+5271,Estonia,2024,5
+5272,Fiji,2024,4
+5273,Finland,2024,6.6
+5274,France,2024,8.7
+5275,Georgia,2024,no data
+5276,Germany,2024,3.5
+5277,Greece,2024,13.5
+5278,Honduras,2024,4.6
+5279,Hong Kong SAR,2024,3.9
+5280,Hungary,2024,3.5
+5281,Iceland,2024,4
+5282,Indonesia,2024,5.3
+5283,Iran,2024,14.5
+5284,Ireland,2024,5.4
+5285,Israel,2024,4.7
+5286,Italy,2024,10.2
+5287,Jamaica,2024,no data
+5288,Japan,2024,2.3
+5289,Jordan,2024,no data
+5290,Kazakhstan,2024,4.8
+5291,"Korea, Republic of",2024,3.9
+5292,Kosovo,2024,no data
+5293,Kuwait,2024,no data
+5294,Kyrgyz Republic,2024,6.6
+5295,Latvia,2024,7
+5296,Lithuania,2024,5.9
+5297,Luxembourg,2024,6.1
+5298,Macao SAR,2024,1.8
+5299,Malaysia,2024,3.3
+5300,Malta,2024,4
+5301,Mauritius,2024,7.3
+5302,Mexico,2024,4.2
+5303,Moldova,2024,3
+5304,Mongolia,2024,7.9
+5305,Morocco,2024,8.7
+5306,Netherlands,2024,4
+5307,New Zealand,2024,5.1
+5308,Nicaragua,2024,6.8
+5309,Nigeria,2024,no data
+5310,North Macedonia ,2024,15.7
+5311,Norway,2024,3.8
+5312,Pakistan,2024,5
+5313,Panama,2024,8.8
+5314,Paraguay,2024,5.8
+5315,Peru,2024,6.5
+5316,Philippines,2024,5.6
+5317,Poland,2024,4.5
+5318,Portugal,2024,6.2
+5319,Puerto Rico,2024,9
+5320,Romania,2024,5.5
+5321,Russian Federation,2024,4.6
+5322,San Marino,2024,8.4
+5323,Saudi Arabia,2024,no data
+5324,Serbia,2024,12
+5325,Seychelles,2024,3
+5326,Singapore,2024,2.1
+5327,Slovak Republic,2024,6.4
+5328,Slovenia,2024,4.6
+5329,South Africa,2024,37.6
+5330,Spain,2024,14.4
+5331,Sri Lanka,2024,4.4
+5332,Sudan,2024,19
+5333,Suriname,2024,9.6
+5334,Sweden,2024,7.2
+5335,Switzerland,2024,3
+5336,Syria,2024,no data
+5337,São Tomé and Príncipe,2024,no data
+5338,Taiwan Province of China,2024,3.8
+5339,Tajikistan,2024,no data
+5340,Thailand,2024,1
+5341,Trinidad and Tobago,2024,no data
+5342,Tunisia,2024,no data
+5343,Turkey,2024,8.7
+5344,Ukraine,2024,8.3
+5345,United Kingdom,2024,4.5
+5346,United States,2024,4.7
+5347,Uruguay,2024,8.1
+5348,Venezuela,2024,no data
+5349,Vietnam,2024,2.3
+5350,West Bank and Gaza,2024,26.4
+5351,Advanced economies,2024,5.3
+5352,Euro area,2024,7.7
+5353,Major advanced economies (G7),2024,4.9
+5354,Other advanced economies,2024,4.3
+5355,"©IMF, 2020",2024,
+5356,Albania,2025,11
+5357,Algeria,2025,18.1
+5358,Argentina,2025,9.1
+5359,Armenia,2025,20.7
+5360,Aruba,2025,7.9
+5361,Australia,2025,5.4
+5362,Austria,2025,4.5
+5363,Azerbaijan,2025,5.5
+5364,"Bahamas, The",2025,15.3
+5365,Bahrain,2025,3.7
+5366,Barbados,2025,10.9
+5367,Belarus,2025,0.5
+5368,Belgium,2025,5.6
+5369,Belize,2025,17.8
+5370,Bhutan,2025,no data
+5371,Bolivia,2025,4
+5372,Bosnia and Herzegovina,2025,14.5
+5373,Brazil,2025,10.8
+5374,Brunei Darussalam,2025,6.8
+5375,Bulgaria,2025,4.2
+5376,Cabo Verde,2025,8.5
+5377,Canada,2025,6.5
+5378,Chile,2025,7.1
+5379,"China, People's Republic of",2025,3.5
+5380,Colombia,2025,11.7
+5381,Costa Rica,2025,9.5
+5382,Croatia,2025,7.1
+5383,Cyprus,2025,5.1
+5384,Czech Republic,2025,2.8
+5385,Denmark,2025,5.6
+5386,Dominican Republic,2025,5.5
+5387,Ecuador,2025,4.1
+5388,Egypt,2025,9
+5389,El Salvador,2025,7
+5390,Estonia,2025,5
+5391,Fiji,2025,4.4
+5392,Finland,2025,6.5
+5393,France,2025,8.5
+5394,Georgia,2025,no data
+5395,Germany,2025,3.4
+5396,Greece,2025,12.7
+5397,Honduras,2025,4.5
+5398,Hong Kong SAR,2025,3.7
+5399,Hungary,2025,3.4
+5400,Iceland,2025,4
+5401,Indonesia,2025,5.3
+5402,Iran,2025,15.3
+5403,Ireland,2025,5.3
+5404,Israel,2025,4.7
+5405,Italy,2025,10.2
+5406,Jamaica,2025,no data
+5407,Japan,2025,2.3
+5408,Jordan,2025,no data
+5409,Kazakhstan,2025,4.8
+5410,"Korea, Republic of",2025,3.8
+5411,Kosovo,2025,no data
+5412,Kuwait,2025,no data
+5413,Kyrgyz Republic,2025,6.6
+5414,Latvia,2025,7
+5415,Lithuania,2025,5.6
+5416,Luxembourg,2025,6
+5417,Macao SAR,2025,1.7
+5418,Malaysia,2025,3.3
+5419,Malta,2025,4
+5420,Mauritius,2025,7.3
+5421,Mexico,2025,4
+5422,Moldova,2025,3
+5423,Mongolia,2025,7.1
+5424,Morocco,2025,8.5
+5425,Netherlands,2025,4
+5426,New Zealand,2025,5
+5427,Nicaragua,2025,6.4
+5428,Nigeria,2025,no data
+5429,North Macedonia ,2025,15.4
+5430,Norway,2025,3.8
+5431,Pakistan,2025,5
+5432,Panama,2025,8.8
+5433,Paraguay,2025,5.8
+5434,Peru,2025,6.5
+5435,Philippines,2025,5.1
+5436,Poland,2025,4.5
+5437,Portugal,2025,6
+5438,Puerto Rico,2025,8.5
+5439,Romania,2025,5.5
+5440,Russian Federation,2025,4.6
+5441,San Marino,2025,8.4
+5442,Saudi Arabia,2025,no data
+5443,Serbia,2025,11.6
+5444,Seychelles,2025,3
+5445,Singapore,2025,2.1
+5446,Slovak Republic,2025,6.6
+5447,Slovenia,2025,4.6
+5448,South Africa,2025,37.5
+5449,Spain,2025,14.2
+5450,Sri Lanka,2025,4.4
+5451,Sudan,2025,18.6
+5452,Suriname,2025,9.3
+5453,Sweden,2025,7.2
+5454,Switzerland,2025,3
+5455,Syria,2025,no data
+5456,São Tomé and Príncipe,2025,no data
+5457,Taiwan Province of China,2025,3.8
+5458,Tajikistan,2025,no data
+5459,Thailand,2025,1
+5460,Trinidad and Tobago,2025,no data
+5461,Tunisia,2025,no data
+5462,Turkey,2025,8.5
+5463,Ukraine,2025,8
+5464,United Kingdom,2025,4.2
+5465,United States,2025,4.4
+5466,Uruguay,2025,8
+5467,Venezuela,2025,no data
+5468,Vietnam,2025,2.3
+5469,West Bank and Gaza,2025,26.6
+5470,Advanced economies,2025,5.1
+5471,Euro area,2025,7.6
+5472,Major advanced economies (G7),2025,4.7
+5473,Other advanced economies,2025,4.2
+5474,"©IMF, 2020",2025,
