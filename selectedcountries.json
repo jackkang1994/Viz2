@@ -3,7 +3,7 @@
   "width": "container",
   "title": "Selected Countries GDP ",
   "data": {
-    "url": "https://raw.githubusercontent.com/jackkang1994/FIT3179/main/gdp_data.csv"
+    "url": "https://raw.githubusercontent.com/jackkang1994/Viz2/main/gdp_data.csv"
   },
   "params": [
     {
