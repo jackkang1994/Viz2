@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Average GDP Growth of Every Countries",
-  "width": "container",
+  "width": "400",
+  "height": "400,
   "data": {
     "url": "https://raw.githubusercontent.com/jackkang1994/Viz2/main/worldwide%20(1).json",
     "format": {"type": "topojson", "feature": "worldwide"}
