@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Average Unemployment rate from 2010 to 2014",
+  "width": "800",
+  "height": "600",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jackkang1994/FIT3179/main/worldwide%20(1).json",
+    "format": {"type": "topojson", "feature": "worldwide"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jackkang1994/FIT3179/main/gdpgrowth.csv"
+        },
+        "key": "Entity",
+        "fields": ["AverageGDP"]
+      }
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {"field": "AverageGDP", "type": "quantitative"},
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "Country"},
+      {
+        "field": "AverageGDP",
+        "type": "quantitative",
+        "title": "Average GDP Growth"
+      }
+    ]
+  },
+  "config": {}
+}
