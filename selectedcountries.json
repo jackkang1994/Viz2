@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "container",
+  "title": "Selected Countries GDP ",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jackkang1994/FIT3179/main/gdp_data.csv"
+  },
+  "params": [
+    {
+      "name": "Year_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 1960,
+        "max": 2015,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year > Year_Above"},
+    {
+      "filter": {
+        "or": [
+          {"field": "Country", "equal": "Australia"},
+          {"field": "Country", "equal": "China"},
+          {"field": "Country", "equal": "United States"},
+          {"field": "Country", "equal": "Malaysia"},
+          {"field": "Country", "equal": "Japan"}
+        ]
+      }
+    },
+    {"calculate": "datum.GDP/1000000000", "as": "Per billion"}
+  ],
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {
+      "field": "Per billion",
+      "type": "quantitative",
+      "title": "GDP ( billion )"
+    },
+    "color": {"field": "Country", "type": "nominal"}
+  },
+  "layer": [
+    {
+      "selection": {
+        "country_highlight": {
+          "type": "multi",
+          "fields": ["Country"],
+          "bind": "legend"
+        }
+      },
+      "mark": "line",
+      "encoding": {
+        "color": {"field": "Country", "type": "nominal", "legend": null},
+        "opacity": {
+          "condition": {"selection": "country_highlight", "value": 0.6},
+          "value": 0.2
+        }
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "left"},
+      "encoding": {
+        "text": {"field": "Country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {"test": "datum['Year'] == 2016", "value": 1},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Year", "type": "ordinal"},
+          {"field": "GDP", "type": "quantitative"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
