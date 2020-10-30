@@ -19,7 +19,7 @@
     }
   ],
   "transform": [
-    {"filter": "datum.Year > Year_Above"},
+    {"filter": "datum.Year >= Year_Above"},
     {
       "filter": {
         "or": [
