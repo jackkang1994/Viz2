@@ -34,7 +34,7 @@
     {"calculate": "datum.GDP/1000000000", "as": "Per billion"}
   ],
   "encoding": {
-    "x": {"field": "Year", "type": "ordinal"},
+    "x": {"field": "Year", "type": "ordinal", "axis":{"values":[1960,1970,1980,1990,2000,2010]}},
     "y": {
       "field": "Per billion",
       "type": "quantitative",
@@ -54,7 +54,7 @@
                   "#0553fa",
                   "#f5bf42",
                   "#3db7eb",
-                  "#37edb9",
+                  "#4ceb34",
                   "#fa2a05"
 
                 ]
