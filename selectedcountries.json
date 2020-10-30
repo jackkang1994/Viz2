@@ -90,7 +90,7 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Year", "type": "ordinal"},
-          {"field": "GDP", "type": "quantitative"}
+          {"field": "Per billion", "type": "quantitative", "title": "GDP (Per billion)"}
         ]
       }
     }
