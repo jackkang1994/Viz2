@@ -40,7 +40,25 @@
       "type": "quantitative",
       "title": "Unemployment Rate ( Percentage )"
     },
-    "color": {"field": "Country", "type": "nominal"}
+    "color": {"field": "Country", 
+              "type": "nominal",
+              "scale":{
+                "domain":[
+                  "United States",
+                  "China",
+                  "Australia",
+                  "Malaysia",
+                  "Japan"
+                ],
+                "range":[
+                  "#0553fa",
+                  "#f5bf42",
+                  "#3db7eb",
+                  "#37edb9",
+                  "#fa2a05"
+
+                ]
+              }}
   },
   "layer": [
     {
