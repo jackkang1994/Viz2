@@ -34,7 +34,7 @@
     {"calculate": "datum.Value", "as": "Percentage"}
   ],
   "encoding": {
-    "x": {"field": "Year", "type": "ordinal"},
+    "x": {"field": "Year", "type": "ordinal","axis":{"values":[1960,1970,1980,1990,2000,2010,2020]}},
     "y": {
       "field": "Percentage",
       "type": "quantitative",
