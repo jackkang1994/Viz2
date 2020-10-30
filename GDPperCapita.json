@@ -34,7 +34,7 @@
     {"calculate": "datum.GDPPerCapita/10000", "as": "Per billion"}
   ],
   "encoding": {
-    "x": {"field": "Year", "type": "ordinal"},
+    "x": {"field": "Year", "type": "ordinal",{"values":[1960,1970,1980,1990,2000,2010,2020]}},
     "y": {
       "field": "Per billion",
       "type": "quantitative",
