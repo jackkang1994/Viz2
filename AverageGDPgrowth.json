@@ -27,7 +27,8 @@
       {
         "field": "AverageGDP",
         "type": "quantitative",
-        "title": "Average GDP Growth"
+        "format": ".2f",
+        "title": "Average GDP Growth (Percentage)"
       }
     ]
   },
