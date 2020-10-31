@@ -63,6 +63,7 @@
           "value": 0.2
         }
       }
+      
     },
     {
       "mark": {"type": "text", "align": "left"},
@@ -79,7 +80,29 @@
           {"field": "Per billion", "type": "quantitative", "title": "GDP (Per billion)"}
         ]
       }
+    },
+    {
+      "mark": {"type": "text", "align": "center","baseline":"top","fontWeight":"bold"},
+      "encoding": {
+        "text": {"value": "China is surpassing Japan at Year 2006"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {"test": "datum['Year'] == 2006 && datum['Country'] == 'China'", "value": 1},
+          "value": 0
+        },
+        
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Year", "type": "ordinal"},
+          {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Unemployment rate (percentage)"
+          }
+        ]
+      }
     }
+
   ],
   "config": {}
 }
