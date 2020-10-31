@@ -95,9 +95,9 @@
           {"field": "Country", "type": "nominal"},
           {"field": "Year", "type": "ordinal"},
           {
-            "field": "Value",
+            "field": "Per billion",
             "type": "quantitative",
-            "title": "Unemployment rate (percentage)"
+            "title": "GDP (per billion)"
           }
         ]
       }
