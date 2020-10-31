@@ -14,14 +14,16 @@
           "url": "https://raw.githubusercontent.com/jackkang1994/Viz2/main/gdpgrowth.csv"
         },
         "key": "Entity",
-        "fields": ["AverageGDP"]
+        "fields":["AverageGDP"]
       }
-    }
+    },
+    {"calculate": "datum.AverageGDP", "as": "Average GDP Growth"}
+    
   ],
   "projection": {"type": "equirectangular"},
   "mark": {"type": "geoshape"},
   "encoding": {
-    "color": {"field": "AverageGDP", "type": "quantitative"},
+    "color": {"field": "Average GDP Growth", "type": "quantitative"},
     "tooltip": [
       {"field": "properties.name", "type": "nominal", "title": "Country"},
       {
