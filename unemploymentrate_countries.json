@@ -87,7 +87,7 @@
         {
       "mark": {"type": "text", "align": "left","fontWeight":"bold"},
       "encoding": {
-        "text": {"value": "Expected To drop due to Covid-19"},
+        "text": {"value": "Expected to drop due to Covid-19"},
         "color": {"value": "black"},
         "opacity": {
           "condition": {"test": "datum['Year'] == 2020 && datum['Country'] == 'United States'", "value": 1},
