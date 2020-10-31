@@ -85,9 +85,9 @@
       }
     },
         {
-      "mark": {"type": "text", "align": "left"},
+      "mark": {"type": "text", "align": "center","fontWeight":"bold","baseline":"bottom"},
       "encoding": {
-        "text": {"value": "Expected To drop due to Covid-19"},
+        "text": {"value": "Expected To drop at year after 2020 due to Covid-19"},
         "color": {"value": "black"},
         "opacity": {
           "condition": {"test": "datum['Year'] == 2020 && datum['Country'] == 'United States'", "value": 1},
