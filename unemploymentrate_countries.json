@@ -5,21 +5,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/jackkang1994/Viz2/main/unemploymentrate.csv"
   },
-  "params": [
-    {
-      "name": "Year_Above",
-      "value": 0,
-      "bind": {
-        "input": "range",
-        "min": 1960,
-        "max": 2015,
-        "step": 1,
-        "name": "Year: "
-      }
-    }
-  ],
   "transform": [
-    {"filter": "datum.Year >= Year_Above"},
     {
       "filter": {
         "or": [
