@@ -31,7 +31,7 @@
               "scale":{
                 "domain":[
                   "United States",
-                  "China",
+                  "China, People's Republic of",
                   "Australia",
                   "Malaysia",
                   "Japan"
@@ -64,7 +64,7 @@
         }
       }
     },
-    {
+      {
       "mark": {"type": "text", "align": "left"},
       "encoding": {
         "text": {"field": "Country", "type": "nominal"},
@@ -73,6 +73,27 @@
           "condition": {"test": "datum['Year'] == 2025", "value": 1},
           "value": 0
         },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Year", "type": "ordinal"},
+          {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Unemployment rate (percentage)"
+          }
+        ]
+      }
+    },
+        {
+      "mark": {"type": "text", "align": "left"},
+      "encoding": {
+        "text": {"value": "Expected To drop due to Covid-19"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {"test": "datum['Year'] == 2020 && datum['Country'] == 'United States'", "value": 1},
+          "value": 0
+        },
+        
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Year", "type": "ordinal"},
