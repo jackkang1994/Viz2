@@ -57,7 +57,6 @@
         "range": ["#0553fa", "#f5bf42", "#3db7eb", "#4ceb34", "#fa2a05"]
       }
     },
-
     "tooltip": [
       {"field": "Country", "type": "nominal"},
       {
@@ -74,7 +73,9 @@
       },
       {"field": "Population", "type": "quantitative"}
     ]
-      }
+
+
+    }
     },
     {
       "mark": {
