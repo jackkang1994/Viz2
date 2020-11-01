@@ -19,14 +19,13 @@
       }
     }
   ],
-  "mark": "circle",
   "encoding": {
     "x": {
       "field": "Spending",
-      "title": "Government Spending ( % of GDP )",
       "type": "quantitative",
+      "title": "Government Spending ( % of GDP )",
       "axis": {"tickCount": 7},
-      "scale": {"domain": [1, 100]}
+      "scale": {"domain": [1, 80]}
     },
     "y": {
       "field": "GDPpercapital",
@@ -34,7 +33,22 @@
       "title": "GDP Per Capita ($ USD)",
       "axis": {"tickCount": 7},
       "scale": {"domain": [1, 100000]}
-    },
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [10000000, 100000000, 300000000, 500000000],
+            "range": [100, 200, 400, 800, 1400]
+          },
+          "legend": {"format": ".1s"}
+        },
     "color": {
       "field": "Country",
       "type": "nominal",
@@ -43,16 +57,7 @@
         "range": ["#0553fa", "#f5bf42", "#3db7eb", "#4ceb34", "#fa2a05"]
       }
     },
-    "size": {
-      "field": "Population",
-      "type": "quantitative",
-      "scale": {
-        "type": "threshold",
-        "domain": [10000000, 100000000, 300000000, 500000000],
-        "range": [100, 200, 400, 800, 1500]
-      },
-      "legend": {"format": ".1s"}
-    },
+
     "tooltip": [
       {"field": "Country", "type": "nominal"},
       {
@@ -69,6 +74,29 @@
       },
       {"field": "Population", "type": "quantitative"}
     ]
-  },
-  "config": {}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dx": -15,
+        "fontSize": 11.5,
+        "dy": -15
+      },
+      "encoding": {
+        "text": {"value": ["Australia Government", "used 36.74% of GDP"]},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'Australia'",
+            "value": 1
+          },
+          "value": 0
+        }
+
+      }
+    }
+  ]
 }
