@@ -85,7 +85,7 @@
       }
     },
         {
-      "mark": {"type": "text", "align": "left","fontWeight":"bold"},
+      "mark": {"type": "text", "align": "left","fontSize": 11.5, "dx": 5,"dy":-10, "fontStyle": "italic"},
       "encoding": {
         "text": {"value": "Expected to drop due to Covid-19"},
         "color": {"value": "black"},
