@@ -65,7 +65,7 @@
       }
     },
       {
-      "mark": {"type": "text", "align": "left"},
+      "mark": {"type": "text", "align": "left","fontStyle": "italic"},
       "encoding": {
         "text": {"field": "Country", "type": "nominal"},
         "color": {"value": "black"},
@@ -85,7 +85,7 @@
       }
     },
         {
-      "mark": {"type": "text", "align": "left","fontSize": 11.5, "dx": 5,"dy":-10, "fontStyle": "italic"},
+      "mark": {"type": "text", "align": "left","fontSize": 11.5, "dx": 5,"dy":-10},
       "encoding": {
         "text": {"value": "Expected to drop due to Covid-19"},
         "color": {"value": "black"},
