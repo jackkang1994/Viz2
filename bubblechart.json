@@ -83,7 +83,8 @@
         "baseline": "bottom",
         "dx": -15,
         "fontSize": 11.5,
-        "dy": -15
+        "dy": -15,
+        "fontStyle": "italic"
       },
       "encoding": {
         "text": {"value": ["Australia Government", "used 36.74% of GDP"]},
