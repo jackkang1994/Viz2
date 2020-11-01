@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": "container",
-  "title": "Selected Countries GDP Per Capital ",
+  "title": "Selected Countries GDP Per Capita ",
   "data": {
     "url": "https://raw.githubusercontent.com/jackkang1994/Viz2/main/gdp_data.csv"
   },
