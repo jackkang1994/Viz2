@@ -82,7 +82,7 @@
       }
     },
     {
-      "mark": {"type": "text", "align": "center","baseline":"top","fontWeight":"bold"},
+      "mark": {"type": "text", "align": "center","baseline":"top","fontStyle":"italic","dy":4,"dx": 5},
       "encoding": {
         "text": {"value": "China is surpassing Japan at Year 2006"},
         "color": {"value": "black"},
