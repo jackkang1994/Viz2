@@ -24,7 +24,7 @@
     "y": {
       "field": "GDPPerCapita",
       "type": "quantitative",
-      "title": "GDP Per Capita"
+      "title": "GDP Per Capita ($ USD)"
     },
     "color": {"field": "Country", 
               "type": "nominal",
