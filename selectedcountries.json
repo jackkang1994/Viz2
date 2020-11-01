@@ -66,7 +66,7 @@
       
     },
     {
-      "mark": {"type": "text", "align": "left"},
+      "mark": {"type": "text", "align": "left","fontStyle": "italic"},
       "encoding": {
         "text": {"field": "Country", "type": "nominal"},
         "color": {"value": "black"},
@@ -82,7 +82,7 @@
       }
     },
     {
-      "mark": {"type": "text", "align": "center","baseline":"top","fontStyle":"italic","dy":4,"dx": 5},
+      "mark": {"type": "text", "align": "center","baseline":"top","dy":4,"dx": 20,"fontSize":11.5},
       "encoding": {
         "text": {"value": "China is surpassing Japan at Year 2006"},
         "color": {"value": "black"},
